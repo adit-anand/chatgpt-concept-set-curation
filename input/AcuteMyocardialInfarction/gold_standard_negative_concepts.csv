@@ -1,0 +1,144 @@
+concept_id,concept_name,rationale
+4236169,Ventricular aneurysm,Parent of gold-standard concept
+44782718,Acute combined systolic and diastolic heart failure,PHOEBE Recommendation
+44784623,Acute coronary artery occlusion not resulting in myocardial infarction,PHOEBE Recommendation
+46271075,Acute hypoxemic respiratory failure,PHOEBE Recommendation
+319844,Acute ischemic heart disease,PHOEBE Recommendation
+44782733,Acute on chronic combined systolic and diastolic heart failure,PHOEBE Recommendation
+40480602,Acute on chronic systolic heart failure,PHOEBE Recommendation
+261600,Acute pulmonary edema,PHOEBE Recommendation
+197320,Acute renal failure syndrome,PHOEBE Recommendation
+319049,Acute respiratory failure,PHOEBE Recommendation
+40480603,Acute systolic heart failure,PHOEBE Recommendation
+45767556,Anterior ST segment elevation,PHOEBE Recommendation
+3655971,Atrial cardiopathy,PHOEBE Recommendation
+198571,Cardiogenic shock,PHOEBE Recommendation
+4188331,Chronic pulmonary edema,PHOEBE Recommendation
+36712779,Chronic total occlusion of coronary artery,PHOEBE Recommendation
+319835,Congestive heart failure,PHOEBE Recommendation
+317576,Coronary arteriosclerosis,PHOEBE Recommendation
+42537730,Coronary artery graft present,PHOEBE Recommendation
+316995,Coronary occlusion,PHOEBE Recommendation
+37311078,Delayed postmyocardial infarction pericarditis,PHOEBE Recommendation
+4166245,Disorder of cardiac ventricle,PHOEBE Recommendation
+142026,Disorder of cardiovascular prostheses and implants,PHOEBE Recommendation
+37115756,Dissection of coronary artery,PHOEBE Recommendation
+4110961,Generalized ischemic myocardial dysfunction,PHOEBE Recommendation
+316139,Heart failure,PHOEBE Recommendation
+45767555,Inferior ST segment elevation,PHOEBE Recommendation
+4185932,Ischemic heart disease,PHOEBE Recommendation
+4153091,Left anterior descending coronary artery thrombosis,PHOEBE Recommendation
+4048534,Left coronary artery occlusion,PHOEBE Recommendation
+442982,Left ventricular abnormality,PHOEBE Recommendation
+606159,Mitral valve regurgitation due to acute myocardial infarction,PHOEBE Recommendation
+45766214,Mitral valve regurgitation due to acute myocardial infarction without papillary muscle and chordal rupture,PHOEBE Recommendation
+45771327,Mitral valve regurgitation due to acute myocardial infarction with papillary muscle and chordal rupture,PHOEBE Recommendation
+36712985,Mural thrombus of left ventricle following acute myocardial infarction,PHOEBE Recommendation
+42537536,Mural thrombus of right ventricle following acute myocardial infarction,PHOEBE Recommendation
+3655011,Occlusion of anterior descending branch of left coronary artery,PHOEBE Recommendation
+604426,Occlusion of circumflex branch of left coronary artery,PHOEBE Recommendation
+3655128,Occlusion of diagonal branch of anterior descending branch of left coronary artery,PHOEBE Recommendation
+3654821,Occlusion of distal left anterior descending coronary artery,PHOEBE Recommendation
+3655756,Occlusion of distal portion of right coronary artery,PHOEBE Recommendation
+3655134,Occlusion of intermediate artery,PHOEBE Recommendation
+3655758,Occlusion of marginal branch of right coronary artery,PHOEBE Recommendation
+3654820,Occlusion of mid left anterior descending coronary artery,PHOEBE Recommendation
+3655757,Occlusion of mid portion of right coronary artery,PHOEBE Recommendation
+3655759,Occlusion of posterior descending branch of right coronary artery,PHOEBE Recommendation
+3655760,Occlusion of posterior lateral branch of right coronary artery,PHOEBE Recommendation
+3654819,Occlusion of proximal left anterior descending coronary artery,PHOEBE Recommendation
+3655755,Occlusion of proximal portion of right coronary artery,PHOEBE Recommendation
+3655070,Occlusion of septal branch of anterior descending branch of left coronary artery,PHOEBE Recommendation
+314666,Old myocardial infarction,PHOEBE Recommendation
+437579,Paroxysmal ventricular tachycardia,PHOEBE Recommendation
+4322145,Pericarditis secondary to acute myocardial infarction,PHOEBE Recommendation
+4198141,Post infarct angina,PHOEBE Recommendation
+4119953,Post-infarction ventricular septal defect,PHOEBE Recommendation
+319038,Postmyocardial infarction syndrome,PHOEBE Recommendation
+315296,Preinfarction syndrome,PHOEBE Recommendation
+4046022,Right coronary artery occlusion,PHOEBE Recommendation
+4101621,Right ventricular abnormality,PHOEBE Recommendation
+609083,Rupture of interventricular septum following acute myocardial infarction,PHOEBE Recommendation
+4108220,Rupture of papillary muscle as current complication following acute myocardial infarction,PHOEBE Recommendation
+4176969,Sequelae of cardiovascular disorders,PHOEBE Recommendation
+4295129,ST segment elevation,PHOEBE Recommendation
+609068,Supraventricular tachycardia following acute myocardial infarction,PHOEBE Recommendation
+4126119,Toxic nephropathy,PHOEBE Recommendation
+36712982,Unstable angina co-occurrent and due to coronary arteriosclerosis,PHOEBE Recommendation
+40457757,Ventricular septal abnormality,PHOEBE Recommendation
+43021064,Aneurysm of patch of atrioventricular septal defect,SIbling of gold-standard concept
+40483752,Right ventricular aneurysm,SIbling of gold-standard concept
+4108722,Ventricular septal aneurysm,SIbling of gold-standard concept
+4182190,Left ventricular aneurysm,SIbling of gold-standard concept
+4185932,Ischemic heart disease,Parent of gold-standard concept
+4239975,Myocardial disease,Parent of gold-standard concept
+4354249,Myocardial necrosis,Parent of gold-standard concept
+43530876,Necrosis of anatomical site,Parent of gold-standard concept
+3655437,Cardiotoxicity,SIbling of gold-standard concept
+36717359,Systolic heart failure stage B due to ischemic cardiomyopathy,SIbling of gold-standard concept
+36712929,Systolic heart failure stage C due to ischemic cardiomyopathy,SIbling of gold-standard concept
+37397548,TMEM70 related mitochondrial encephalo-cardio-myopathy,SIbling of gold-standard concept
+3179232,Athletic heart syndrome: isometric training,SIbling of gold-standard concept
+43021324,Dysfunction of tricuspid valve papillary muscle,SIbling of gold-standard concept
+43020780,Disorder of fetal myocardium,SIbling of gold-standard concept
+43020653,Disorder of myocardium associated with rejection of cardiac transplant,SIbling of gold-standard concept
+43020655,Disorder of myocardium due to sickle cell hemoglobinopathy,SIbling of gold-standard concept
+4186397,Myocardial ischemia,SIbling of gold-standard concept
+4236722,Abscess of myocardium,SIbling of gold-standard concept
+439399,Endomyocardial fibrosis,SIbling of gold-standard concept
+4152603,Fibrosis of cardiac pacemaker electrode,SIbling of gold-standard concept
+314383,Myocarditis,SIbling of gold-standard concept
+4101168,Mitral papillary muscle abnormality,SIbling of gold-standard concept
+4100145,Tricuspid papillary muscle abnormality,SIbling of gold-standard concept
+4119593,Chronic myocardial disorder due to chemical or external agent,SIbling of gold-standard concept
+4124706,Myocardial dysfunction,SIbling of gold-standard concept
+4038688,AV junctional rhythm,SIbling of gold-standard concept
+4124698,Re-entrant atrioventricular node tachycardia,SIbling of gold-standard concept
+4266207,Cardiac beriberi,SIbling of gold-standard concept
+4201630,Transient myocardial ischemia,SIbling of gold-standard concept
+4221265,Endomyocardial disease,SIbling of gold-standard concept
+315830,Prinzmetal angina,SIbling of gold-standard concept
+4282902,Drug-related myocardial necrosis syndrome,SIbling of gold-standard concept
+4131458,Neoplasm of myocardium,SIbling of gold-standard concept
+316135,Atrioventricular block,SIbling of gold-standard concept
+321319,Cardiomyopathy,SIbling of gold-standard concept
+4143971,Mitral papillary muscle dysfunction,SIbling of gold-standard concept
+4263712,Subendocardial ischemia,SIbling of gold-standard concept
+4230954,Protozoan myocarditis,SIbling of gold-standard concept
+4069190,Congenital anomaly of myocardium,SIbling of gold-standard concept
+4121480,Ectopic atrioventricular node tachycardia,SIbling of gold-standard concept
+4099013,Gouty tophus of heart,SIbling of gold-standard concept
+4107225,Rupture of heart,Parent of gold-standard concept
+43021710,Rupture of right atrioventricular (not morphologically tricuspid) valve leaflet,SIbling of gold-standard concept
+43020632,Rupture of truncal valve cusp,SIbling of gold-standard concept
+43020623,Rupture of pulmonary valve cusp,SIbling of gold-standard concept
+43022048,Rupture of tricuspid valve leaflet,SIbling of gold-standard concept
+43022049,Rupture of left atrioventricular (not morphologically mitral) valve leaflet,SIbling of gold-standard concept
+4152594,Atrial rupture,SIbling of gold-standard concept
+4108602,Torn mitral leaflet,SIbling of gold-standard concept
+438171,Rupture of chordae tendineae,SIbling of gold-standard concept
+432937,Rupture of papillary muscle,SIbling of gold-standard concept
+4104178,Coronary artery rupture,SIbling of gold-standard concept
+4354065,Torn aortic cusp,SIbling of gold-standard concept
+4149712,Rupture of interventricular septum,SIbling of gold-standard concept
+44784217,Cardiac arrhythmia,Parent of gold-standard concept
+321588,Heart disease,Parent of gold-standard concept
+766249,Exacerbation of cardiac arrhythmia,SIbling of gold-standard concept
+37108582,Arrhythmia during surgery,SIbling of gold-standard concept
+36715370,Heart-hand syndrome type 2,SIbling of gold-standard concept
+46284985,Holiday heart syndrome,SIbling of gold-standard concept
+45757098,Cardiac arrhythmia in mother complicating childbirth,SIbling of gold-standard concept
+44784235,Cardiac channelopathy,SIbling of gold-standard concept
+44784234,Cardiac arrhythmia associated with genetic disorder,SIbling of gold-standard concept
+43020930,Arrhythmia due to vegetation of infective endocarditis,SIbling of gold-standard concept
+40484036,Bundle branch reentrant ventricular tachycardia,SIbling of gold-standard concept
+4228448,Bradyarrhythmia,SIbling of gold-standard concept
+321042,Cardiac arrest,SIbling of gold-standard concept
+4172863,Fetal dysrhythmia,SIbling of gold-standard concept
+316429,Premature beats,SIbling of gold-standard concept
+4086313,Withdrawal arrhythmia,SIbling of gold-standard concept
+316999,Conduction disorder of the heart,SIbling of gold-standard concept
+4030583,Cardiac pacemaker twiddler syndrome,SIbling of gold-standard concept
+4175473,Atrioventricular dissociation,SIbling of gold-standard concept
+4092011,Aberrantly conducted complex,SIbling of gold-standard concept
+4088507,Ventricular escape complex,SIbling of gold-standard concept
