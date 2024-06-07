@@ -1,0 +1,504 @@
+concept_name,concept_id,include,rationale
+Heart disease,321588,False,"No.
+
+Rationale: Heart disease is a broad term that encompasses a variety of conditions affecting the heart, including coronary artery disease, heart failure, arrhythmias, and more. While pulmonary hypertension (PH) can lead to right ventricular dysfunction and heart failure, not all cases of heart disease are caused by or associated with PH. Therefore, having heart disease does not specifically indicate that one has pulmonary hypertension. Conversely, a person with pulmonary hypertension may develop heart disease, particularly right heart failure, but this is not universally the case for all heart disease patients. Thus, heart disease is not specific to pulmonary hypertension."
+Soft tissue lesion,4344497,False,"No.
+
+A soft tissue lesion is not specific to Pulmonary Hypertension (PH). Soft tissue lesions can arise from a variety of causes, including trauma, infections, benign or malignant tumors, and inflammatory conditions. They are not directly related to the pathophysiology of PH, which involves elevated blood pressure within the pulmonary vasculature and right ventricular dysfunction. While a patient with PH might coincidentally have a soft tissue lesion, the presence of a soft tissue lesion does not definitively indicate that the patient has PH. Therefore, the condition of having a soft tissue lesion is not specific to the malady of Pulmonary Hypertension."
+Hypertensive disorder,316866,False,"No.
+
+Rationale: A hypertensive disorder generally refers to conditions characterized by elevated blood pressure, such as essential hypertension, secondary hypertension, or hypertensive crisis. While pulmonary hypertension (PH) involves elevated blood pressure within the pulmonary arteries, it is a specific type of hypertension that affects the lungs and the right side of the heart. 
+
+Having a hypertensive disorder does not necessarily mean that one has pulmonary hypertension. Essential hypertension, for example, primarily affects systemic arterial blood pressure and does not imply elevated pressure in the pulmonary arteries. Conversely, pulmonary hypertension can occur in the absence of systemic hypertension. Therefore, the condition of having a hypertensive disorder is not specific to pulmonary hypertension."
+Complication,433128,False,"No, the condition ""complication"" is not specific to the malady ""Pulmonary Hypertension.""
+
+Rationale:
+- The term ""complication"" is a broad and non-specific term that refers to any secondary condition or disease that develops as a consequence of an existing disease or condition. Complications can arise from a wide variety of primary conditions and are not unique to any single disease.
+- Pulmonary Hypertension (PH) can indeed lead to various complications, such as right heart failure, arrhythmias, or thromboembolic events. However, the presence of a complication does not definitively indicate that a person has PH, as complications can occur in the context of many other diseases and conditions.
+- Therefore, while complications can occur in the course of PH, they are not specific to PH and can be seen in numerous other medical conditions."
+Mass of soft tissue,40481517,False,"No, a mass of soft tissue is not specific to Pulmonary Hypertension (PH).
+
+Rationale:
+A mass of soft tissue can be indicative of a wide range of medical conditions, including benign tumors, malignant tumors, infections, inflammatory conditions, and other non-neoplastic processes. It is not specific to Pulmonary Hypertension. PH is characterized by elevated blood pressure within the pulmonary vasculature and is diagnosed through hemodynamic measurements such as mean pulmonary arterial pressure (mPAP) greater than or equal to 20 mmHg at rest, typically assessed by right heart catheterization. The presence of a soft tissue mass does not directly correlate with the pathophysiological mechanisms or diagnostic criteria of PH. Therefore, having a mass of soft tissue does not definitively indicate that a person has Pulmonary Hypertension."
+Disorder of lung,257907,False,"No.
+
+Rationale: While Pulmonary Hypertension (PH) can be associated with various lung disorders, having a lung disorder does not definitively mean that a person has PH. Lung disorders encompass a wide range of conditions, including chronic obstructive pulmonary disease (COPD), interstitial lung disease, and asthma, among others. Although these conditions can contribute to the development of PH, they do not necessarily indicate its presence. PH is specifically diagnosed based on elevated mean pulmonary arterial pressure (mPAP) measured by right heart catheterization, and not all individuals with lung disorders will have this elevated pressure. Therefore, the condition ""Disorder of lung"" is not specific to the malady ""Pulmonary Hypertension."""
+Disorder of artery,321887,False,"No.
+
+Rationale: While Pulmonary Hypertension (PH) involves elevated blood pressure within the pulmonary arteries, the term ""disorder of artery"" is too broad and nonspecific. Disorders of arteries can encompass a wide range of conditions affecting any artery in the body, such as atherosclerosis, aneurysms, and peripheral artery disease, among others. Therefore, having a disorder of an artery does not definitively mean that one has Pulmonary Hypertension. PH is a specific condition related to the pulmonary arteries and requires specific diagnostic criteria, such as an increased mean pulmonary arterial pressure (mPAP) greater than or equal to 20 mmHg at rest, confirmed by right heart catheterization."
+Disorder of connective tissue,253549,False,"No.
+
+Rationale: A disorder of connective tissue is not specific to Pulmonary Hypertension (PH). While connective tissue disorders, such as systemic sclerosis or lupus, can be associated with the development of PH, having a connective tissue disorder does not definitively mean that a person has PH. Connective tissue disorders can lead to a variety of complications and conditions, and PH is just one potential manifestation among many. Therefore, the presence of a connective tissue disorder does not specifically indicate that a person has PH."
+Heart failure,316139,False,"No.
+
+Rationale: Heart failure is not specific to Pulmonary Hypertension (PH). While PH can lead to right ventricular dysfunction and ultimately heart failure, heart failure itself can result from a wide variety of other conditions, including coronary artery disease, hypertension, valvular heart disease, and cardiomyopathies, among others. Therefore, having heart failure does not definitively mean that a person has PH. Heart failure is a common condition with multiple etiologies, and it is not exclusive to PH."
+Heart valve disorder,4281749,False,"No.
+
+A heart valve disorder is not specific to Pulmonary Hypertension (PH). While heart valve disorders can be associated with or contribute to the development of PH, they are not exclusive to it. Heart valve disorders can occur independently of PH and are associated with a variety of other conditions, such as left heart disease, which is a common cause of secondary pulmonary hypertension. Therefore, having a heart valve disorder does not definitively mean that a person has PH."
+Atrial fibrillation,313217,False,"No.
+
+Atrial fibrillation (AF) is not specific to Pulmonary Hypertension (PH). While AF can occur in patients with PH due to the strain and remodeling of the heart, particularly the right atrium, it is not exclusive to PH. AF is a common arrhythmia that can result from a variety of cardiovascular conditions, including hypertension, coronary artery disease, valvular heart disease, and heart failure, among others. Therefore, the presence of AF does not definitively indicate that a patient has PH."
+Congestive heart failure,319835,False,"No.
+
+Rationale: Congestive heart failure (CHF) is not specific to Pulmonary Hypertension (PH). While PH can lead to right ventricular dysfunction and ultimately heart failure, CHF can result from a variety of other conditions as well, such as coronary artery disease, hypertension, valvular heart disease, and cardiomyopathies. Therefore, having CHF does not definitively mean that a person has PH. CHF is a broader condition that can be caused by multiple etiologies, not just PH."
+Chronic disease of cardiovascular system,4028244,False,"No.
+
+Rationale: While Pulmonary Hypertension (PH) is indeed a chronic disease that affects the cardiovascular system, the condition ""chronic disease of cardiovascular system"" is not specific to PH. There are numerous chronic cardiovascular diseases, such as coronary artery disease, heart failure, arrhythmias, and hypertension, among others. Therefore, having a chronic disease of the cardiovascular system does not definitively mean that a person has Pulmonary Hypertension."
+Renal failure syndrome,192359,False,"No, renal failure syndrome is not specific to pulmonary hypertension.
+
+**Rationale:**
+
+1. **Definition and Etiology**: Renal failure syndrome, also known as kidney failure, is a condition where the kidneys lose their ability to filter waste and balance fluids and electrolytes in the body. It can result from various causes, including chronic conditions like diabetes and hypertension, acute conditions like severe infections or toxins, and other systemic diseases.
+
+2. **Association with Pulmonary Hypertension**: While renal failure can be a complication or a coexisting condition in patients with pulmonary hypertension, it is not specific to PH. Renal failure can occur in a wide range of other medical conditions and is not exclusively linked to elevated pulmonary arterial pressure.
+
+3. **Pathophysiology**: Pulmonary hypertension primarily affects the pulmonary vasculature and the right side of the heart, whereas renal failure primarily affects the kidneys. Although there can be interactions between heart and kidney function (e.g., cardiorenal syndrome), the presence of renal failure does not definitively indicate the presence of pulmonary hypertension.
+
+4. **Diagnostic Criteria**: The diagnosis of pulmonary hypertension is based on specific hemodynamic criteria (mPAP ≥ 20 mmHg) assessed by right heart catheterization, along with clinical symptoms and other diagnostic tests. Renal failure is diagnosed based on kidney function tests, such as serum creatinine and glomerular filtration rate (GFR), which are unrelated to the hemodynamic measurements used to diagnose PH.
+
+In summary, while renal failure can occur in patients with pulmonary hypertension, it is not a condition that, if present, definitively indicates the presence of pulmonary hypertension. Therefore, the answer is ""no."""
+Chronic heart disease,4134586,False,"No.
+
+Chronic heart disease is not specific to Pulmonary Hypertension (PH). While chronic heart disease can be associated with or lead to the development of PH, it is not exclusive to PH. Chronic heart disease encompasses a wide range of heart conditions, including coronary artery disease, heart failure, and valvular heart disease, among others. These conditions can exist independently of PH and are prevalent in the general population.
+
+In other words, having chronic heart disease does not definitively mean that a person has Pulmonary Hypertension. Chronic heart disease can lead to various complications, and PH is just one of the potential outcomes. Therefore, the presence of chronic heart disease is not specific to PH."
+Disorder of vein,4234997,False,"No.
+
+Rationale: A ""disorder of vein"" is a broad term that encompasses a variety of conditions affecting the veins, such as varicose veins, deep vein thrombosis (DVT), and chronic venous insufficiency. While pulmonary hypertension (PH) involves elevated blood pressure within the pulmonary arteries, it is not specifically a disorder of the veins. PH is primarily a condition affecting the pulmonary vasculature (arteries) and the right side of the heart. Therefore, having a ""disorder of vein"" does not definitively indicate the presence of pulmonary hypertension."
+Complication of procedure,442019,False,"No, a ""complication of procedure"" is not specific to Pulmonary Hypertension (PH).
+
+Rationale:
+A ""complication of procedure"" is a broad term that can refer to any adverse event or unintended outcome resulting from a medical or surgical procedure. These complications can occur in a wide range of medical contexts and are not specific to any single disease or condition. While it is possible for a complication of a procedure to lead to or exacerbate pulmonary hypertension (for example, if a procedure affects the pulmonary vasculature or heart function), the presence of a complication of a procedure does not definitively indicate that a patient has pulmonary hypertension. Therefore, the condition ""complication of procedure"" is not specific to the malady ""Pulmonary Hypertension."""
+Effect of exposure to physical force,4167864,False,"No.
+
+Rationale: The condition ""effect of exposure to physical force"" is not specific to Pulmonary Hypertension (PH). Exposure to physical force can lead to a variety of injuries and conditions, such as trauma, fractures, contusions, and other physical injuries, but it is not directly related to the pathophysiology of PH. Pulmonary Hypertension is primarily related to elevated blood pressure within the pulmonary vasculature and is associated with various etiologies such as idiopathic causes, connective tissue diseases, congenital heart defects, and chronic lung diseases. Therefore, having a history of exposure to physical force does not definitively indicate the presence of Pulmonary Hypertension."
+Human immunodeficiency virus infection,439727,False,"No.
+
+Rationale:
+Human immunodeficiency virus (HIV) infection is not specific to Pulmonary Hypertension (PH). While HIV infection can be one of the etiologies that may lead to the development of PH, having HIV does not definitively mean that a person has PH. PH can result from a variety of causes, including idiopathic, heritable, drug-induced, and associated with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases. Therefore, the presence of HIV infection alone does not confirm the presence of PH, making it not specific to PH."
+Interstitial lung disease,4119786,False,"No.
+
+Interstitial lung disease (ILD) is not specific to Pulmonary Hypertension (PH). While ILD can be one of the causes or associated conditions that may lead to the development of PH, having ILD does not definitively mean that a person has PH. ILD encompasses a group of lung disorders that cause scarring (fibrosis) of the lungs, which can lead to respiratory symptoms and impaired lung function. Although ILD can contribute to elevated pulmonary pressures and potentially result in PH, it is not a condition that exclusively indicates the presence of PH. Therefore, the presence of ILD does not mean that a person definitely has PH."
+Chronic obstructive lung disease,255573,False,"No.
+
+Chronic obstructive lung disease (COPD) is not specific to Pulmonary Hypertension (PH). While COPD can be a contributing factor or associated condition that may lead to the development of PH, having COPD does not definitively mean that a person has PH. COPD is a common respiratory condition characterized by persistent respiratory symptoms and airflow limitation due to airway and/or alveolar abnormalities, typically caused by significant exposure to noxious particles or gases, such as tobacco smoke.
+
+PH can develop as a complication of COPD, particularly in severe cases, but not all individuals with COPD will develop PH. Therefore, the presence of COPD does not specifically indicate the presence of PH."
+Congenital heart disease,312723,False,"No.
+
+Congenital heart disease (CHD) is not specific to Pulmonary Hypertension (PH). While CHD can be one of the etiologies that lead to the development of PH, having CHD does not definitively mean that a person has PH. CHD encompasses a wide range of structural heart defects present from birth, and not all individuals with CHD will develop PH. Therefore, the presence of CHD does not specifically indicate the presence of PH, although it can be a contributing factor."
+Sleep disorder,435524,False,"No, a sleep disorder is not specific to Pulmonary Hypertension (PH).
+
+Rationale:
+A sleep disorder, which encompasses a wide range of conditions such as insomnia, sleep apnea, restless legs syndrome, and narcolepsy, is not specific to Pulmonary Hypertension. While sleep disorders, particularly obstructive sleep apnea (OSA), can be associated with or exacerbate PH, having a sleep disorder does not definitively indicate that a person has PH. Sleep disorders are common and can occur independently of PH, and they are associated with a variety of other health conditions, including cardiovascular diseases, metabolic disorders, and mental health issues.
+
+Therefore, the presence of a sleep disorder does not mean that a person definitely has Pulmonary Hypertension, making it not specific to the malady."
+Chronic renal failure,198185,False,"No, chronic renal failure is not specific to pulmonary hypertension.
+
+**Rationale:**
+
+1. **Definition and Etiology**:
+   - **Pulmonary Hypertension (PH)**: PH is characterized by elevated blood pressure in the pulmonary arteries, leading to right ventricular dysfunction and potentially heart failure. It can result from various causes, including idiopathic, heritable, drug-induced, and associated with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases.
+   - **Chronic Renal Failure (CRF)**: CRF, also known as chronic kidney disease (CKD), is a condition characterized by a gradual loss of kidney function over time. It can result from a variety of causes, including diabetes, hypertension, glomerulonephritis, and polycystic kidney disease.
+
+2. **Pathophysiology**:
+   - **PH**: The primary issue in PH is elevated pulmonary arterial pressure, which affects the heart and lungs.
+   - **CRF**: The primary issue in CRF is the progressive loss of kidney function, which affects the body's ability to filter waste and balance fluids and electrolytes.
+
+3. **Association**:
+   - While CRF can lead to secondary complications that might affect the cardiovascular system, including the development of hypertension and potentially contributing to PH, it is not a direct or specific indicator of PH. Many patients with CRF do not develop PH.
+   - Conversely, PH can occur in patients without any renal impairment.
+
+4. **Specificity**:
+   - For a condition to be specific to a malady, the presence of the condition must definitively indicate the presence of the malady. In this case, having chronic renal failure does not definitively indicate that a patient has pulmonary hypertension. Chronic renal failure can exist independently of pulmonary hypertension and is associated with a wide range of other complications and conditions.
+
+Therefore, chronic renal failure is not specific to pulmonary hypertension."
+Disorder of pulmonary circulation,433208,False,"No.
+
+Rationale: A ""disorder of pulmonary circulation"" is a broad term that encompasses any condition affecting the blood vessels in the lungs. While Pulmonary Hypertension (PH) is indeed a specific type of disorder of the pulmonary circulation, not all disorders of pulmonary circulation are PH. For example, other conditions such as pulmonary embolism, pulmonary arteriovenous malformations, or chronic thromboembolic pulmonary disease also fall under the category of disorders of pulmonary circulation but are not classified as PH. Therefore, having a disorder of pulmonary circulation does not definitively mean that one has Pulmonary Hypertension."
+Myeloproliferative disorder,4175485,False,"No.
+
+Rationale: Myeloproliferative disorders (MPDs) are a group of diseases that involve the overproduction of blood cells in the bone marrow. These disorders include conditions such as polycythemia vera, essential thrombocythemia, and primary myelofibrosis. While MPDs can lead to various complications, including an increased risk of blood clots and bleeding, they are not specific to Pulmonary Hypertension (PH).
+
+PH can be associated with a wide range of underlying conditions, including connective tissue diseases, congenital heart defects, and chronic lung diseases, among others. However, the presence of a myeloproliferative disorder does not definitively indicate that a person has PH. While there may be some overlap in patients who have both conditions, having a myeloproliferative disorder alone is not specific to having PH. Therefore, the condition of having a myeloproliferative disorder does not meet the criteria of being specific to Pulmonary Hypertension."
+Idiopathic disease,442106,False,"No.
+
+Rationale: Idiopathic disease refers to a condition that arises spontaneously or for which the cause is unknown. While idiopathic pulmonary hypertension (IPH) is a specific subset of pulmonary hypertension (PH), not all cases of PH are idiopathic. PH can result from a variety of known causes, including connective tissue diseases, congenital heart defects, chronic lung diseases, and more. Therefore, having an idiopathic disease does not definitively mean that one has pulmonary hypertension, as idiopathic diseases can pertain to many different conditions beyond PH."
+Pulmonary artery finding,4108173,False,"No.
+
+Rationale: A ""pulmonary artery finding"" is a broad term that can encompass a variety of abnormalities or observations related to the pulmonary artery. These findings could include structural abnormalities, changes in pressure, or other pathophysiological changes. While an abnormal finding in the pulmonary artery could be indicative of Pulmonary Hypertension (PH), it is not specific to PH alone. Pulmonary artery findings could also be associated with other conditions such as congenital heart defects, pulmonary embolism, or other forms of pulmonary arterial hypertension not related to PH. Therefore, having a pulmonary artery finding does not definitively mean that a person has Pulmonary Hypertension."
+Autosomal recessive hereditary disorder,4312226,False,"No.
+
+Rationale: An autosomal recessive hereditary disorder is a type of genetic condition that is inherited in an autosomal recessive pattern, meaning that an individual must inherit two copies of the defective gene (one from each parent) to express the disorder. While some forms of Pulmonary Hypertension (PH) can be heritable, PH itself is not exclusively an autosomal recessive hereditary disorder. PH can result from a variety of etiologies, including idiopathic, heritable (which can follow different inheritance patterns), drug-induced, and associated with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases. Therefore, having an autosomal recessive hereditary disorder does not specifically indicate that one has PH."
+Lymphadenopathy,315085,False,"No.
+
+Lymphadenopathy, which refers to the enlargement of lymph nodes, is not specific to Pulmonary Hypertension (PH). Lymphadenopathy can be caused by a wide range of conditions, including infections, autoimmune diseases, malignancies, and other systemic diseases. While it is possible for a patient with PH to also have lymphadenopathy, the presence of lymphadenopathy alone does not definitively indicate that a person has PH. Therefore, lymphadenopathy is not specific to Pulmonary Hypertension."
+Right ventricular failure,4273632,False,"No.
+
+Right ventricular failure (RVF) is not specific to Pulmonary Hypertension (PH). While RVF is a common consequence of PH due to the increased pressure load on the right ventricle, it can also result from other conditions. These include left heart disease, myocardial infarction affecting the right ventricle, congenital heart diseases, and other forms of pulmonary arterial hypertension not related to PH. Therefore, the presence of right ventricular failure does not definitively indicate that a patient has Pulmonary Hypertension, as it can be caused by various other cardiac and pulmonary conditions."
+Cor pulmonale,4307356,False,"No.
+
+Cor pulmonale is a condition characterized by right ventricular hypertrophy and eventual right heart failure due to pulmonary hypertension (PH) or other lung disorders. While cor pulmonale can be a consequence of pulmonary hypertension, it is not specific to PH alone. Cor pulmonale can also result from chronic obstructive pulmonary disease (COPD), interstitial lung disease, or other chronic lung conditions that lead to increased pressure in the pulmonary arteries and subsequent right heart strain.
+
+Therefore, having cor pulmonale does not definitively mean that a person has pulmonary hypertension, as it can be caused by other pulmonary conditions as well."
+Chronic right-sided heart failure,4014159,False,"No.
+
+Chronic right-sided heart failure is not specific to Pulmonary Hypertension (PH). While chronic right-sided heart failure can be a consequence of PH due to the increased pressure load on the right ventricle, it can also result from other conditions. These include left-sided heart failure, chronic lung diseases (such as chronic obstructive pulmonary disease or interstitial lung disease), congenital heart defects, and other causes of chronic pressure overload or volume overload on the right ventricle.
+
+Therefore, while chronic right-sided heart failure can be seen in patients with PH, its presence does not definitively indicate that a patient has PH, as it can be caused by a variety of other conditions."
+Chronic cor pulmonale,4195892,False,"No.
+
+Chronic cor pulmonale is a condition characterized by the enlargement and failure of the right ventricle of the heart as a response to increased vascular resistance or high blood pressure in the lungs (pulmonary hypertension). While chronic cor pulmonale can be a consequence of pulmonary hypertension, it is not specific to it. Pulmonary hypertension can result from various causes, and not all patients with pulmonary hypertension will develop chronic cor pulmonale. Therefore, having chronic cor pulmonale does not definitively mean that a person has pulmonary hypertension, as it can also be associated with other conditions affecting the lungs and heart."
+Immunodeficiency disorder,433740,False,"No, an immunodeficiency disorder is not specific to Pulmonary Hypertension (PH).
+
+Rationale:
+An immunodeficiency disorder refers to a state where the immune system's ability to fight infectious disease and cancer is compromised or entirely absent. While individuals with immunodeficiency disorders may be at increased risk for various infections and complications, including those that could potentially affect the lungs and cardiovascular system, the presence of an immunodeficiency disorder does not definitively indicate that a person has Pulmonary Hypertension.
+
+Pulmonary Hypertension is specifically characterized by elevated blood pressure in the pulmonary arteries and is diagnosed through specific hemodynamic criteria, such as a mean pulmonary arterial pressure (mPAP) greater than or equal to 20 mmHg at rest, confirmed by right heart catheterization. The etiologies of PH are diverse and include idiopathic, heritable, drug-induced causes, and associations with other conditions like connective tissue diseases, congenital heart defects, or chronic lung diseases.
+
+While an immunodeficiency disorder could potentially contribute to conditions that might lead to PH (e.g., recurrent lung infections leading to chronic lung disease), it is not a direct or specific indicator of PH. Therefore, having an immunodeficiency disorder does not mean that a person definitely has Pulmonary Hypertension."
+Diastolic heart failure,443587,False,"No, diastolic heart failure is not specific to pulmonary hypertension.
+
+**Rationale:**
+
+Diastolic heart failure, also known as heart failure with preserved ejection fraction (HFpEF), is a condition where the heart's ventricles do not relax properly during diastole, leading to inadequate filling of the heart with blood. This condition can result from various causes, including hypertension, aging, obesity, diabetes, and coronary artery disease.
+
+While pulmonary hypertension (PH) can lead to right ventricular dysfunction and eventually heart failure, it does not exclusively cause diastolic heart failure. Diastolic heart failure can occur due to a variety of other conditions that do not involve elevated pulmonary arterial pressure. Therefore, having diastolic heart failure does not definitively indicate that a person has pulmonary hypertension.
+
+In summary, diastolic heart failure is not specific to pulmonary hypertension because it can arise from multiple other etiologies unrelated to PH."
+Pulmonary embolism,440417,False,"No.
+
+A pulmonary embolism (PE) is not specific to Pulmonary Hypertension (PH). While a PE can lead to PH if it causes chronic thromboembolic pulmonary hypertension (CTEPH), not all cases of PH are caused by PE. PH can result from a variety of other etiologies, including idiopathic causes, heritable factors, drug-induced conditions, and associations with other diseases such as connective tissue diseases, congenital heart defects, or chronic lung diseases. Therefore, having a pulmonary embolism does not definitively mean that a person has PH, although it can be one of the contributing factors."
+Congenital septal defect of heart,4245646,False,"No.
+
+A congenital septal defect of the heart, such as an atrial septal defect (ASD) or ventricular septal defect (VSD), is a structural abnormality present at birth that involves a hole in the septum separating the heart's chambers. While congenital septal defects can lead to increased blood flow to the lungs and potentially contribute to the development of pulmonary hypertension (PH) over time, the presence of a congenital septal defect alone does not definitively indicate that a person has PH.
+
+Pulmonary hypertension is a specific condition characterized by elevated pulmonary arterial pressure, which can result from various underlying causes, including congenital heart defects. However, not all individuals with congenital septal defects will develop PH. Therefore, having a congenital septal defect of the heart is not specific to having pulmonary hypertension."
+Right ventricular abnormality,4101621,False,"No.
+
+Rationale: While right ventricular abnormality is a common consequence of Pulmonary Hypertension (PH) due to the increased pressure load on the right side of the heart, it is not specific to PH. Right ventricular abnormalities can also occur in other conditions such as left heart disease, congenital heart disease, myocardial infarction, and other forms of heart failure. Therefore, the presence of a right ventricular abnormality does not definitively indicate that a person has Pulmonary Hypertension."
+Acute systolic heart failure,40480603,False,"No.
+
+Acute systolic heart failure is not specific to Pulmonary Hypertension (PH). While PH can lead to right ventricular dysfunction and heart failure, acute systolic heart failure can result from a variety of other causes, including ischemic heart disease, hypertension, valvular heart disease, and cardiomyopathies. Therefore, having acute systolic heart failure does not definitively indicate that a person has PH."
+Renal tubular disorder,4318544,False,"No.
+
+A renal tubular disorder is not specific to Pulmonary Hypertension (PH). Renal tubular disorders refer to a group of conditions that affect the renal tubules in the kidneys, leading to issues with electrolyte balance, acid-base balance, and other kidney functions. While renal tubular disorders can have various causes and manifestations, they are not directly indicative of PH.
+
+PH is primarily a condition related to elevated blood pressure in the pulmonary arteries and is associated with right ventricular dysfunction and heart failure. It can result from a variety of etiologies, including idiopathic, heritable, drug-induced, and conditions associated with connective tissue diseases, congenital heart defects, or chronic lung diseases. The symptoms and diagnostic criteria for PH are focused on the pulmonary and cardiovascular systems.
+
+While it is possible for a patient with PH to also have a renal tubular disorder, the presence of a renal tubular disorder does not definitively indicate that the patient has PH. Therefore, a renal tubular disorder is not specific to Pulmonary Hypertension."
+Sarcoidosis,438688,False,"No.
+
+Sarcoidosis is not specific to Pulmonary Hypertension (PH). Sarcoidosis is an inflammatory disease that affects multiple organs in the body, most commonly the lungs and lymph glands. It is characterized by the formation of granulomas—clusters of immune cells—in affected tissues. While sarcoidosis can lead to pulmonary complications, including pulmonary hypertension, it is not specific to PH. 
+
+In other words, having sarcoidosis does not mean that a person definitely has pulmonary hypertension. Sarcoidosis can exist without causing PH, and PH can be caused by a variety of other conditions unrelated to sarcoidosis. Therefore, sarcoidosis is not a condition that is specific to pulmonary hypertension."
+Chronic diastolic heart failure,40479576,False,"No.
+
+Chronic diastolic heart failure, also known as heart failure with preserved ejection fraction (HFpEF), is a condition where the heart's ventricles are stiff and do not relax properly, leading to inadequate filling of the heart with blood during the diastolic phase. This condition can lead to symptoms such as dyspnea, fatigue, and fluid retention.
+
+While chronic diastolic heart failure can be associated with pulmonary hypertension (PH), it is not specific to PH. Pulmonary hypertension can result from a variety of underlying conditions, including left heart disease (which includes chronic diastolic heart failure), but also from other causes such as idiopathic pulmonary arterial hypertension, connective tissue diseases, congenital heart defects, and chronic lung diseases.
+
+Therefore, having chronic diastolic heart failure does not definitively mean that a person has pulmonary hypertension, as chronic diastolic heart failure can exist without PH. Conversely, a person with PH may or may not have chronic diastolic heart failure, depending on the underlying etiology of their PH."
+Mitral valve stenosis,315273,False,"No.
+
+Mitral valve stenosis is not specific to Pulmonary Hypertension (PH). While mitral valve stenosis can lead to increased pressure in the pulmonary vasculature and potentially contribute to the development of pulmonary hypertension, it is not a condition that definitively indicates the presence of PH. Mitral valve stenosis is a narrowing of the mitral valve opening, which can cause increased pressure in the left atrium and subsequently in the pulmonary veins and arteries, potentially leading to secondary pulmonary hypertension. However, pulmonary hypertension can arise from a variety of other causes, including idiopathic origins, connective tissue diseases, chronic lung diseases, and more, as described in the malady description.
+
+Therefore, having mitral valve stenosis does not mean that a person definitely has pulmonary hypertension, even though it can be a contributing factor."
+Venous hypertension,312935,False,"No.
+
+Venous hypertension is not specific to Pulmonary Hypertension (PH). Venous hypertension refers to elevated pressure in the venous system, which is typically associated with conditions affecting the veins, such as chronic venous insufficiency, deep vein thrombosis, or varicose veins. While venous hypertension can contribute to or coexist with various cardiovascular conditions, it is not specific to PH.
+
+Pulmonary Hypertension is characterized by elevated pressure in the pulmonary arteries, not the veins. The pathophysiology, diagnostic criteria, and treatment approaches for PH are distinct from those for venous hypertension. Therefore, having venous hypertension does not definitively indicate that a person has Pulmonary Hypertension."
+Cardiovascular system complication of procedure,43022062,False,"No.
+
+Rationale: A cardiovascular system complication of a procedure is a broad term that can encompass a wide range of issues affecting the cardiovascular system following a medical or surgical procedure. These complications can include arrhythmias, myocardial infarction, bleeding, infection, and other cardiovascular events. While it is possible for a cardiovascular complication to lead to or exacerbate pulmonary hypertension (PH), the presence of a cardiovascular system complication of a procedure does not specifically indicate that a patient has PH. PH is a distinct condition characterized by elevated pulmonary arterial pressure and specific pathophysiological changes in the pulmonary vasculature, which requires specific diagnostic criteria such as right heart catheterization to confirm. Therefore, having a cardiovascular system complication of a procedure does not definitively mean that the patient has pulmonary hypertension."
+Acute on chronic systolic heart failure,40480602,False,"No.
+
+Acute on chronic systolic heart failure is not specific to Pulmonary Hypertension (PH). While PH can lead to right ventricular dysfunction and heart failure, including systolic heart failure, acute on chronic systolic heart failure can result from a variety of other conditions as well. These include ischemic heart disease, hypertension, valvular heart disease, cardiomyopathies, and other systemic conditions that affect the heart's ability to pump blood effectively. Therefore, having acute on chronic systolic heart failure does not definitively indicate that a person has Pulmonary Hypertension."
+Portal hypertension,192680,False,"No.
+
+Portal hypertension is not specific to Pulmonary Hypertension (PH). Portal hypertension refers to increased blood pressure within the portal venous system, which is primarily associated with liver diseases such as cirrhosis. While both conditions involve elevated blood pressure in different vascular systems, they are distinct entities with different etiologies and pathophysiological mechanisms.
+
+Pulmonary Hypertension involves elevated pressure in the pulmonary arteries, leading to right ventricular dysfunction and potentially heart failure. Portal hypertension, on the other hand, involves elevated pressure in the portal vein, leading to complications such as varices, ascites, and splenomegaly.
+
+Therefore, having portal hypertension does not mean that a person definitely has pulmonary hypertension. They are separate conditions that can coexist but are not causally linked in a way that makes one specific to the other."
+Hemolytic anemia,435503,False,"No.
+
+Hemolytic anemia is a condition characterized by the premature destruction of red blood cells, leading to a shortage of these cells in the bloodstream. It can be caused by various factors, including autoimmune disorders, infections, certain medications, and inherited conditions.
+
+Pulmonary Hypertension (PH) is a condition characterized by elevated blood pressure in the pulmonary arteries, which can lead to right ventricular dysfunction and heart failure. While PH can be associated with various underlying conditions, hemolytic anemia is not specifically linked to PH. 
+
+In other words, having hemolytic anemia does not definitively indicate that a person has pulmonary hypertension. Hemolytic anemia and pulmonary hypertension are distinct conditions with different pathophysiological mechanisms and etiologies. Therefore, the presence of hemolytic anemia is not specific to pulmonary hypertension."
+Acute diastolic heart failure,40481042,False,"No.
+
+Acute diastolic heart failure, also known as heart failure with preserved ejection fraction (HFpEF), is a condition where the heart's ventricles do not relax properly, leading to inadequate filling of the heart during the diastolic phase. This condition can result in symptoms such as shortness of breath, fatigue, and fluid retention.
+
+While pulmonary hypertension (PH) can lead to right ventricular dysfunction and heart failure, it is not specific to acute diastolic heart failure. PH can be associated with various types of heart failure, including both systolic and diastolic heart failure, but having acute diastolic heart failure does not definitively mean that a person has PH. There are many other causes and conditions that can lead to acute diastolic heart failure without the presence of PH.
+
+Therefore, the presence of acute diastolic heart failure is not specific to pulmonary hypertension."
+Autosomal dominant hereditary disorder,4006473,False,"No.
+
+Rationale: Pulmonary Hypertension (PH) can have various etiologies, including idiopathic, heritable, drug-induced, and associated with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases. While there are heritable forms of PH, not all cases of PH are due to an autosomal dominant hereditary disorder. Therefore, having an autosomal dominant hereditary disorder is not specific to PH. In other words, if someone has an autosomal dominant hereditary disorder, it does not mean they definitely have PH."
+Developmental hereditary disorder,4180651,False,"No.
+
+A developmental hereditary disorder is not specific to Pulmonary Hypertension (PH). While PH can have a heritable component, it is not exclusively caused by hereditary factors. PH can result from a variety of etiologies, including idiopathic, drug-induced, and associated with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases. Therefore, having a developmental hereditary disorder does not definitively mean that a person has PH."
+Acute on chronic diastolic heart failure,40481043,False,"No.
+
+Acute on chronic diastolic heart failure (HFpEF) is not specific to Pulmonary Hypertension (PH). While PH can lead to right ventricular dysfunction and heart failure, including diastolic heart failure, diastolic heart failure itself can result from a variety of other conditions unrelated to PH. These conditions include systemic hypertension, coronary artery disease, diabetes mellitus, obesity, and aging, among others. Therefore, having acute on chronic diastolic heart failure does not definitively indicate the presence of PH."
+Acute pulmonary edema,261600,False,"No.
+
+Acute pulmonary edema is not specific to Pulmonary Hypertension (PH). While acute pulmonary edema can occur in patients with PH, it is not exclusive to this condition. Acute pulmonary edema is a condition characterized by the rapid accumulation of fluid in the lungs, leading to severe respiratory distress. It can result from various causes, including left heart failure, acute myocardial infarction, severe hypertension, renal failure, and acute respiratory distress syndrome (ARDS), among others.
+
+In the context of PH, acute pulmonary edema might occur due to right heart failure leading to secondary left heart failure, but it is not a definitive indicator of PH. Therefore, the presence of acute pulmonary edema does not mean that a patient definitely has Pulmonary Hypertension."
+Hypertensive heart failure,444101,False,"No.
+
+Hypertensive heart failure is not specific to Pulmonary Hypertension (PH). While hypertensive heart failure can be a consequence of long-standing systemic hypertension leading to left ventricular hypertrophy and eventual heart failure, it is not specific to PH. Pulmonary Hypertension involves elevated blood pressure within the pulmonary arteries and can lead to right ventricular dysfunction and heart failure, but hypertensive heart failure typically refers to left-sided heart failure due to systemic hypertension.
+
+In other words, hypertensive heart failure can occur due to systemic hypertension without the presence of Pulmonary Hypertension. Therefore, having hypertensive heart failure does not definitively mean that a person has Pulmonary Hypertension."
+Venous occlusion,4145867,False,"No.
+
+Venous occlusion refers to the blockage of a vein, which can occur in various parts of the body and is not specific to Pulmonary Hypertension (PH). While venous occlusion can lead to increased pressure in the venous system and potentially contribute to conditions that might exacerbate or be associated with PH, it is not a definitive indicator that a person has PH. PH is specifically characterized by elevated blood pressure within the pulmonary arteries, and its diagnosis is confirmed through right heart catheterization showing a mean pulmonary arterial pressure (mPAP) greater than or equal to 20 mmHg at rest. Venous occlusion, on the other hand, can result from a variety of causes and does not necessarily indicate the presence of PH. Therefore, having venous occlusion does not mean that a person definitely has Pulmonary Hypertension."
+Hereditary nephropathy,45757752,False,"No, hereditary nephropathy is not specific to pulmonary hypertension.
+
+**Rationale:**
+
+Hereditary nephropathy refers to a group of genetic disorders that affect the kidneys, leading to progressive kidney damage and potentially resulting in chronic kidney disease or end-stage renal disease. Examples include Alport syndrome and thin basement membrane nephropathy. These conditions primarily affect the kidneys and are characterized by symptoms such as hematuria (blood in the urine), proteinuria (protein in the urine), and progressive loss of kidney function.
+
+Pulmonary hypertension (PH), on the other hand, is a condition characterized by elevated blood pressure in the pulmonary arteries, leading to right ventricular dysfunction and heart failure. While PH can be associated with various underlying conditions, including connective tissue diseases and chronic lung diseases, it is not specifically linked to hereditary nephropathy.
+
+Therefore, having hereditary nephropathy does not mean that a person definitely has pulmonary hypertension. The two conditions are distinct and do not have a direct causal relationship."
+Histiocytic syndrome,4130197,False,"No.
+
+Histiocytic syndrome is not specific to Pulmonary Hypertension (PH). Histiocytic syndromes are a group of disorders characterized by an abnormal proliferation of histiocytes, which are a type of immune cell. These syndromes can include conditions such as Langerhans cell histiocytosis and hemophagocytic lymphohistiocytosis, among others. 
+
+While histiocytic syndromes can have a wide range of clinical manifestations, they are not specifically associated with Pulmonary Hypertension. PH is characterized by elevated blood pressure in the pulmonary arteries and can result from various etiologies, but histiocytic syndromes are not a known cause or specific indicator of PH. Therefore, having a histiocytic syndrome does not mean that a person definitely has Pulmonary Hypertension."
+Mass of cardiovascular structure,4102113,False,"No.
+
+A ""mass of cardiovascular structure"" is not specific to Pulmonary Hypertension (PH). While a mass in the cardiovascular system could potentially contribute to or be associated with various cardiovascular conditions, including PH, it is not a definitive indicator of PH. Masses in the cardiovascular system can be due to a variety of causes such as tumors (benign or malignant), thrombi, or other structural abnormalities, and these can occur in the absence of PH. Therefore, the presence of a mass in the cardiovascular structure does not mean that the individual definitely has Pulmonary Hypertension."
+Hyperuricemia,4147761,False,"No.
+
+Hyperuricemia, which is characterized by elevated levels of uric acid in the blood, is not specific to Pulmonary Hypertension (PH). While hyperuricemia can be associated with various cardiovascular and metabolic conditions, including hypertension and heart failure, it is not a definitive indicator of PH. 
+
+PH is diagnosed based on elevated mean pulmonary arterial pressure (mPAP) as measured by right heart catheterization, along with a comprehensive clinical assessment and other diagnostic tests. Hyperuricemia can occur in a variety of other conditions such as gout, chronic kidney disease, and metabolic syndrome, among others. Therefore, the presence of hyperuricemia does not definitively indicate that a person has PH."
+Pulmonary vein finding,4119821,False,"No.
+
+Rationale: A finding related to the pulmonary veins is not specific to Pulmonary Hypertension (PH). Pulmonary vein findings can be associated with a variety of other conditions, including left heart disease, pulmonary venous hypertension, and other cardiac or pulmonary disorders. While abnormalities in the pulmonary veins might be observed in some cases of PH, they are not exclusive to this condition and can be present in other diseases as well. Therefore, the presence of a pulmonary vein finding does not definitively indicate that a person has Pulmonary Hypertension."
+Familial disease,4008090,False,"No.
+
+Rationale: Familial disease refers to a condition that runs in families, often due to genetic factors. While Pulmonary Hypertension (PH) can have a heritable component (i.e., it can be familial in some cases), not all cases of PH are familial. PH can also be idiopathic, drug-induced, or associated with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases. Therefore, having a familial disease does not specifically indicate that one definitely has Pulmonary Hypertension."
+Multiple system malformation syndrome,4220676,False,"No.
+
+Multiple system malformation syndrome is a broad term that refers to a group of disorders characterized by the presence of multiple congenital anomalies affecting various organ systems. These syndromes can have a wide range of etiologies, including genetic mutations, chromosomal abnormalities, and environmental factors. While some congenital heart defects associated with multiple system malformation syndromes can lead to pulmonary hypertension, the presence of multiple system malformation syndrome itself is not specific to pulmonary hypertension.
+
+Pulmonary hypertension can result from a variety of causes, including idiopathic origins, heritable factors, drug-induced conditions, and associations with other diseases such as connective tissue diseases and chronic lung diseases. However, having multiple system malformation syndrome does not definitively indicate the presence of pulmonary hypertension. Therefore, the condition of multiple system malformation syndrome is not specific to the malady of pulmonary hypertension."
+Acute combined systolic and diastolic heart failure,44782718,False,"No.
+
+Acute combined systolic and diastolic heart failure, also known as acute decompensated heart failure, is a condition where both the systolic (pumping) and diastolic (filling) functions of the heart are impaired. While pulmonary hypertension (PH) can lead to right ventricular dysfunction and eventually heart failure, it is not specific to PH. Acute combined systolic and diastolic heart failure can result from a variety of causes, including ischemic heart disease, hypertension, valvular heart disease, and cardiomyopathies, among others.
+
+Therefore, having acute combined systolic and diastolic heart failure does not definitively indicate that a person has pulmonary hypertension, as this type of heart failure can occur due to multiple other etiologies."
+Neonatal cardiovascular disorder,4180943,False,"No.
+
+Rationale: Neonatal cardiovascular disorders encompass a wide range of heart and blood vessel conditions that can affect newborns. These disorders can include congenital heart defects, arrhythmias, and other structural or functional abnormalities of the heart and blood vessels. While some neonatal cardiovascular disorders could potentially lead to or be associated with pulmonary hypertension (PH), having a neonatal cardiovascular disorder does not specifically mean that the individual definitely has PH. Pulmonary hypertension is a specific condition characterized by elevated pulmonary arterial pressure, and while it can be a consequence of certain cardiovascular disorders, it is not an inevitable outcome of all neonatal cardiovascular disorders. Therefore, the presence of a neonatal cardiovascular disorder is not specific to pulmonary hypertension."
+Chronic metabolic disorder,4027557,False,"No.
+
+Rationale: A chronic metabolic disorder, such as diabetes mellitus or metabolic syndrome, is not specific to Pulmonary Hypertension (PH). While metabolic disorders can be associated with an increased risk of developing cardiovascular diseases, including PH, they are not definitive indicators of PH. In other words, having a chronic metabolic disorder does not mean that a person definitely has PH. PH can result from a variety of etiologies, and while metabolic disorders may contribute to the overall cardiovascular risk profile, they are not specific to PH. Therefore, the presence of a chronic metabolic disorder does not definitively indicate the presence of Pulmonary Hypertension."
+Fibromatosis,37109980,False,"No.
+
+Fibromatosis refers to a group of conditions characterized by the growth of fibrous or connective tissue, which can form benign tumors or masses. These conditions are not related to the elevated blood pressure within the pulmonary vasculature that defines Pulmonary Hypertension (PH). While fibromatosis can cause localized issues depending on where the fibrous tissue growth occurs, it does not lead to the hemodynamic changes or right ventricular dysfunction associated with PH.
+
+Therefore, having fibromatosis does not mean that a person definitely has Pulmonary Hypertension. The two conditions are distinct and unrelated in terms of their pathophysiology and clinical presentation."
+Hypertensive heart and renal disease with (congestive) heart failure,439696,False,"No.
+
+Rationale: Hypertensive heart and renal disease with (congestive) heart failure is not specific to Pulmonary Hypertension (PH). While both conditions involve elevated blood pressure and can lead to heart failure, they are distinct entities with different pathophysiological mechanisms and etiologies.
+
+Pulmonary Hypertension specifically refers to elevated blood pressure within the pulmonary arteries, leading to right ventricular dysfunction and potentially right heart failure. It is diagnosed through right heart catheterization showing an increased mean pulmonary arterial pressure (mPAP) greater than or equal to 20 mmHg at rest.
+
+On the other hand, hypertensive heart and renal disease with (congestive) heart failure typically involves systemic hypertension (high blood pressure in the systemic circulation) that affects both the heart and kidneys, leading to left ventricular hypertrophy, left heart failure, and renal impairment. This condition does not necessarily involve elevated pressures in the pulmonary arteries.
+
+Therefore, having hypertensive heart and renal disease with (congestive) heart failure does not definitively indicate the presence of Pulmonary Hypertension. While there can be overlap in symptoms and complications, the two conditions are not synonymous, and one does not specifically diagnose the other."
+Disorder of capillaries,321876,False,"No.
+
+Rationale: A ""disorder of capillaries"" is a broad term that can encompass a wide range of conditions affecting the small blood vessels (capillaries) throughout the body. While pulmonary hypertension (PH) involves elevated blood pressure within the pulmonary vasculature, which includes capillaries, it is not specific to capillary disorders alone. PH can result from various etiologies, including issues with larger pulmonary arteries, right ventricular dysfunction, and other systemic conditions. Therefore, having a disorder of capillaries does not definitively mean that a person has pulmonary hypertension."
+Acute on chronic combined systolic and diastolic heart failure,44782733,False,"No.
+
+Acute on chronic combined systolic and diastolic heart failure is not specific to Pulmonary Hypertension (PH). While PH can lead to right ventricular dysfunction and heart failure, heart failure itself can result from a variety of other conditions, including coronary artery disease, hypertension, valvular heart disease, and cardiomyopathies, among others. Therefore, having acute on chronic combined systolic and diastolic heart failure does not definitively indicate that a person has PH. It is a condition that can be associated with many different underlying causes, not exclusively PH."
+Thromboembolic disorder,4159647,False,"No.
+
+A thromboembolic disorder, which involves the formation of blood clots that can travel and obstruct blood vessels, is not specific to Pulmonary Hypertension (PH). While chronic thromboembolic pulmonary hypertension (CTEPH) is a specific type of PH caused by blood clots in the lungs, not all thromboembolic disorders lead to PH. Thromboembolic disorders can affect various parts of the body, such as deep vein thrombosis (DVT) in the legs or pulmonary embolism (PE) in the lungs, without necessarily causing PH. Therefore, having a thromboembolic disorder does not definitively mean that a person has PH."
+Hypoventilation,312603,False,"No.
+
+Hypoventilation, which refers to inadequate ventilation leading to increased carbon dioxide levels in the blood, is not specific to Pulmonary Hypertension (PH). While hypoventilation can contribute to or exacerbate pulmonary hypertension, it is not a definitive indicator that a person has PH. Hypoventilation can result from a variety of other conditions, including neuromuscular disorders, obesity hypoventilation syndrome, chronic obstructive pulmonary disease (COPD), and central respiratory control abnormalities. Therefore, the presence of hypoventilation does not necessarily mean that the individual has pulmonary hypertension."
+Mitochondrial cytopathy,81539,False,"No.
+
+Mitochondrial cytopathy refers to a group of disorders caused by dysfunction of the mitochondria, the energy-producing structures within cells. These disorders can affect multiple organ systems, including the muscles, brain, and heart, but they are not specific to Pulmonary Hypertension (PH). While mitochondrial dysfunction can contribute to various forms of cardiovascular and pulmonary diseases, including PH, it is not a definitive indicator that a person has PH. 
+
+In other words, having mitochondrial cytopathy does not mean that a person definitely has Pulmonary Hypertension. Mitochondrial cytopathies can present with a wide range of symptoms and can be associated with various other conditions, but they are not specific to PH. Therefore, the presence of mitochondrial cytopathy alone cannot be used to definitively diagnose Pulmonary Hypertension."
+Chronic pulmonary embolism,44782732,False,"No.
+
+Rationale: Chronic pulmonary embolism (CPE) is not specific to Pulmonary Hypertension (PH). While CPE can lead to a form of PH known as chronic thromboembolic pulmonary hypertension (CTEPH), not all cases of CPE result in PH. CPE refers to the presence of blood clots in the pulmonary arteries that have not resolved over time, which can lead to increased pressure in the pulmonary arteries and potentially cause PH. However, having a chronic pulmonary embolism does not definitively mean that a person has developed PH, as the progression to PH depends on various factors including the extent of the embolism and the individual's response to the condition. Therefore, chronic pulmonary embolism is not specific to Pulmonary Hypertension."
+Dependence on supplemental oxygen,42873170,False,"No.
+
+Rationale: Dependence on supplemental oxygen is not specific to Pulmonary Hypertension (PH). While patients with PH may require supplemental oxygen, especially in advanced stages or if they have associated lung diseases, this condition is not exclusive to PH. Dependence on supplemental oxygen can be seen in a variety of other respiratory and cardiac conditions, such as chronic obstructive pulmonary disease (COPD), interstitial lung disease, severe heart failure, and other forms of pulmonary arterial hypertension. Therefore, having a dependence on supplemental oxygen does not definitively indicate that a person has Pulmonary Hypertension."
+Alveolar hypoventilation,440376,False,"No, alveolar hypoventilation is not specific to pulmonary hypertension.
+
+**Rationale:**
+Alveolar hypoventilation refers to a condition where there is inadequate ventilation in the alveoli, leading to an increase in carbon dioxide (CO2) levels in the blood (hypercapnia). This condition can result from various causes, including neuromuscular disorders, obesity hypoventilation syndrome, chronic obstructive pulmonary disease (COPD), and central respiratory control abnormalities.
+
+While alveolar hypoventilation can contribute to or exacerbate pulmonary hypertension, it is not specific to it. Alveolar hypoventilation can occur in the absence of pulmonary hypertension and is associated with a range of other respiratory and systemic conditions. Therefore, the presence of alveolar hypoventilation does not definitively indicate that a person has pulmonary hypertension."
+Chronic hypoxemic respiratory failure,4177862,False,"No.
+
+Chronic hypoxemic respiratory failure is not specific to Pulmonary Hypertension (PH). While chronic hypoxemic respiratory failure can be a consequence of various underlying conditions, including PH, it is not exclusive to PH. Chronic hypoxemic respiratory failure can result from a wide range of pulmonary and extrapulmonary disorders, such as chronic obstructive pulmonary disease (COPD), interstitial lung disease, severe obesity (obesity hypoventilation syndrome), neuromuscular diseases, and other conditions that impair gas exchange or respiratory mechanics.
+
+Therefore, having chronic hypoxemic respiratory failure does not definitively indicate that a person has Pulmonary Hypertension, as it can be associated with multiple other conditions."
+Cardiovascular system hereditary disorder,4179992,False,"No.
+
+Rationale:
+A cardiovascular system hereditary disorder refers to genetic conditions that affect the cardiovascular system, such as hypertrophic cardiomyopathy, Marfan syndrome, or familial hypercholesterolemia. While some hereditary disorders can predispose individuals to developing pulmonary hypertension (PH), having a cardiovascular system hereditary disorder does not mean that one definitely has PH. PH can result from a variety of etiologies, including idiopathic, heritable, drug-induced, and associated with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases. Therefore, the presence of a cardiovascular system hereditary disorder is not specific to PH."
+Langerhans cell histiocytosis,4278365,False,"No, Langerhans cell histiocytosis (LCH) is not specific to Pulmonary Hypertension (PH).
+
+**Rationale:**
+
+1. **Definition and Etiology**:
+   - **Pulmonary Hypertension (PH)**: As described, PH is characterized by elevated blood pressure in the pulmonary arteries, leading to right ventricular dysfunction and potentially heart failure. It can result from various causes, including idiopathic, heritable, drug-induced, and associated with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases.
+   - **Langerhans Cell Histiocytosis (LCH)**: LCH is a rare disorder characterized by the proliferation of Langerhans cells, which are a type of dendritic cell that normally helps regulate the immune system. LCH can affect various organs, including the bones, skin, lungs, and pituitary gland. When it involves the lungs, it is known as pulmonary LCH, which can lead to cystic lung disease and potentially contribute to pulmonary hypertension.
+
+2. **Association**:
+   - While pulmonary LCH can lead to lung damage and potentially contribute to the development of PH, it is not a specific condition for PH. PH can arise from a multitude of other causes, and not all patients with PH will have LCH.
+   - Conversely, not all patients with LCH will develop PH. LCH can affect various organs and systems without necessarily leading to pulmonary hypertension.
+
+3. **Specificity**:
+   - For a condition to be specific to a malady, the presence of the condition must definitively indicate the presence of the malady. In this case, having LCH does not definitively indicate that a patient has PH. LCH is one of many potential contributors to PH but is not exclusive or definitive for PH.
+
+Therefore, the presence of Langerhans cell histiocytosis is not specific to Pulmonary Hypertension."
+Acute on chronic hypoxemic respiratory failure,37016114,False,"No.
+
+Acute on chronic hypoxemic respiratory failure is not specific to Pulmonary Hypertension (PH). While it can occur in patients with PH, it is not exclusive to this condition. Acute on chronic hypoxemic respiratory failure can result from a variety of underlying causes, including chronic obstructive pulmonary disease (COPD), interstitial lung disease, severe asthma, and other chronic lung conditions. Therefore, having acute on chronic hypoxemic respiratory failure does not definitively indicate that a person has Pulmonary Hypertension."
+Pulmonary sarcoidosis,4086243,False,"No.
+
+Pulmonary sarcoidosis is not specific to Pulmonary Hypertension (PH). While pulmonary sarcoidosis can be one of the causes or associated conditions that may lead to the development of PH, having pulmonary sarcoidosis does not definitively mean that a person has PH. Pulmonary sarcoidosis is an inflammatory disease that affects multiple organs in the body, primarily the lungs and lymph glands, and it can lead to granuloma formation. Although it can cause complications such as PH, not all individuals with pulmonary sarcoidosis will develop PH. Therefore, pulmonary sarcoidosis is not a condition that is specific to PH."
+Inflammatory disorder of mediastinum,4189294,False,"No.
+
+An inflammatory disorder of the mediastinum is not specific to Pulmonary Hypertension (PH). While an inflammatory disorder of the mediastinum can potentially affect the pulmonary vasculature and contribute to conditions that might lead to PH, it is not a definitive indicator that a person has PH. PH can result from a variety of etiologies, including idiopathic, heritable, drug-induced, and associated with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases. Therefore, having an inflammatory disorder of the mediastinum does not mean that a person definitely has PH."
+Chronic hypercapnic respiratory failure,4140438,False,"No, chronic hypercapnic respiratory failure is not specific to pulmonary hypertension.
+
+**Rationale:**
+
+Chronic hypercapnic respiratory failure is a condition characterized by elevated levels of carbon dioxide (CO2) in the blood due to inadequate ventilation over a prolonged period. This condition can result from various underlying causes, including chronic obstructive pulmonary disease (COPD), obesity hypoventilation syndrome, neuromuscular disorders, and severe chest wall deformities.
+
+While chronic hypercapnic respiratory failure can be seen in patients with pulmonary hypertension, it is not specific to this condition. Many other diseases and conditions can lead to chronic hypercapnic respiratory failure without the presence of pulmonary hypertension. Therefore, having chronic hypercapnic respiratory failure does not definitively indicate that a person has pulmonary hypertension."
+Acute on chronic hypercapnic respiratory failure,36716978,False,"No.
+
+Acute on chronic hypercapnic respiratory failure is not specific to Pulmonary Hypertension (PH). While it can occur in patients with PH, it is not exclusive to this condition. Acute on chronic hypercapnic respiratory failure is characterized by an elevated level of carbon dioxide (CO2) in the blood due to inadequate ventilation, which can result from various underlying conditions such as chronic obstructive pulmonary disease (COPD), obesity hypoventilation syndrome, neuromuscular disorders, and severe asthma, among others.
+
+PH can lead to respiratory failure, but the presence of acute on chronic hypercapnic respiratory failure does not definitively indicate that a patient has PH. Therefore, the condition is not specific to the malady of Pulmonary Hypertension."
+Pulmonary thrombosis,4239826,False,"No.
+
+Pulmonary thrombosis, which refers to the formation of a blood clot in the pulmonary arteries, is not specific to Pulmonary Hypertension (PH). While pulmonary thrombosis can lead to a form of pulmonary hypertension known as chronic thromboembolic pulmonary hypertension (CTEPH), it is not the only cause of PH. PH can result from a variety of other etiologies, including idiopathic causes, heritable factors, drug-induced conditions, and associations with other diseases such as connective tissue diseases, congenital heart defects, or chronic lung diseases.
+
+Therefore, having a pulmonary thrombosis does not definitively mean that a person has Pulmonary Hypertension, as pulmonary thrombosis is just one of many potential causes. Conversely, a person with PH may or may not have a history of pulmonary thrombosis."
+Pulmonary lymphangioleiomyomatosis,4174275,False,"No.
+
+Pulmonary lymphangioleiomyomatosis (LAM) is a rare lung disease that primarily affects women of childbearing age. It is characterized by the abnormal growth of smooth muscle-like cells in the lungs, lymphatic system, and kidneys, leading to the formation of cysts and the destruction of normal lung tissue. While LAM can lead to pulmonary hypertension (PH) as a complication due to the progressive destruction of lung tissue and subsequent hypoxia, it is not specific to PH. 
+
+In other words, having pulmonary lymphangioleiomyomatosis does not mean that a person definitely has pulmonary hypertension. LAM can exist without PH, and PH can result from a variety of other conditions unrelated to LAM. Therefore, the condition of pulmonary lymphangioleiomyomatosis is not specific to the malady of pulmonary hypertension."
+Angiomatosis,4006951,False,"No.
+
+Angiomatosis is a condition characterized by the presence of multiple angiomas, which are benign tumors derived from blood vessels. It is not specific to Pulmonary Hypertension (PH). While angiomatosis can be associated with various syndromes and conditions, it is not a diagnostic criterion or a specific indicator of PH. Pulmonary Hypertension is primarily diagnosed based on elevated mean pulmonary arterial pressure (mPAP) and associated symptoms and signs, as well as specific diagnostic tests like right heart catheterization. Angiomatosis does not directly relate to the pathophysiological mechanisms or diagnostic criteria of PH. Therefore, having angiomatosis does not mean that a person definitely has Pulmonary Hypertension."
+Infection by Schistosoma,436038,False,"No.
+
+Infection by Schistosoma, also known as schistosomiasis, is a parasitic disease caused by blood flukes of the genus Schistosoma. While schistosomiasis can lead to various complications, including liver and intestinal damage, it is not specific to Pulmonary Hypertension (PH). 
+
+Schistosomiasis can indeed be a cause of PH, particularly in regions where the disease is endemic. The mechanism involves the parasite's eggs causing granulomatous inflammation and fibrosis in the liver, leading to portal hypertension and subsequently, pulmonary hypertension. However, not all individuals with schistosomiasis will develop PH. 
+
+Therefore, having an infection by Schistosoma does not definitively mean that a person has Pulmonary Hypertension. It is one of many potential etiologies but not a specific indicator of PH."
+High output heart failure,4004279,False,"No.
+
+High output heart failure is not specific to Pulmonary Hypertension (PH). High output heart failure is a condition where the heart is unable to meet the body's metabolic demands despite an increased cardiac output. This can occur due to various causes such as severe anemia, hyperthyroidism, arteriovenous fistulas, and other conditions that increase the body's demand for blood flow.
+
+While PH can lead to right ventricular dysfunction and heart failure, it is typically associated with low output heart failure due to the increased resistance in the pulmonary vasculature. High output heart failure, on the other hand, is generally not a direct consequence of PH. Therefore, having high output heart failure does not definitively indicate that a person has Pulmonary Hypertension."
+Biventricular congestive heart failure,4242669,False,"No.
+
+Biventricular congestive heart failure (CHF) is not specific to Pulmonary Hypertension (PH). While PH can lead to right ventricular dysfunction and eventually right heart failure, which can contribute to biventricular heart failure, biventricular CHF can result from a variety of other conditions as well. These include left-sided heart failure, coronary artery disease, hypertension, valvular heart disease, and cardiomyopathies, among others. Therefore, the presence of biventricular congestive heart failure does not definitively indicate that a person has Pulmonary Hypertension."
+Right heart failure secondary to left heart failure,4195785,False,"No.
+
+Rationale: Right heart failure secondary to left heart failure is not specific to Pulmonary Hypertension (PH). While right heart failure can occur in the context of PH due to the increased pressure load on the right ventricle, it can also occur due to other conditions, particularly left heart failure. In left heart failure, the left ventricle fails to pump blood effectively, leading to increased pressure in the left atrium and pulmonary veins, which can subsequently cause increased pressure in the pulmonary arteries and right heart failure. This condition is often referred to as ""congestive heart failure"" and is not exclusive to PH. Therefore, the presence of right heart failure secondary to left heart failure does not definitively indicate that a patient has PH."
+Acute right-sided heart failure,4233424,False,"No.
+
+Acute right-sided heart failure is not specific to Pulmonary Hypertension (PH). While acute right-sided heart failure can indeed be a consequence of PH due to the increased pressure load on the right ventricle, it is not exclusive to PH. Acute right-sided heart failure can result from various other conditions, including left-sided heart failure, myocardial infarction, pulmonary embolism, and chronic obstructive pulmonary disease (COPD), among others. Therefore, the presence of acute right-sided heart failure does not definitively indicate that a patient has Pulmonary Hypertension."
+Capillary hemangioma,4291592,False,"No.
+
+Capillary hemangioma, also known as a ""strawberry mark,"" is a benign vascular tumor commonly seen in infants and young children. It is characterized by an abnormal proliferation of blood vessels and typically appears as a red or purple raised lesion on the skin. Capillary hemangiomas are usually self-limiting and often regress spontaneously over time.
+
+Pulmonary Hypertension (PH), on the other hand, is a serious and progressive condition characterized by elevated blood pressure in the pulmonary arteries, leading to right ventricular dysfunction and potentially heart failure. The etiology of PH is diverse and includes idiopathic, heritable, drug-induced causes, and associations with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases.
+
+There is no direct pathophysiological link between capillary hemangioma and pulmonary hypertension. While both involve vascular abnormalities, the mechanisms, affected vascular beds, and clinical implications are entirely different. Therefore, having a capillary hemangioma does not imply that a person has pulmonary hypertension."
+Chronic hemolytic anemia,45768941,False,"No.
+
+Chronic hemolytic anemia is not specific to Pulmonary Hypertension (PH). While chronic hemolytic anemia can be associated with PH, particularly in conditions like sickle cell disease where chronic hemolysis can lead to pulmonary vascular changes and subsequent PH, it is not specific to PH. Chronic hemolytic anemia can occur in a variety of other conditions and does not definitively indicate the presence of PH. Therefore, having chronic hemolytic anemia does not mean that a person definitely has PH."
+Sclerosing mediastinitis,4249898,False,"No, sclerosing mediastinitis is not specific to pulmonary hypertension.
+
+**Rationale:**
+
+Sclerosing mediastinitis is a rare condition characterized by the excessive growth of fibrous tissue in the mediastinum, which can compress and obstruct mediastinal structures, including the pulmonary arteries and veins. While it can lead to secondary pulmonary hypertension due to the compression of pulmonary vessels, it is not specific to pulmonary hypertension. 
+
+Pulmonary hypertension can result from a variety of causes, including idiopathic origins, connective tissue diseases, congenital heart defects, chronic lung diseases, and more. Sclerosing mediastinitis is just one of many potential causes and is not a definitive indicator of pulmonary hypertension. Therefore, having sclerosing mediastinitis does not mean that a patient definitely has pulmonary hypertension, although it can be a contributing factor."
+CK syndrome,36676440,False,"No.
+
+CK syndrome, also known as Cerebro-costo-mandibular syndrome, is a rare genetic disorder characterized by abnormalities in the development of the brain, ribs, and lower jaw. It is not specifically associated with Pulmonary Hypertension (PH). While patients with CK syndrome may have respiratory issues due to rib abnormalities, this does not equate to the elevated pulmonary arterial pressure that defines PH. Therefore, having CK syndrome does not mean that a person definitely has Pulmonary Hypertension."
+Acquired hemangiomatosis,4111945,False,"No, acquired hemangiomatosis is not specific to pulmonary hypertension.
+
+Rationale:
+Acquired hemangiomatosis is a condition characterized by the abnormal proliferation of blood vessels, leading to the formation of multiple hemangiomas. While hemangiomatosis can occur in various organs, including the skin, liver, and lungs, it is not specifically indicative of pulmonary hypertension (PH). 
+
+PH is a condition characterized by elevated blood pressure in the pulmonary arteries, which can result from a variety of underlying causes, including idiopathic, heritable, drug-induced, and associated with other conditions such as connective tissue diseases, congenital heart defects, or chronic lung diseases. The presence of hemangiomas, even in the lungs, does not necessarily indicate elevated pulmonary arterial pressure or the hemodynamic changes associated with PH.
+
+Therefore, while hemangiomatosis may coexist with PH in some cases, it is not a specific condition that definitively indicates the presence of PH."
+Obesity associated disorder,4176962,False,"No.
+
+Rationale: Obesity is a known risk factor for various cardiovascular and pulmonary conditions, including Pulmonary Hypertension (PH). However, the presence of an obesity-associated disorder does not definitively indicate that a person has PH. While obesity can contribute to the development of PH, it is not specific to PH alone and can be associated with a wide range of other health issues such as type 2 diabetes, hypertension, obstructive sleep apnea, and coronary artery disease. Therefore, having an obesity-associated disorder does not mean that a person definitely has Pulmonary Hypertension."
+Acute on chronic right-sided congestive heart failure,37309625,False,"No.
+
+Acute on chronic right-sided congestive heart failure (CHF) is not specific to Pulmonary Hypertension (PH). While right-sided CHF can be a consequence of PH due to the increased pressure load on the right ventricle, it can also result from other conditions. These include left-sided heart failure, chronic lung diseases (such as chronic obstructive pulmonary disease or interstitial lung disease), congenital heart defects, and other causes of right ventricular dysfunction.
+
+Therefore, having acute on chronic right-sided CHF does not definitively indicate that a person has PH, as it can be caused by a variety of other conditions."
+Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency,37204406,False,"No.
+
+Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency is a genetic disorder characterized by a severe reduction in neutrophils, a type of white blood cell essential for fighting infections. This condition leads to recurrent infections, fevers, and other related symptoms due to the body's inability to effectively combat pathogens.
+
+Pulmonary Hypertension (PH), on the other hand, is a condition characterized by elevated blood pressure in the pulmonary arteries, leading to right ventricular dysfunction and potentially heart failure. While PH can be associated with various underlying conditions, including genetic disorders, the specific condition of autosomal recessive severe congenital neutropenia due to G6PC3 deficiency is not directly linked to PH.
+
+Therefore, having autosomal recessive severe congenital neutropenia due to G6PC3 deficiency does not specifically indicate that a person has Pulmonary Hypertension. The two conditions are distinct and do not have a direct causal relationship where the presence of one definitively indicates the presence of the other."
+Hypertension secondary to drug,4108213,False,"No.
+
+Rationale: Hypertension secondary to drug use is not specific to Pulmonary Hypertension (PH). While certain drugs can induce or exacerbate PH, drug-induced hypertension can also affect systemic blood pressure without necessarily involving the pulmonary vasculature. Therefore, having hypertension secondary to drug use does not definitively mean that a person has Pulmonary Hypertension. It could be indicative of other forms of hypertension or cardiovascular issues."
+Chronic drug-induced interstitial lung disorders,4112814,False,"No.
+
+Chronic drug-induced interstitial lung disorders are a group of lung conditions caused by the long-term use of certain medications that lead to inflammation and scarring of the lung tissue (interstitial lung disease). While these disorders can cause significant respiratory symptoms and complications, they are not specific to Pulmonary Hypertension (PH).
+
+Pulmonary Hypertension is characterized by elevated blood pressure in the pulmonary arteries and can result from a variety of causes, including idiopathic origins, heritable factors, drug-induced factors, and associations with other conditions such as connective tissue diseases and chronic lung diseases. However, chronic drug-induced interstitial lung disorders are not exclusively linked to PH. They can occur independently of PH and can be caused by a wide range of medications, including certain chemotherapy agents, antibiotics, and anti-inflammatory drugs.
+
+Therefore, having chronic drug-induced interstitial lung disorders does not definitively mean that a person has Pulmonary Hypertension. While there may be an overlap in some cases where drug-induced lung disease could contribute to the development of PH, the presence of chronic drug-induced interstitial lung disorders alone is not specific to PH."
+Pulmonary heart disease,4167085,False,"No.
+
+Pulmonary heart disease, also known as cor pulmonale, is a condition that arises from complications in the pulmonary circulation, leading to right ventricular hypertrophy and eventually right heart failure. While pulmonary hypertension (PH) can indeed lead to pulmonary heart disease, the presence of pulmonary heart disease does not definitively indicate that a person has PH. Pulmonary heart disease can result from various other conditions affecting the lungs and pulmonary arteries, such as chronic obstructive pulmonary disease (COPD), interstitial lung disease, or sleep apnea, which may or may not be associated with PH.
+
+Therefore, while pulmonary heart disease can be a consequence of PH, it is not specific to PH alone. Other pulmonary conditions can also lead to pulmonary heart disease without the presence of PH."
+Indian childhood cirrhosis,4268006,False,"No, Indian childhood cirrhosis is not specific to Pulmonary Hypertension.
+
+**Rationale:**
+Indian childhood cirrhosis (ICC) is a form of liver disease that primarily affects children in India and is characterized by severe liver fibrosis and cirrhosis. The condition is associated with excessive copper accumulation in the liver, leading to liver damage and failure. While liver diseases, including cirrhosis, can have systemic effects and potentially contribute to secondary pulmonary hypertension due to complications like portopulmonary hypertension, the presence of Indian childhood cirrhosis does not definitively indicate that a person has Pulmonary Hypertension.
+
+Pulmonary Hypertension is a specific condition characterized by elevated blood pressure in the pulmonary arteries, and it can arise from a variety of causes, including heart and lung diseases, but not specifically from Indian childhood cirrhosis. Therefore, having Indian childhood cirrhosis does not mean that one definitely has Pulmonary Hypertension."
+Chronic pulmonary thromboembolism without pulmonary hypertension,45771016,False,"No.
+
+Rationale: Chronic pulmonary thromboembolism (CPE) without pulmonary hypertension (PH) indicates the presence of blood clots in the pulmonary arteries that have not led to elevated blood pressure within the pulmonary vasculature. Pulmonary hypertension is specifically defined by an increase in mean pulmonary arterial pressure (mPAP) greater than or equal to 20 mmHg at rest. If a patient has chronic pulmonary thromboembolism but does not have elevated pulmonary arterial pressure, they do not meet the criteria for pulmonary hypertension. Therefore, having chronic pulmonary thromboembolism without pulmonary hypertension does not mean the patient definitely has pulmonary hypertension."
+Chronic pulmonary heart disease,315831,False,"No.
+
+Chronic pulmonary heart disease, also known as cor pulmonale, is a condition that arises from chronic pressure overload in the right ventricle due to pulmonary hypertension. While chronic pulmonary heart disease can be a consequence of pulmonary hypertension, it is not specific to it. Pulmonary hypertension can result from various etiologies, and not all cases of pulmonary hypertension will lead to chronic pulmonary heart disease. Therefore, having chronic pulmonary heart disease does not definitively mean that one has pulmonary hypertension, as it could also be due to other underlying lung conditions or diseases that affect the pulmonary vasculature."
+Neurofibroma,4300676,False,"No.
+
+Neurofibroma is a type of benign nerve sheath tumor that arises from the peripheral nerves. It is commonly associated with Neurofibromatosis type 1 (NF1), a genetic disorder. Neurofibromas can occur anywhere in the body but are not specifically related to the pulmonary vasculature or the hemodynamic changes seen in Pulmonary Hypertension (PH).
+
+Pulmonary Hypertension is characterized by elevated blood pressure in the pulmonary arteries and is associated with various etiologies such as idiopathic causes, connective tissue diseases, congenital heart defects, and chronic lung diseases. Neurofibromas, on the other hand, are not a known cause or specific indicator of PH.
+
+Therefore, the presence of a neurofibroma does not definitively indicate that a person has Pulmonary Hypertension."

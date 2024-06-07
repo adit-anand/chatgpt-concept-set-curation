@@ -1,0 +1,443 @@
+concept_name,concept_id,include,rationale
+Complication,433128,False,"No.
+
+Rationale: The term ""complication"" is too broad and nonspecific to be considered a condition that definitively indicates the presence of Type 1 Diabetes Mellitus (T1DM). Complications can arise from a variety of diseases and conditions, not just T1DM. For example, complications such as cardiovascular disease, neuropathy, nephropathy, and retinopathy can occur in other forms of diabetes and other medical conditions as well. Therefore, having a complication does not specifically mean that a person has T1DM."
+Diabetes mellitus,201820,False,"No.
+
+Rationale: The condition ""Diabetes mellitus"" is a broad term that encompasses several types of diabetes, including Type 1 Diabetes Mellitus (T1DM), Type 2 Diabetes Mellitus (T2DM), and other specific types such as gestational diabetes and secondary diabetes due to other conditions. While T1DM is a specific type of diabetes mellitus, having a diagnosis of diabetes mellitus does not definitively mean that a person has T1DM. They could have T2DM or another form of diabetes. Therefore, the condition ""Diabetes mellitus"" is not specific to T1DM."
+Diabetes mellitus without complication,4008576,False,"No.
+
+Rationale: ""Diabetes mellitus without complication"" is a broad term that can refer to any type of diabetes, including Type 1 Diabetes Mellitus (T1DM), Type 2 Diabetes Mellitus (T2DM), and other forms of diabetes. It simply indicates that the individual has diabetes but does not currently have any complications associated with the disease. 
+
+Since ""diabetes mellitus without complication"" can refer to multiple types of diabetes, it is not specific to T1DM. Therefore, having ""diabetes mellitus without complication"" does not definitively mean that the person has T1DM; they could have another form of diabetes."
+Type 2 diabetes mellitus,201826,False,"No.
+
+Rationale: Type 2 Diabetes Mellitus (T2DM) is a distinct condition from Type 1 Diabetes Mellitus (T1DM). While both conditions involve issues with blood glucose regulation, they have different pathophysiologies. T1DM is an autoimmune disorder characterized by the destruction of insulin-producing beta cells in the pancreas, leading to absolute insulin deficiency. In contrast, T2DM is primarily characterized by insulin resistance and a relative insulin deficiency, often associated with obesity and metabolic syndrome.
+
+Having T2DM does not mean that a person definitely has T1DM. The two conditions are mutually exclusive in terms of diagnosis. Therefore, the presence of T2DM is not specific to T1DM."
+Type 2 diabetes mellitus without complication,4193704,False,"No.
+
+Type 2 diabetes mellitus (T2DM) without complication is not specific to Type 1 Diabetes Mellitus (T1DM). T2DM is a distinct condition characterized by insulin resistance and relative insulin deficiency, rather than the absolute insulin deficiency seen in T1DM. While both conditions involve hyperglycemia, they have different pathophysiologies, etiologies, and management strategies. Therefore, having T2DM does not mean that a person definitely has T1DM."
+Retinal disorder,378416,False,"No.
+
+Rationale: Retinal disorders, such as diabetic retinopathy, can occur in individuals with Type 1 Diabetes Mellitus (T1DM) as a complication of the disease. However, retinal disorders are not specific to T1DM. They can also occur in individuals with other types of diabetes, such as Type 2 Diabetes Mellitus, and can be caused by other conditions unrelated to diabetes, such as hypertension, age-related macular degeneration, and retinal vein occlusion. Therefore, having a retinal disorder does not definitively indicate that a person has T1DM."
+Complication due to diabetes mellitus,442793,False,"No.
+
+Rationale: The condition ""complication due to diabetes mellitus"" is not specific to Type 1 Diabetes Mellitus (T1DM). Complications such as diabetic ketoacidosis (DKA), cardiovascular disease, neuropathy, nephropathy, and retinopathy can occur in both Type 1 and Type 2 Diabetes Mellitus (T2DM), as well as other forms of diabetes. Therefore, having a complication due to diabetes mellitus does not definitively indicate that a person has T1DM; they could have another type of diabetes."
+High risk pregnancy,4188598,False,"No.
+
+Rationale: High risk pregnancy is not specific to Type 1 Diabetes Mellitus (T1DM). While T1DM can indeed contribute to a pregnancy being classified as high risk due to potential complications such as diabetic ketoacidosis, preeclampsia, and other maternal and fetal issues, high risk pregnancy can result from a multitude of other conditions and factors. These include, but are not limited to, advanced maternal age, multiple gestations (twins, triplets, etc.), pre-existing medical conditions (e.g., hypertension, heart disease), and complications arising during pregnancy (e.g., placenta previa, preterm labor). Therefore, having a high risk pregnancy does not definitively indicate the presence of T1DM."
+Disorder due to type 1 diabetes mellitus,435216,False,"No, the condition ""Disorder due to type 1 diabetes mellitus"" is not specific to Type 1 Diabetes Mellitus (T1DM).
+
+Rationale:
+The term ""Disorder due to type 1 diabetes mellitus"" is quite broad and can encompass a wide range of complications and secondary conditions that arise as a result of having T1DM. These complications can include diabetic ketoacidosis (DKA), cardiovascular disease, neuropathy, nephropathy, and retinopathy, among others. While these disorders are indeed associated with T1DM, they are not specific to it in the sense that having one of these disorders does not definitively mean that a person has T1DM. 
+
+For example, diabetic neuropathy can occur in both Type 1 and Type 2 diabetes mellitus. Similarly, cardiovascular disease can be a complication of various conditions, not just T1DM. Therefore, the presence of a ""disorder due to type 1 diabetes mellitus"" does not exclusively indicate that the underlying cause is T1DM, as these disorders can also be seen in other forms of diabetes or even other medical conditions.
+
+Thus, the condition ""Disorder due to type 1 diabetes mellitus"" is not specific to T1DM."
+Type 1 diabetes mellitus uncontrolled,40484648,False,"No.
+
+The condition ""Type 1 diabetes mellitus uncontrolled"" is not specific to Type 1 Diabetes Mellitus (T1DM) in the sense that having uncontrolled T1DM does not definitively mean you have T1DM. The term ""uncontrolled"" simply refers to the state of the disease, indicating that the blood glucose levels are not well-managed. 
+
+However, the presence of ""uncontrolled"" T1DM implies that the person already has a diagnosis of T1DM, but it does not serve as a diagnostic criterion on its own. The diagnosis of T1DM is based on specific criteria such as elevated blood glucose levels, presence of autoantibodies against pancreatic beta cells, and clinical symptoms like polyuria, polydipsia, polyphagia, weight loss, and fatigue. 
+
+Therefore, while ""uncontrolled"" T1DM indicates a poorly managed state of the disease, it does not independently confirm the presence of T1DM without the initial diagnostic criteria being met."
+Osteomyelitis,141663,False,"No.
+
+Osteomyelitis is an infection of the bone, which can be caused by bacteria or fungi. It is not specific to Type 1 Diabetes Mellitus (T1DM). While individuals with T1DM may have an increased risk of infections, including osteomyelitis, due to compromised immune function and poor blood circulation, the presence of osteomyelitis does not definitively indicate that a person has T1DM. Osteomyelitis can occur in individuals without diabetes and can be associated with other conditions or risk factors such as trauma, surgery, or intravenous drug use. Therefore, having osteomyelitis does not mean that a person definitely has T1DM."
+Hypogonadism,4167354,False,"No.
+
+Hypogonadism is not specific to Type 1 Diabetes Mellitus (T1DM). Hypogonadism refers to a condition in which the body's sex glands produce little or no hormones. In men, these are the testes, and in women, these are the ovaries. While hypogonadism can occur in individuals with T1DM, it is not a condition that, if present, definitively indicates that a person has T1DM. Hypogonadism can result from a variety of causes, including genetic disorders, infections, autoimmune conditions, and other endocrine disorders. Therefore, the presence of hypogonadism does not specifically point to T1DM."
+"Diabetes mellitus during pregnancy, childbirth and the puerperium",4058243,False,"No.
+
+Rationale: The condition ""Diabetes mellitus during pregnancy, childbirth and the puerperium"" refers to gestational diabetes or pre-existing diabetes (either Type 1 or Type 2) that is present during pregnancy, childbirth, and the postpartum period. This condition is not specific to Type 1 Diabetes Mellitus (T1DM) because it can also occur in individuals with Type 2 Diabetes Mellitus or gestational diabetes, which is a different form of diabetes that develops during pregnancy and usually resolves after childbirth. Therefore, having diabetes mellitus during pregnancy, childbirth, and the puerperium does not definitively indicate that a person has T1DM."
+Neuropathy associated with endocrine disorder,4048027,False,"No.
+
+Neuropathy associated with an endocrine disorder, such as diabetic neuropathy, is not specific to Type 1 Diabetes Mellitus (T1DM). While neuropathy is a common complication of diabetes, it can also occur in other types of diabetes, such as Type 2 Diabetes Mellitus (T2DM), and other endocrine disorders. Therefore, the presence of neuropathy associated with an endocrine disorder does not definitively indicate that a person has T1DM. It could be indicative of other forms of diabetes or other endocrine-related conditions."
+Hyperglycemia due to type 2 diabetes mellitus,37016349,False,"No.
+
+Rationale: Hyperglycemia due to type 2 diabetes mellitus (T2DM) is not specific to Type 1 Diabetes Mellitus (T1DM). While both T1DM and T2DM can present with hyperglycemia, the underlying causes are different. T1DM is characterized by an autoimmune destruction of pancreatic beta cells leading to absolute insulin deficiency, whereas T2DM is typically associated with insulin resistance and a relative insulin deficiency. Therefore, having hyperglycemia due to T2DM does not mean that a person definitely has T1DM."
+Intellectual disability,40277917,False,"No, intellectual disability is not specific to Type 1 Diabetes Mellitus (T1DM).
+
+**Rationale:**
+- **Type 1 Diabetes Mellitus (T1DM)** is primarily characterized by the autoimmune destruction of pancreatic beta cells, leading to insulin deficiency and hyperglycemia. The hallmark symptoms and signs include polyuria, polydipsia, polyphagia, weight loss, and fatigue. Diagnosis is confirmed through elevated blood glucose levels and the presence of autoantibodies against pancreatic beta cells.
+- **Intellectual disability** is a condition characterized by significant limitations in both intellectual functioning (reasoning, learning, problem-solving) and adaptive behavior, which covers a range of everyday social and practical skills. Intellectual disability originates before the age of 18.
+
+While T1DM can have various complications and may affect cognitive function if poorly managed (e.g., due to recurrent severe hypoglycemia or diabetic ketoacidosis), intellectual disability is not a direct or specific consequence of T1DM. Intellectual disability can result from a wide range of genetic, environmental, and other medical conditions, but it is not specifically caused by T1DM. Therefore, having an intellectual disability does not definitively indicate the presence of T1DM."
+Congenital anomaly of face,439394,False,"No.
+
+A congenital anomaly of the face is a structural abnormality present at birth that affects the facial features. This condition is not specific to Type 1 Diabetes Mellitus (T1DM). T1DM is an autoimmune disorder characterized by the destruction of insulin-producing beta cells in the pancreas, leading to insulin deficiency and hyperglycemia. The typical signs and symptoms of T1DM include polyuria, polydipsia, polyphagia, weight loss, and fatigue, none of which are related to congenital facial anomalies.
+
+While congenital anomalies of the face can be associated with various genetic syndromes and conditions, they are not indicative of T1DM. Therefore, having a congenital anomaly of the face does not mean that a person definitely has T1DM."
+Hyperglycemia due to type 1 diabetes mellitus,37016348,False,"No.
+
+Rationale: Hyperglycemia is a common condition associated with Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Hyperglycemia can occur in various other conditions, including Type 2 Diabetes Mellitus, gestational diabetes, and other forms of secondary diabetes. Therefore, while hyperglycemia is a hallmark of T1DM, its presence alone does not definitively indicate that a person has T1DM, as it can be seen in other types of diabetes and conditions that affect blood glucose levels."
+"Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum",42872398,False,"No, maternal obesity complicating pregnancy, childbirth, and the puerperium, antepartum is not specific to Type 1 Diabetes Mellitus (T1DM).
+
+Rationale:
+Maternal obesity complicating pregnancy, childbirth, and the puerperium, antepartum is a condition that can occur in pregnant women regardless of whether they have Type 1 Diabetes Mellitus. While obesity can increase the risk of developing gestational diabetes and can complicate the management of pre-existing diabetes (including T1DM), it is not specific to T1DM. Many women with maternal obesity do not have T1DM, and maternal obesity can be associated with a variety of other health conditions and complications during pregnancy. Therefore, the presence of maternal obesity complicating pregnancy does not definitively indicate that a person has Type 1 Diabetes Mellitus."
+Pre-existing hypertension in obstetric context,4311246,False,"No.
+
+Pre-existing hypertension in an obstetric context refers to high blood pressure that is present before pregnancy or diagnosed before 20 weeks of gestation. While hypertension can be a comorbidity in individuals with Type 1 Diabetes Mellitus (T1DM), it is not specific to T1DM. Hypertension can occur in a variety of contexts and is associated with numerous other conditions, including Type 2 Diabetes Mellitus, chronic kidney disease, and cardiovascular diseases, among others. Therefore, having pre-existing hypertension in an obstetric context does not definitively indicate that a person has Type 1 Diabetes Mellitus."
+Disorder of nervous system due to type 2 diabetes mellitus,376065,False,"No.
+
+Rationale: The condition ""disorder of nervous system due to type 2 diabetes mellitus"" is not specific to Type 1 Diabetes Mellitus (T1DM). This condition explicitly refers to complications arising from Type 2 Diabetes Mellitus (T2DM), which is a different form of diabetes characterized by insulin resistance and relative insulin deficiency, rather than the absolute insulin deficiency seen in T1DM. Therefore, having a nervous system disorder due to T2DM does not indicate that a person has T1DM."
+Acidosis due to type 1 diabetes mellitus,36715571,False,"No.
+
+Rationale: Acidosis, specifically diabetic ketoacidosis (DKA), is a serious complication that can occur in individuals with Type 1 Diabetes Mellitus (T1DM). However, not all individuals with T1DM will experience acidosis. While DKA is a significant and potentially life-threatening condition associated with T1DM, it is not specific to T1DM in the sense that its presence does not definitively indicate that a person has T1DM. Other conditions, such as Type 2 Diabetes Mellitus (T2DM) under certain stress conditions, can also lead to DKA. Therefore, while acidosis due to T1DM is a known complication, it is not specific to T1DM."
+Ketoacidosis due to type 1 diabetes mellitus,439770,False,"No.
+
+Ketoacidosis due to type 1 diabetes mellitus, also known as diabetic ketoacidosis (DKA), is a serious complication that can occur in individuals with type 1 diabetes mellitus (T1DM). However, not all individuals with T1DM will experience ketoacidosis. While DKA is a condition that can arise from T1DM, its presence is not specific to T1DM alone. DKA can also occur in individuals with type 2 diabetes mellitus (T2DM) under certain circumstances, such as severe illness or stress, although it is less common.
+
+Therefore, having ketoacidosis due to type 1 diabetes mellitus does not definitively mean that a person has T1DM, as it can also occur in other contexts."
+Renal disorder due to type 1 diabetes mellitus,200687,False,"No.
+
+Rationale: A renal disorder due to type 1 diabetes mellitus (T1DM) is a complication that can arise from the malady, but it is not specific to T1DM. While individuals with T1DM are at increased risk for developing renal disorders such as diabetic nephropathy, having a renal disorder does not definitively indicate that the person has T1DM. Renal disorders can result from a variety of other conditions, including type 2 diabetes mellitus, hypertension, glomerulonephritis, and other systemic diseases. Therefore, the presence of a renal disorder due to T1DM does not mean that the individual definitely has T1DM, as renal disorders can be caused by multiple other factors."
+Disorder of nervous system due to type 1 diabetes mellitus,377821,False,"No.
+
+Rationale: A disorder of the nervous system due to type 1 diabetes mellitus (T1DM) is a complication that can arise from the disease, but it is not specific to T1DM. While T1DM can lead to various nervous system disorders such as diabetic neuropathy, having a nervous system disorder does not definitively mean that a person has T1DM. Nervous system disorders can result from a wide range of other conditions, including type 2 diabetes mellitus, other metabolic disorders, infections, genetic conditions, and more. Therefore, the presence of a nervous system disorder due to T1DM is not specific to T1DM alone."
+Disorder of eye due to type 1 diabetes mellitus,42538169,False,"No.
+
+Rationale: A disorder of the eye due to type 1 diabetes mellitus, such as diabetic retinopathy, is a complication that can arise from having Type 1 Diabetes Mellitus (T1DM). However, not all individuals with T1DM will develop eye disorders. Therefore, having an eye disorder due to T1DM does not definitively mean that a person has T1DM, as eye disorders can also be caused by other conditions. Thus, the condition is not specific to T1DM."
+Chronic ulcer of foot,4181965,False,"No.
+
+Rationale: A chronic ulcer of the foot is not specific to Type 1 Diabetes Mellitus (T1DM). While foot ulcers are a common complication in individuals with diabetes, they can also occur in other conditions such as peripheral arterial disease, venous insufficiency, and other types of diabetes like Type 2 Diabetes Mellitus. Therefore, having a chronic ulcer of the foot does not definitively indicate that a person has T1DM."
+Polyneuropathy due to type 2 diabetes mellitus,37017432,False,"No.
+
+Polyneuropathy due to type 2 diabetes mellitus is not specific to Type 1 Diabetes Mellitus (T1DM). Polyneuropathy is a common complication of diabetes, but it is not exclusive to T1DM. It can occur in both Type 1 and Type 2 diabetes mellitus. The condition mentioned specifically refers to polyneuropathy due to type 2 diabetes mellitus, which indicates that the underlying cause is Type 2 diabetes, not Type 1 diabetes. Therefore, having polyneuropathy due to type 2 diabetes mellitus does not mean that a person definitely has Type 1 Diabetes Mellitus."
+Macular edema due to diabetes mellitus,380097,False,"No.
+
+Macular edema due to diabetes mellitus is a condition that can occur in individuals with diabetes, but it is not specific to Type 1 Diabetes Mellitus (T1DM). Macular edema is a complication that can arise from diabetic retinopathy, which can occur in both Type 1 and Type 2 diabetes mellitus. Therefore, having macular edema due to diabetes mellitus does not definitively indicate that a person has T1DM; they could also have Type 2 diabetes or another form of diabetes that leads to hyperglycemia and subsequent retinal complications."
+Peripheral circulatory disorder due to type 1 diabetes mellitus,318712,False,"No.
+
+Rationale: A peripheral circulatory disorder can be a complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Peripheral circulatory disorders can also occur in other conditions, such as Type 2 Diabetes Mellitus, peripheral artery disease, and other vascular disorders. Therefore, having a peripheral circulatory disorder does not definitively mean that a person has T1DM."
+Diabetic foot ulcer,4159742,False,"No.
+
+A diabetic foot ulcer is not specific to Type 1 Diabetes Mellitus (T1DM). While diabetic foot ulcers are a common complication in individuals with diabetes, they can occur in both Type 1 and Type 2 diabetes mellitus. Therefore, having a diabetic foot ulcer does not definitively indicate that a person has T1DM; they could also have Type 2 diabetes or another condition that predisposes them to foot ulcers."
+Diabetic ketoacidosis without coma,4009303,False,"No.
+
+Diabetic ketoacidosis (DKA) without coma is not specific to Type 1 Diabetes Mellitus (T1DM). While DKA is a serious and common complication of T1DM, it can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) under certain conditions, such as severe illness, infection, or significant insulin deficiency. Therefore, the presence of DKA without coma does not definitively indicate that a person has T1DM, as it can also be seen in other forms of diabetes."
+Foot ulcer due to type 2 diabetes mellitus,43530690,False,"No.
+
+Rationale: A foot ulcer due to type 2 diabetes mellitus is not specific to Type 1 Diabetes Mellitus (T1DM). Foot ulcers are a common complication of diabetes in general, but they are more frequently associated with Type 2 Diabetes Mellitus (T2DM) due to the typically longer duration of the disease and the presence of peripheral neuropathy and vascular complications. While individuals with T1DM can also develop foot ulcers, the presence of a foot ulcer specifically due to T2DM indicates that the person has T2DM, not T1DM. Therefore, having a foot ulcer due to T2DM does not mean that the person definitely has T1DM."
+Pre-existing diabetes mellitus in pregnancy,43531007,False,"No.
+
+Rationale: Pre-existing diabetes mellitus in pregnancy refers to a woman who already has diabetes (either Type 1 or Type 2) before becoming pregnant. This condition does not specify the type of diabetes. Therefore, having pre-existing diabetes mellitus in pregnancy does not definitively mean that the individual has Type 1 Diabetes Mellitus; they could also have Type 2 Diabetes Mellitus or another form of diabetes. Thus, the condition is not specific to Type 1 Diabetes Mellitus."
+Retinopathy due to type 1 diabetes mellitus,4227210,False,"No.
+
+Rationale:
+Retinopathy due to type 1 diabetes mellitus is a complication that can arise from having Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. This means that while individuals with T1DM are at risk of developing diabetic retinopathy, the presence of retinopathy alone does not definitively indicate that a person has T1DM. Retinopathy can also occur in individuals with other forms of diabetes, such as Type 2 Diabetes Mellitus (T2DM). Therefore, having retinopathy due to diabetes does not specifically confirm that the underlying condition is T1DM."
+Primary hypogonadism,4153218,False,"No.
+
+Primary hypogonadism is a condition characterized by the failure of the gonads (testes in men and ovaries in women) to produce sufficient sex hormones. This condition can result from various causes, including genetic disorders, autoimmune diseases, infections, and physical damage to the gonads. Symptoms may include delayed puberty, infertility, decreased libido, and other signs of hormone deficiency.
+
+While Type 1 Diabetes Mellitus (T1DM) and primary hypogonadism can both be autoimmune in nature and may co-occur in some individuals, primary hypogonadism is not specific to T1DM. In other words, having primary hypogonadism does not definitively mean that a person has T1DM. Primary hypogonadism can occur independently of T1DM and can be associated with a variety of other conditions and causes.
+
+Therefore, the presence of primary hypogonadism does not specifically indicate that a person has Type 1 Diabetes Mellitus."
+Multiple malformation syndrome with facial defects as major feature,4274970,False,"No.
+
+Rationale: Multiple malformation syndrome with facial defects as a major feature is not specific to Type 1 Diabetes Mellitus (T1DM). T1DM is primarily an autoimmune disorder characterized by the destruction of insulin-producing beta cells in the pancreas, leading to insulin deficiency and hyperglycemia. The typical signs and symptoms of T1DM include polyuria, polydipsia, polyphagia, weight loss, and fatigue, none of which are related to multiple malformation syndromes or facial defects.
+
+Multiple malformation syndromes with facial defects are typically genetic or developmental disorders that involve a range of physical anomalies, including facial abnormalities. These syndromes are not associated with the autoimmune destruction of pancreatic beta cells or the metabolic disturbances seen in T1DM.
+
+Therefore, having a condition of multiple malformation syndrome with facial defects does not imply that a person definitely has T1DM."
+Autonomic neuropathy due to type 2 diabetes mellitus,37016768,False,"No.
+
+Autonomic neuropathy due to type 2 diabetes mellitus is not specific to Type 1 Diabetes Mellitus (T1DM). Autonomic neuropathy is a type of nerve damage that affects the autonomic nervous system, and it can occur in both Type 1 and Type 2 diabetes mellitus. However, the condition specified here is autonomic neuropathy due to type 2 diabetes mellitus, which explicitly indicates that the neuropathy is a complication of Type 2 diabetes, not Type 1.
+
+Therefore, having autonomic neuropathy due to type 2 diabetes mellitus does not mean that the person has Type 1 Diabetes Mellitus. It is specific to Type 2 diabetes mellitus, not Type 1."
+Hyperosmolarity due to type 1 diabetes mellitus,42535540,False,"No.
+
+Hyperosmolarity, specifically hyperosmolar hyperglycemic state (HHS), is more commonly associated with Type 2 Diabetes Mellitus rather than Type 1 Diabetes Mellitus. While both types of diabetes can lead to severe hyperglycemia, the typical acute complication of Type 1 Diabetes Mellitus is diabetic ketoacidosis (DKA), not hyperosmolarity. Therefore, hyperosmolarity is not specific to Type 1 Diabetes Mellitus. If a patient presents with hyperosmolarity, it does not definitively indicate that they have Type 1 Diabetes Mellitus; it could also be indicative of Type 2 Diabetes Mellitus or other conditions that cause severe hyperglycemia."
+Hyperosmolarity,4032787,False,"No.
+
+Hyperosmolarity is not specific to Type 1 Diabetes Mellitus (T1DM). While hyperosmolarity can occur in the context of diabetes, particularly in severe cases of hyperglycemia, it is not exclusive to T1DM. Hyperosmolarity can also be seen in other conditions such as Type 2 Diabetes Mellitus, especially in the context of Hyperosmolar Hyperglycemic State (HHS), dehydration, renal failure, and other metabolic disturbances. Therefore, the presence of hyperosmolarity does not definitively indicate that a person has T1DM."
+Pre-existing type 2 diabetes mellitus in pregnancy,43531010,False,"No.
+
+Rationale: Pre-existing type 2 diabetes mellitus in pregnancy is not specific to Type 1 Diabetes Mellitus (T1DM). Type 2 diabetes mellitus (T2DM) is a different form of diabetes characterized by insulin resistance and relative insulin deficiency, rather than the absolute insulin deficiency seen in T1DM. While both conditions involve hyperglycemia, they have different pathophysiologies and management strategies. Therefore, having pre-existing type 2 diabetes mellitus in pregnancy does not mean that a person definitely has T1DM."
+Hypoglycemia due to type 1 diabetes mellitus,45769876,False,"No.
+
+Hypoglycemia, or low blood sugar, can occur in individuals with Type 1 Diabetes Mellitus (T1DM) due to the administration of insulin or other glucose-lowering therapies. However, hypoglycemia is not specific to T1DM. It can also occur in individuals with other types of diabetes, such as Type 2 Diabetes Mellitus, especially if they are on insulin or certain oral hypoglycemic agents. Additionally, hypoglycemia can occur in non-diabetic individuals due to various other conditions, such as insulinoma, adrenal insufficiency, severe liver disease, or after excessive alcohol consumption.
+
+Therefore, while hypoglycemia can be a complication of T1DM, it is not specific to T1DM, as it can occur in other contexts as well."
+Hyperosmolar coma due to type 1 diabetes mellitus,201531,False,"No.
+
+Rationale: Hyperosmolar coma, also known as hyperosmolar hyperglycemic state (HHS), is more commonly associated with Type 2 Diabetes Mellitus rather than Type 1 Diabetes Mellitus. While it is possible for someone with Type 1 Diabetes Mellitus to develop a hyperosmolar coma, it is not specific to T1DM. The more specific acute complication of T1DM is Diabetic Ketoacidosis (DKA), which is characterized by hyperglycemia, ketosis, and metabolic acidosis. Therefore, the presence of a hyperosmolar coma does not definitively indicate that a person has Type 1 Diabetes Mellitus."
+Proliferative retinopathy due to type 1 diabetes mellitus,45763584,False,"No.
+
+Proliferative retinopathy is a specific complication that can arise from long-standing diabetes, including Type 1 Diabetes Mellitus (T1DM). However, not all individuals with T1DM will develop proliferative retinopathy. While proliferative retinopathy due to T1DM indicates that the person has T1DM, having T1DM does not necessarily mean the person will develop proliferative retinopathy. Therefore, proliferative retinopathy due to T1DM is not specific to T1DM in the sense that its presence does not definitively diagnose T1DM, as it is a complication rather than a defining feature of the disease."
+Severe nonproliferative retinopathy due to diabetes mellitus,376114,False,"No.
+
+Severe nonproliferative retinopathy due to diabetes mellitus is a condition that can occur in individuals with diabetes mellitus, but it is not specific to Type 1 Diabetes Mellitus (T1DM). This type of retinopathy can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) or other forms of diabetes. Therefore, having severe nonproliferative retinopathy due to diabetes mellitus does not definitively indicate that a person has T1DM; they could have another type of diabetes."
+Neuropathy due to type 1 diabetes mellitus,37312218,False,"No.
+
+Rationale: Neuropathy, specifically diabetic neuropathy, is a common complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Neuropathy can also occur in individuals with other types of diabetes, such as Type 2 Diabetes Mellitus (T2DM), and can be caused by other conditions such as chronic alcohol abuse, vitamin deficiencies, and certain infections. Therefore, while neuropathy can be a result of T1DM, having neuropathy does not definitively mean that a person has T1DM."
+Nonproliferative diabetic retinopathy due to type 1 diabetes mellitus,45763583,False,"No.
+
+Rationale: Nonproliferative diabetic retinopathy (NPDR) is a complication that can arise from Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. NPDR can also occur in individuals with Type 2 Diabetes Mellitus (T2DM). Therefore, having NPDR does not definitively mean that a person has T1DM; they could also have T2DM or another form of diabetes that leads to retinopathy. Thus, NPDR is not specific to T1DM."
+Peripheral angiopathy due to diabetes mellitus,4131908,False,"No.
+
+Peripheral angiopathy due to diabetes mellitus refers to damage to the blood vessels in the extremities (such as the legs and feet) as a result of diabetes. While peripheral angiopathy can occur in individuals with diabetes, it is not specific to Type 1 Diabetes Mellitus (T1DM) alone. This condition can also be seen in individuals with Type 2 Diabetes Mellitus (T2DM) and other forms of diabetes. Therefore, having peripheral angiopathy due to diabetes mellitus does not definitively indicate that a person has T1DM; they could have another type of diabetes."
+Mild nonproliferative retinopathy due to type 1 diabetes mellitus,37016179,False,"No.
+
+Mild nonproliferative retinopathy is a complication that can occur in individuals with Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. This condition can also occur in individuals with other types of diabetes, such as Type 2 Diabetes Mellitus (T2DM). Therefore, having mild nonproliferative retinopathy does not definitively indicate that a person has T1DM; it only indicates that the person has some form of diabetes that has led to this complication."
+Dermopathy due to type 2 diabetes mellitus,43531616,False,"No.
+
+Dermopathy due to type 2 diabetes mellitus, also known as diabetic dermopathy, is a skin condition characterized by light brown, scaly patches that are often found on the shins. While it is more commonly associated with type 2 diabetes mellitus (T2DM), it is not specific to T1DM. 
+
+Type 1 Diabetes Mellitus (T1DM) and Type 2 Diabetes Mellitus (T2DM) are distinct conditions with different pathophysiologies. T1DM is an autoimmune disorder leading to the destruction of insulin-producing beta cells, whereas T2DM is primarily characterized by insulin resistance and relative insulin deficiency. 
+
+Although skin conditions can occur in both types of diabetes, the presence of dermopathy due to T2DM does not definitively indicate T1DM. Therefore, having dermopathy due to T2DM does not mean that a person definitely has T1DM."
+Type 2 diabetes mellitus with ulcer,4099651,False,"No.
+
+Rationale:
+Type 2 diabetes mellitus (T2DM) with an ulcer is not specific to Type 1 Diabetes Mellitus (T1DM). T2DM is a different form of diabetes characterized by insulin resistance and relative insulin deficiency, rather than the absolute insulin deficiency seen in T1DM. While both types of diabetes can lead to complications such as ulcers, the presence of T2DM with an ulcer does not indicate that a person has T1DM. Therefore, having T2DM with an ulcer does not mean that the person definitely has T1DM."
+Hyperosmolality due to uncontrolled type 1 diabetes mellitus,443592,False,"No.
+
+Rationale: Hyperosmolality, particularly hyperosmolar hyperglycemic state (HHS), is more commonly associated with Type 2 Diabetes Mellitus rather than Type 1 Diabetes Mellitus. In Type 1 Diabetes Mellitus, the more typical acute complication is Diabetic Ketoacidosis (DKA), which is characterized by hyperglycemia, ketosis, and metabolic acidosis. While hyperosmolality can occur in the context of severe hyperglycemia, it is not specific to Type 1 Diabetes Mellitus and can be seen in other conditions, including Type 2 Diabetes Mellitus and other causes of severe hyperglycemia. Therefore, the presence of hyperosmolality due to uncontrolled diabetes does not definitively indicate Type 1 Diabetes Mellitus."
+Peripheral neuropathy due to type 1 diabetes mellitus,37018566,False,"No.
+
+Peripheral neuropathy is a common complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Peripheral neuropathy can result from various other conditions, including Type 2 Diabetes Mellitus, chronic alcohol abuse, certain infections, vitamin deficiencies, and other metabolic disorders. Therefore, while peripheral neuropathy can occur in individuals with T1DM, its presence alone does not definitively indicate that a person has T1DM."
+Polyneuropathy due to type 1 diabetes mellitus,37017431,False,"No.
+
+Polyneuropathy due to type 1 diabetes mellitus is a complication that can arise from having Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. While polyneuropathy can occur in individuals with T1DM, it can also occur in individuals with other types of diabetes, such as Type 2 Diabetes Mellitus (T2DM), and other conditions that affect the peripheral nerves. Therefore, having polyneuropathy does not definitively indicate that a person has T1DM; it only suggests that they may have a form of diabetes or another underlying condition that can cause polyneuropathy."
+Autonomic neuropathy due to type 1 diabetes mellitus,37016767,False,"No.
+
+Rationale: Autonomic neuropathy is a complication that can arise from Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Autonomic neuropathy can also occur in other conditions, including Type 2 Diabetes Mellitus and other diseases that affect the autonomic nervous system. Therefore, while autonomic neuropathy due to T1DM indicates that the person has T1DM, the presence of autonomic neuropathy alone does not definitively mean that the person has T1DM, as it could be due to other causes."
+Ulcer of lower limb due to type 1 diabetes mellitus,45770902,False,"No.
+
+An ulcer of the lower limb can be a complication of diabetes mellitus, including Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Ulcers of the lower limb can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) and other conditions that affect circulation and wound healing, such as peripheral arterial disease or venous insufficiency. Therefore, while a lower limb ulcer in a patient with diabetes may suggest poor glycemic control and complications related to diabetes, it does not definitively indicate that the patient has T1DM specifically."
+Moderate nonproliferative retinopathy due to type 1 diabetes mellitus,37016180,False,"No.
+
+Moderate nonproliferative retinopathy is a complication that can arise from Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Retinopathy, including moderate nonproliferative retinopathy, can also occur in individuals with other types of diabetes, such as Type 2 Diabetes Mellitus (T2DM). Therefore, while the presence of moderate nonproliferative retinopathy due to diabetes suggests that the individual has some form of diabetes, it does not definitively indicate that the individual has Type 1 Diabetes Mellitus specifically."
+Pre-existing diabetes mellitus in mother complicating childbirth,45757079,False,"No.
+
+Rationale: The condition ""pre-existing diabetes mellitus in mother complicating childbirth"" refers to any form of diabetes mellitus that a mother has before becoming pregnant, which then complicates the childbirth process. This condition does not specify the type of diabetes mellitus (Type 1, Type 2, or other forms). Therefore, having this condition does not definitively mean that the mother has Type 1 Diabetes Mellitus (T1DM); she could have Type 2 Diabetes Mellitus or another form of diabetes. Thus, the condition is not specific to Type 1 Diabetes Mellitus."
+Type 1 diabetes mellitus with arthropathy,4152858,False,"No.
+
+Rationale: Type 1 diabetes mellitus with arthropathy refers to the presence of joint disorders (arthropathy) in a patient who has Type 1 Diabetes Mellitus (T1DM). While T1DM can be associated with various complications, including musculoskeletal issues, the presence of arthropathy is not specific to T1DM. Arthropathy can occur in a variety of other conditions and diseases, such as rheumatoid arthritis, osteoarthritis, and other types of diabetes. Therefore, having arthropathy does not definitively indicate that a person has T1DM."
+Traction retinal detachment involving macula,4338896,False,"No.
+
+Traction retinal detachment involving the macula is not specific to Type 1 Diabetes Mellitus (T1DM). While retinal complications, such as diabetic retinopathy, are common in individuals with diabetes, traction retinal detachment can occur due to various other conditions as well. These include proliferative diabetic retinopathy, but also other causes like retinal vein occlusion, trauma, or other proliferative vitreoretinopathies. Therefore, having a traction retinal detachment involving the macula does not definitively indicate that a person has T1DM."
+Cataract due to diabetes mellitus type 1,4225656,False,"No.
+
+Rationale: While cataracts can develop as a complication of diabetes mellitus, they are not specific to Type 1 Diabetes Mellitus (T1DM). Cataracts can occur in individuals with other types of diabetes, such as Type 2 Diabetes Mellitus (T2DM), and can also develop due to other factors unrelated to diabetes, such as aging, trauma, or certain medications. Therefore, the presence of cataracts does not definitively indicate that a person has T1DM."
+Neuropathic arthropathy due to type 1 diabetes mellitus,45769830,False,"No.
+
+Neuropathic arthropathy, also known as Charcot joint, is a condition that can occur in individuals with long-standing diabetes, particularly those with diabetic neuropathy. While it is a serious complication associated with diabetes, it is not specific to Type 1 Diabetes Mellitus (T1DM) alone. Neuropathic arthropathy can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) and other conditions that cause peripheral neuropathy, such as syphilis or spinal cord injuries.
+
+Therefore, having neuropathic arthropathy due to diabetes does not definitively mean that the individual has T1DM, as it could also be due to T2DM or other causes of neuropathy."
+Hypoglycemic coma due to type 1 diabetes mellitus,4228112,False,"No.
+
+Rationale: Hypoglycemic coma is a severe condition that can occur in individuals with Type 1 Diabetes Mellitus (T1DM) due to excessively low blood glucose levels, often as a result of insulin therapy. However, hypoglycemic coma is not specific to T1DM alone. It can also occur in individuals with other forms of diabetes, such as Type 2 Diabetes Mellitus (T2DM), particularly if they are on insulin or certain oral hypoglycemic agents. Therefore, while hypoglycemic coma can be a complication of T1DM, its presence does not definitively indicate that a person has T1DM, as it can also occur in other contexts."
+Dermopathy due to type 1 diabetes mellitus,45769832,False,"No.
+
+Dermopathy due to type 1 diabetes mellitus, also known as diabetic dermopathy, is a skin condition that can occur in individuals with diabetes. It is characterized by light brown, scaly patches that are often found on the shins. While diabetic dermopathy is associated with diabetes, it is not specific to Type 1 Diabetes Mellitus (T1DM). 
+
+Diabetic dermopathy can occur in both Type 1 and Type 2 diabetes mellitus, as well as in other conditions that cause chronic hyperglycemia. Therefore, the presence of diabetic dermopathy does not definitively indicate that a person has T1DM; it only suggests that the person has some form of diabetes or a condition leading to chronic hyperglycemia. 
+
+Thus, the condition of dermopathy due to type 1 diabetes mellitus is not specific to T1DM."
+Skin ulcer due to diabetes mellitus,4227657,False,"No.
+
+A skin ulcer due to diabetes mellitus is not specific to Type 1 Diabetes Mellitus (T1DM). While skin ulcers can occur in individuals with diabetes, they are more commonly associated with long-term complications of diabetes, particularly in those with poor glycemic control. Both Type 1 and Type 2 Diabetes Mellitus can lead to skin ulcers due to complications such as peripheral neuropathy and poor circulation. Therefore, the presence of a skin ulcer due to diabetes mellitus does not definitively indicate that a person has Type 1 Diabetes Mellitus; it could also be indicative of Type 2 Diabetes Mellitus or other forms of diabetes."
+Mononeuropathy due to type 1 diabetes mellitus,4225055,False,"No.
+
+Rationale: Mononeuropathy, which is a type of nerve damage affecting a single nerve, can indeed occur in individuals with Type 1 Diabetes Mellitus (T1DM) as a complication. However, it is not specific to T1DM. Mononeuropathy can also occur due to other conditions such as trauma, infections, systemic diseases (like vasculitis), and other types of diabetes (e.g., Type 2 Diabetes Mellitus). Therefore, while mononeuropathy can be a complication of T1DM, its presence does not definitively indicate that a person has T1DM."
+Ketoacidotic coma due to type 1 diabetes mellitus,4224254,False,"No.
+
+Rationale: Ketoacidotic coma, also known as diabetic ketoacidosis (DKA), is a severe and potentially life-threatening complication of Type 1 Diabetes Mellitus (T1DM). While DKA is a serious condition that can occur in individuals with T1DM, it is not specific to T1DM. This means that not all individuals with T1DM will experience DKA or a ketoacidotic coma. Therefore, having a ketoacidotic coma does not definitively mean that a person has T1DM, as DKA can also occur in individuals with other forms of diabetes, such as Type 2 Diabetes Mellitus, particularly under conditions of severe stress or illness. Thus, the condition of ketoacidotic coma due to type 1 diabetes mellitus is not specific to T1DM."
+Traction detachment of retina due to type 1 diabetes mellitus,45769873,False,"No.
+
+Traction detachment of the retina can occur as a complication of diabetic retinopathy, which is a condition that can develop in individuals with diabetes, including Type 1 Diabetes Mellitus (T1DM). However, not all individuals with T1DM will develop diabetic retinopathy, and not all cases of diabetic retinopathy will progress to traction retinal detachment. Therefore, while traction detachment of the retina can be associated with T1DM, it is not specific to T1DM. In other words, having traction detachment of the retina due to T1DM does not definitively mean that one has T1DM, as this condition can also occur in other contexts and with other types of diabetes."
+Gangrene due to type 1 diabetes mellitus,4223303,False,"No.
+
+Rationale: Gangrene is a serious condition that involves the death of body tissue due to a lack of blood flow or a severe bacterial infection. While it can occur as a complication of Type 1 Diabetes Mellitus (T1DM), it is not specific to T1DM. Gangrene can also result from other conditions that impair blood circulation or immune response, such as peripheral artery disease, severe injuries, or infections. Therefore, having gangrene does not definitively mean that a person has T1DM, even though individuals with T1DM are at higher risk for such complications due to potential vascular and neuropathic issues."
+Hypoglycemic unawareness due to type 1 diabetes mellitus,45757362,False,"No.
+
+Hypoglycemic unawareness is a condition where a person with diabetes does not experience the usual warning symptoms of low blood sugar (hypoglycemia). This condition can occur in individuals with Type 1 Diabetes Mellitus (T1DM) due to repeated episodes of hypoglycemia, which can blunt the body's normal response to low blood sugar levels.
+
+However, hypoglycemic unawareness is not specific to T1DM. It can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) who are on insulin therapy or other medications that can cause hypoglycemia. Therefore, while hypoglycemic unawareness can be a complication of T1DM, it is not exclusive to it. If someone has hypoglycemic unawareness, it does not definitively mean they have T1DM, as it can also be seen in other forms of diabetes."
+End stage renal disease on dialysis due to type 1 diabetes mellitus,45769904,False,"No.
+
+Rationale: End stage renal disease (ESRD) on dialysis can be a complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. ESRD can result from various causes, including Type 2 Diabetes Mellitus, hypertension, glomerulonephritis, and other chronic kidney diseases. Therefore, while ESRD on dialysis due to T1DM indicates that the individual has T1DM, the presence of ESRD on dialysis alone does not definitively indicate T1DM, as it can be caused by other conditions as well."
+Cranial nerve palsy due to type 1 diabetes mellitus,35626765,False,"No.
+
+Cranial nerve palsy is not specific to Type 1 Diabetes Mellitus (T1DM). While cranial nerve palsy can occur as a complication of diabetes due to microvascular damage or diabetic neuropathy, it is not exclusive to T1DM. Cranial nerve palsy can also be caused by a variety of other conditions, including infections, tumors, trauma, multiple sclerosis, and other systemic diseases. Therefore, the presence of cranial nerve palsy does not definitively indicate that a person has T1DM."
+Chronic kidney disease stage 4 due to type 1 diabetes mellitus,45769902,False,"No.
+
+Rationale:
+Chronic kidney disease (CKD) stage 4 due to type 1 diabetes mellitus (T1DM) is a severe complication that can arise from long-standing T1DM. However, it is not specific to T1DM. While CKD stage 4 can occur as a result of T1DM, it can also be caused by other conditions such as type 2 diabetes mellitus, hypertension, glomerulonephritis, and other kidney diseases. Therefore, having CKD stage 4 does not definitively mean that a person has T1DM, as it could be due to other underlying causes."
+Eating disorder co-occurrent with diabetes mellitus type 1,42689695,False,"No.
+
+Rationale: An eating disorder co-occurring with Type 1 Diabetes Mellitus (T1DM) is not specific to T1DM. While it is true that individuals with T1DM may develop eating disorders, particularly due to the psychological stress of managing a chronic condition and the focus on diet and body weight, the presence of an eating disorder does not definitively indicate that a person has T1DM. Eating disorders can occur in individuals without T1DM and are not exclusive to those with this condition. Therefore, having an eating disorder does not mean that one definitely has T1DM."
+Dyslipidemia due to type 1 diabetes mellitus,37016353,False,"No.
+
+Dyslipidemia, which refers to abnormal levels of lipids in the blood, can indeed occur in individuals with Type 1 Diabetes Mellitus (T1DM) due to the metabolic disturbances associated with the disease. However, dyslipidemia is not specific to T1DM. Dyslipidemia can occur in a variety of other conditions, including Type 2 Diabetes Mellitus, metabolic syndrome, hypothyroidism, chronic kidney disease, and as a result of certain lifestyle factors such as poor diet and lack of exercise.
+
+Therefore, while dyslipidemia can be a consequence of T1DM, its presence does not definitively indicate that a person has T1DM. It is not a condition that is specific to T1DM alone."
+Chronic kidney disease stage 5 due to type 1 diabetes mellitus,45769903,False,"No.
+
+Chronic kidney disease (CKD) stage 5, also known as end-stage renal disease (ESRD), can indeed be a complication of Type 1 Diabetes Mellitus (T1DM). However, it is not specific to T1DM. CKD stage 5 can result from various other conditions, including Type 2 Diabetes Mellitus, hypertension, glomerulonephritis, polycystic kidney disease, and other renal pathologies.
+
+While T1DM can lead to CKD stage 5 due to diabetic nephropathy, having CKD stage 5 does not definitively mean that the individual has T1DM. Therefore, the condition ""Chronic kidney disease stage 5 due to type 1 diabetes mellitus"" is not specific to T1DM."
+Chronic kidney disease stage 2 due to type 1 diabetes mellitus,45769901,False,"No.
+
+Rationale:
+Chronic kidney disease (CKD) stage 2 due to type 1 diabetes mellitus (T1DM) is not specific to T1DM. While CKD can be a complication of T1DM, it can also result from other conditions such as type 2 diabetes mellitus, hypertension, glomerulonephritis, and other kidney diseases. Therefore, having CKD stage 2 does not definitively indicate that a person has T1DM. It is a condition that can arise from multiple etiologies, not exclusively from T1DM."
+Diabetes mellitus in remission,45766050,False,"No.
+
+Rationale: ""Diabetes mellitus in remission"" refers to a state where a person with diabetes has achieved normal blood glucose levels without the need for ongoing medication or insulin therapy. This condition is more commonly associated with Type 2 Diabetes Mellitus (T2DM), where lifestyle changes, weight loss, and other interventions can lead to remission. 
+
+Type 1 Diabetes Mellitus (T1DM), on the other hand, is characterized by an absolute deficiency of insulin due to autoimmune destruction of pancreatic beta cells. This means that individuals with T1DM require lifelong insulin therapy and cannot achieve remission in the same way that individuals with T2DM might. Therefore, the condition ""diabetes mellitus in remission"" is not specific to T1DM, as it is not a typical or expected outcome for this type of diabetes."
+Persistent proteinuria due to type 1 diabetes mellitus,4222553,False,"No.
+
+Persistent proteinuria (the presence of excess proteins in the urine) can be a complication of Type 1 Diabetes Mellitus (T1DM), often indicating diabetic nephropathy, which is a form of kidney damage. However, persistent proteinuria is not specific to T1DM. It can also occur in other conditions such as Type 2 Diabetes Mellitus, hypertension, glomerulonephritis, and other kidney diseases. Therefore, while persistent proteinuria can be a sign of T1DM-related kidney damage, it is not specific to T1DM alone."
+Ankle ulcer due to type 1 diabetes mellitus,45769891,False,"No.
+
+An ankle ulcer can be a complication of diabetes, but it is not specific to Type 1 Diabetes Mellitus (T1DM). Ulcers, particularly on the lower extremities, are more commonly associated with diabetic neuropathy and peripheral vascular disease, which can occur in both Type 1 and Type 2 diabetes. Therefore, while an ankle ulcer can be a result of diabetes, it is not specific to T1DM alone. Other conditions, such as Type 2 diabetes or peripheral arterial disease, can also lead to the development of ankle ulcers. Thus, having an ankle ulcer does not definitively indicate that a person has Type 1 Diabetes Mellitus."
+Ulcer of forefoot due to type 1 diabetes mellitus,45769892,False,"No.
+
+An ulcer of the forefoot due to type 1 diabetes mellitus is not specific to Type 1 Diabetes Mellitus (T1DM). While foot ulcers can occur in individuals with T1DM, they are not exclusive to this condition. Foot ulcers can also be seen in individuals with other types of diabetes, particularly Type 2 Diabetes Mellitus (T2DM), and can result from other conditions that cause peripheral neuropathy or poor circulation, such as peripheral arterial disease. Therefore, having a forefoot ulcer does not definitively indicate that a person has T1DM."
+Proteinuria due to type 1 diabetes mellitus,45757604,False,"No.
+
+Proteinuria, which is the presence of excess proteins in the urine, can be a complication of Type 1 Diabetes Mellitus (T1DM), often indicating diabetic nephropathy. However, proteinuria is not specific to T1DM. It can occur in a variety of other conditions, including but not limited to Type 2 Diabetes Mellitus, hypertension, glomerulonephritis, and other kidney diseases. Therefore, while proteinuria can be a sign of T1DM-related kidney damage, it is not specific to T1DM alone. If a person has proteinuria, it does not definitively mean they have T1DM; they could have another underlying condition causing the proteinuria."
+Vitreous hemorrhage due to type 1 diabetes mellitus,45757074,False,"No.
+
+Vitreous hemorrhage can occur in individuals with Type 1 Diabetes Mellitus (T1DM) as a complication, particularly due to diabetic retinopathy, which is a common microvascular complication of diabetes. However, vitreous hemorrhage is not specific to T1DM. It can also occur due to other conditions such as trauma, retinal tears or detachments, other types of diabetes (e.g., Type 2 Diabetes Mellitus), and various other ocular or systemic conditions.
+
+Therefore, while vitreous hemorrhage can be associated with T1DM, it is not specific to it. If a person has a vitreous hemorrhage, it does not definitively mean they have T1DM, as there are multiple potential causes for this condition."
+Ischemia of retina due to type 1 diabetes mellitus,45757073,False,"No.
+
+Ischemia of the retina, also known as diabetic retinopathy, can occur in individuals with Type 1 Diabetes Mellitus (T1DM) as a complication of the disease. However, it is not specific to T1DM. Diabetic retinopathy can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) and other conditions that cause chronic hyperglycemia. Therefore, while ischemia of the retina can be a consequence of T1DM, its presence does not definitively indicate that a person has T1DM, as it could also be due to other forms of diabetes or other causes of retinal ischemia."
+Brittle type 1 diabetes mellitus,4128019,False,"No.
+
+Brittle type 1 diabetes mellitus (T1DM) is a specific subtype of type 1 diabetes characterized by severe instability in blood glucose levels, leading to frequent and unpredictable episodes of hyperglycemia and hypoglycemia. While brittle diabetes is a form of type 1 diabetes, not all individuals with type 1 diabetes will experience the brittle form. Therefore, having brittle type 1 diabetes mellitus means you definitely have type 1 diabetes mellitus, but having type 1 diabetes mellitus does not necessarily mean you have the brittle form."
+Mixed hyperlipidemia due to type 1 diabetes mellitus,43530660,False,"No.
+
+Mixed hyperlipidemia, which is characterized by elevated levels of cholesterol and triglycerides in the blood, can occur in individuals with Type 1 Diabetes Mellitus (T1DM) due to poor glycemic control and insulin deficiency. However, mixed hyperlipidemia is not specific to T1DM. It can also be seen in other conditions such as Type 2 Diabetes Mellitus, metabolic syndrome, hypothyroidism, and other lipid metabolism disorders. Therefore, the presence of mixed hyperlipidemia does not definitively indicate that a person has T1DM."
+Type 1 diabetes mellitus well controlled,40484649,False,"No.
+
+Rationale: The condition ""Type 1 diabetes mellitus well controlled"" is not specific to Type 1 Diabetes Mellitus (T1DM) in the sense that it does not definitively indicate the presence of T1DM. While ""well controlled"" implies that the individual has T1DM and is managing it effectively, the term ""well controlled"" itself is a qualifier of the state of the disease rather than a specific condition that confirms the presence of T1DM. The presence of T1DM is confirmed by elevated blood glucose levels, presence of autoantibodies against pancreatic beta cells, and other diagnostic criteria. Therefore, ""well controlled"" is a description of the management status of T1DM rather than a specific condition that indicates the presence of T1DM."
+Hyperlipidemia due to type 1 diabetes mellitus,45757432,False,"No.
+
+Rationale: Hyperlipidemia, which refers to elevated levels of lipids (fats) in the blood, can occur in individuals with Type 1 Diabetes Mellitus (T1DM) due to poor glycemic control and other metabolic disturbances. However, hyperlipidemia is not specific to T1DM. It can also be seen in a variety of other conditions, including Type 2 Diabetes Mellitus, obesity, hypothyroidism, and genetic lipid disorders, among others. Therefore, the presence of hyperlipidemia does not definitively indicate that a person has T1DM."
+Sensory neuropathy due to type 1 diabetes mellitus,45773567,False,"No.
+
+Rationale: Sensory neuropathy is a common complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Sensory neuropathy can also occur in other conditions, including Type 2 Diabetes Mellitus, certain vitamin deficiencies, chronic alcohol abuse, and other metabolic or autoimmune disorders. Therefore, while sensory neuropathy can be a result of T1DM, having sensory neuropathy does not definitively mean that a person has T1DM."
+Macular edema due to type 1 diabetes mellitus,35626069,False,"No.
+
+Rationale: Macular edema is a condition that can occur as a complication of diabetes, including Type 1 Diabetes Mellitus (T1DM). However, it is not specific to T1DM. Macular edema can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) and other conditions that affect the retina. Therefore, while macular edema due to diabetes suggests the presence of diabetes, it does not definitively indicate that the diabetes is specifically Type 1. Thus, having macular edema due to diabetes does not mean that the person definitely has T1DM; they could have another form of diabetes."
+Retinopathy due to unstable diabetes mellitus type 1,45770986,False,"No.
+
+Rationale:
+Retinopathy, specifically diabetic retinopathy, is a common complication of diabetes mellitus, including Type 1 Diabetes Mellitus (T1DM). However, it is not specific to T1DM alone. Diabetic retinopathy can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) and other forms of diabetes. Therefore, while retinopathy due to unstable diabetes mellitus type 1 indicates that the person has diabetes, it does not definitively indicate that the person has T1DM specifically, as it could also be a complication of T2DM or other forms of diabetes."
+Glaucoma due to diabetes mellitus type 1,765533,False,"No.
+
+Rationale: Glaucoma is an eye condition characterized by increased intraocular pressure, which can lead to optic nerve damage and vision loss. While diabetes, including Type 1 Diabetes Mellitus (T1DM), can increase the risk of developing various eye conditions such as diabetic retinopathy and potentially glaucoma, glaucoma itself is not specific to T1DM. 
+
+In other words, having glaucoma does not definitively mean that a person has T1DM. Glaucoma can occur in individuals without diabetes and can be associated with other risk factors such as age, family history, and other medical conditions. Therefore, glaucoma due to diabetes mellitus type 1 is not a condition that is specific to T1DM."
+Gastroparesis due to type 2 diabetes mellitus,37018728,False,"No.
+
+Gastroparesis is a condition that affects the stomach muscles and prevents proper stomach emptying. While it can occur in individuals with diabetes, it is not specific to Type 1 Diabetes Mellitus (T1DM). In fact, gastroparesis is more commonly associated with Type 2 Diabetes Mellitus (T2DM) due to the longer duration of hyperglycemia and its impact on the autonomic nervous system.
+
+Given that the condition specified is ""gastroparesis due to type 2 diabetes mellitus,"" it is not specific to T1DM. If a person has gastroparesis due to T2DM, they have T2DM, not T1DM. Therefore, the presence of gastroparesis due to T2DM does not indicate that the person has T1DM."
+Gastroparesis due to type 1 diabetes mellitus,37017429,False,"No.
+
+Gastroparesis is a condition that affects the stomach muscles and prevents proper stomach emptying. While it can be a complication of Type 1 Diabetes Mellitus (T1DM), it is not specific to T1DM. Gastroparesis can also occur in individuals with other conditions, such as Type 2 Diabetes Mellitus, post-surgical complications, certain medications, and other systemic diseases.
+
+Therefore, having gastroparesis does not definitively mean that a person has Type 1 Diabetes Mellitus, as it can be associated with various other conditions."
+Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus,45757393,False,"No.
+
+Rationale:
+Hypertension concurrent and due to end-stage renal disease (ESRD) on dialysis can be a complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. ESRD and hypertension can result from various other conditions, including Type 2 Diabetes Mellitus, chronic glomerulonephritis, polycystic kidney disease, and other causes of chronic kidney disease. Therefore, while a person with T1DM may develop ESRD and hypertension as complications, having hypertension concurrent with ESRD on dialysis does not definitively indicate that the person has T1DM."
+Small vessel disease due to type 1 diabetes mellitus,4143689,False,"No.
+
+Small vessel disease, also known as microvascular disease, can be a complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Small vessel disease can also occur in other conditions, such as Type 2 Diabetes Mellitus, hypertension, and other metabolic disorders. Therefore, having small vessel disease does not definitively mean that a person has T1DM. It indicates that there may be an underlying condition affecting the small blood vessels, but it is not exclusive to T1DM."
+Hypertension in chronic kidney disease due to type 1 diabetes mellitus,45771067,False,"No.
+
+Rationale:
+Hypertension in chronic kidney disease (CKD) can be a complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Hypertension and CKD can result from various other conditions, including Type 2 Diabetes Mellitus, hypertension itself, glomerulonephritis, polycystic kidney disease, and other systemic diseases. Therefore, while hypertension in CKD can occur in patients with T1DM, it is not exclusive to T1DM and can be seen in many other contexts. Thus, having hypertension in CKD does not definitively indicate that a person has T1DM."
+Multiple complications due to type 1 diabetes mellitus,4224709,False,"No.
+
+Rationale: The condition ""multiple complications due to type 1 diabetes mellitus"" is not specific to Type 1 Diabetes Mellitus (T1DM) in the sense that having multiple complications due to T1DM does not definitively indicate that a person has T1DM. While it is true that T1DM can lead to multiple complications such as diabetic ketoacidosis (DKA), cardiovascular disease, neuropathy, nephropathy, and retinopathy, these complications can also occur in other types of diabetes, particularly Type 2 Diabetes Mellitus (T2DM), and other conditions that affect the pancreas or cause hyperglycemia. Therefore, the presence of multiple complications due to diabetes does not exclusively point to T1DM."
+Skin ulcer of toe due to diabetes mellitus type 1,46269764,False,"No.
+
+Rationale: A skin ulcer of the toe can be a complication of diabetes mellitus, including Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Skin ulcers, particularly on the feet and toes, are more commonly associated with diabetic neuropathy and peripheral vascular disease, which can occur in both Type 1 and Type 2 diabetes. Therefore, while a skin ulcer of the toe can suggest the presence of diabetes, it does not definitively indicate that the diabetes is specifically Type 1. Other types of diabetes, such as Type 2, can also lead to similar complications."
+Combined traction and rhegmatogenous retinal detachment,4338897,False,"No.
+
+Combined traction and rhegmatogenous retinal detachment is not specific to Type 1 Diabetes Mellitus (T1DM). While retinal detachment can occur in individuals with diabetes, particularly due to diabetic retinopathy, it is not exclusive to T1DM. Retinal detachment can result from various other conditions, including trauma, high myopia, and other retinal diseases. Therefore, having combined traction and rhegmatogenous retinal detachment does not definitively indicate that a person has T1DM."
+Persistent microalbuminuria due to type 1 diabetes mellitus,4222687,False,"No.
+
+Persistent microalbuminuria is a condition characterized by the presence of small amounts of albumin in the urine, which can be an early sign of kidney damage. While it is a common complication of Type 1 Diabetes Mellitus (T1DM) and can indicate diabetic nephropathy, it is not specific to T1DM. 
+
+Microalbuminuria can also occur in other conditions such as Type 2 Diabetes Mellitus, hypertension, and other forms of kidney disease. Therefore, having persistent microalbuminuria does not definitively mean that a person has T1DM, as it can be seen in various other medical conditions."
+Neuropathy due to unstable diabetes mellitus type 1,45768456,False,"No.
+
+Rationale: Neuropathy, specifically diabetic neuropathy, is a common complication of diabetes, including Type 1 Diabetes Mellitus (T1DM). However, it is not specific to T1DM. Neuropathy can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) and other conditions that cause chronic hyperglycemia or nerve damage. Therefore, while neuropathy due to unstable diabetes mellitus type 1 suggests poorly controlled T1DM, it is not specific to T1DM alone. If a person has neuropathy, it does not definitively mean they have T1DM, as it could be due to other forms of diabetes or other causes of neuropathy."
+Chronic kidney disease stage 1 due to type 1 diabetes mellitus,45773576,False,"No.
+
+Rationale:
+Chronic kidney disease (CKD) stage 1 due to type 1 diabetes mellitus (T1DM) is not specific to T1DM. While CKD can be a complication of T1DM, it is not exclusive to it. CKD can result from various other conditions, including type 2 diabetes mellitus, hypertension, glomerulonephritis, and other systemic diseases. Therefore, having CKD stage 1 does not definitively indicate that a person has T1DM, as it could be due to other underlying causes."
+Erectile dysfunction due to type 1 diabetes mellitus,43531565,False,"No.
+
+Erectile dysfunction (ED) can be a complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. ED can result from various causes, including other types of diabetes (such as Type 2 Diabetes Mellitus), cardiovascular disease, psychological factors, hormonal imbalances, neurological disorders, and certain medications, among others. Therefore, while ED can occur in individuals with T1DM, having ED does not definitively indicate that a person has T1DM."
+Severe nonproliferative retinopathy due to diabetes mellitus type 1,765373,False,"No.
+
+Severe nonproliferative retinopathy is a complication that can arise from diabetes mellitus, including Type 1 Diabetes Mellitus (T1DM). However, it is not specific to T1DM. While severe nonproliferative retinopathy can occur in individuals with T1DM, it can also occur in individuals with other types of diabetes, such as Type 2 Diabetes Mellitus (T2DM). Therefore, having severe nonproliferative retinopathy due to diabetes does not definitively indicate that the individual has T1DM; they could have another form of diabetes."
+Peripheral angiopathy due to type 1 diabetes mellitus,36713094,False,"No.
+
+Peripheral angiopathy, which refers to damage to the blood vessels in the extremities, can occur as a complication of Type 1 Diabetes Mellitus (T1DM). However, it is not specific to T1DM. Peripheral angiopathy can also be seen in other conditions, including Type 2 Diabetes Mellitus and other causes of vascular disease. Therefore, while peripheral angiopathy can be a consequence of T1DM, having peripheral angiopathy does not definitively mean that a person has T1DM."
+Rubeosis iridis due to type 1 diabetes mellitus,45771533,False,"No.
+
+Rationale: Rubeosis iridis, or neovascularization of the iris, is a condition where new, abnormal blood vessels form on the surface of the iris. While it can occur in individuals with Type 1 Diabetes Mellitus (T1DM), it is not specific to T1DM. Rubeosis iridis can also be seen in other conditions such as central retinal vein occlusion, ocular ischemic syndrome, and other forms of diabetes, including Type 2 Diabetes Mellitus. Therefore, the presence of rubeosis iridis does not definitively indicate that a person has T1DM, as it can be associated with various other conditions."
+Blindness due to type 1 diabetes mellitus,45763585,False,"No.
+
+Blindness due to type 1 diabetes mellitus is a complication that can arise from the malady, specifically from diabetic retinopathy, which is a common long-term complication of diabetes. However, not all individuals with Type 1 Diabetes Mellitus will develop blindness. Therefore, while blindness can be a result of T1DM, it is not specific to T1DM in the sense that having blindness due to T1DM does not definitively indicate that one has T1DM, as blindness can result from various other conditions and causes."
+Chronic kidney disease due to type 1 diabetes mellitus,45773688,False,"No.
+
+Rationale: Chronic kidney disease (CKD) due to type 1 diabetes mellitus (T1DM) is a complication that can arise from T1DM, but it is not specific to T1DM. While CKD can develop as a result of long-term poorly controlled T1DM, CKD can also be caused by a variety of other conditions such as hypertension, type 2 diabetes mellitus, glomerulonephritis, and other systemic diseases. Therefore, having CKD due to T1DM does not definitively mean that a person has T1DM, as CKD can occur due to other underlying conditions as well."
+Dysmorphism,4080891,False,"No.
+
+Dysmorphism refers to the presence of congenital anomalies or unusual physical features that are often indicative of genetic or developmental disorders. It is not specific to Type 1 Diabetes Mellitus (T1DM). While T1DM is an autoimmune disorder characterized by the destruction of insulin-producing beta cells in the pancreas, leading to insulin deficiency and hyperglycemia, it does not inherently involve or cause dysmorphic features.
+
+Therefore, having dysmorphism does not mean that a person definitely has T1DM. Dysmorphism can be associated with a wide range of genetic and developmental conditions, but it is not a characteristic feature of T1DM."
+Lumbosacral radiculoplexus neuropathy due to type 1 diabetes mellitus,4143857,False,"No.
+
+Lumbosacral radiculoplexus neuropathy, also known as diabetic amyotrophy, is a type of neuropathy that can occur in individuals with diabetes, including Type 1 Diabetes Mellitus (T1DM). However, it is not specific to T1DM. This condition can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) or other forms of diabetes. 
+
+While lumbosacral radiculoplexus neuropathy can be a complication of diabetes, its presence does not definitively indicate that a person has T1DM. Therefore, having lumbosacral radiculoplexus neuropathy due to diabetes does not mean that the individual definitely has T1DM; they could have another type of diabetes."
+Osteomyelitis due to type 1 diabetes mellitus,45769834,False,"No.
+
+Osteomyelitis is an infection of the bone, which can occur due to various reasons, including complications from diabetes. However, osteomyelitis is not specific to Type 1 Diabetes Mellitus (T1DM). While individuals with T1DM are at an increased risk for infections, including osteomyelitis, due to factors like poor blood circulation and immune system impairment, the presence of osteomyelitis does not definitively indicate that a person has T1DM. Osteomyelitis can occur in individuals without diabetes or in those with other types of diabetes, such as Type 2 Diabetes Mellitus, or due to other causes like trauma or surgery.
+
+Therefore, having osteomyelitis does not mean that a person definitely has Type 1 Diabetes Mellitus."
+Severe malnutrition due to type 1 diabetes mellitus,45769833,False,"No.
+
+Severe malnutrition is not specific to Type 1 Diabetes Mellitus (T1DM). While T1DM can lead to weight loss and malnutrition if not properly managed, severe malnutrition can also result from a variety of other conditions and factors, such as chronic illnesses, eating disorders, socioeconomic factors, and other types of diabetes. Therefore, the presence of severe malnutrition does not definitively indicate that a person has T1DM."
+Chronic ulcer of skin due to type 1 diabetes mellitus,45769837,False,"No.
+
+Rationale: A chronic ulcer of the skin can be a complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Chronic skin ulcers can also occur in other conditions, such as Type 2 Diabetes Mellitus, peripheral arterial disease, venous insufficiency, and other chronic conditions that affect circulation and wound healing. Therefore, while a chronic ulcer of the skin can be associated with T1DM, its presence does not definitively indicate that a person has T1DM."
+Nephrotic syndrome due to type 1 diabetes mellitus,45769829,False,"No.
+
+Rationale: Nephrotic syndrome is a kidney disorder that causes the body to excrete too much protein in the urine. While nephrotic syndrome can be a complication of Type 1 Diabetes Mellitus (T1DM), it is not specific to T1DM. Nephrotic syndrome can result from various other conditions, including other types of diabetes (such as Type 2 Diabetes Mellitus), glomerulonephritis, infections, and certain medications. Therefore, having nephrotic syndrome does not definitively mean that a person has T1DM, even though T1DM can lead to nephrotic syndrome as a complication."
+Exudative maculopathy due to type 1 diabetes mellitus,4221344,False,"No.
+
+Exudative maculopathy, also known as diabetic macular edema (DME), is a condition that can occur as a complication of diabetes mellitus, including Type 1 Diabetes Mellitus (T1DM). However, it is not specific to T1DM. While exudative maculopathy can be a result of the chronic hyperglycemia associated with T1DM, it can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) or other forms of diabetes. Therefore, having exudative maculopathy does not definitively indicate that a person has T1DM; it only indicates that the person has diabetes, which could be of any type."
+Microalbuminuria due to type 1 diabetes mellitus,45757535,False,"No.
+
+Microalbuminuria, which is the presence of a small amount of albumin in the urine, can be a complication of Type 1 Diabetes Mellitus (T1DM) but it is not specific to T1DM. Microalbuminuria can also occur in other conditions such as Type 2 Diabetes Mellitus, hypertension, and various kidney diseases. Therefore, while microalbuminuria can suggest the presence of T1DM, it is not specific to it, as it can be seen in other maladies as well."
+Retinal edema due to type 1 diabetes mellitus,45757266,False,"No.
+
+Retinal edema, also known as diabetic macular edema (DME), is a condition that can occur as a complication of diabetes, including Type 1 Diabetes Mellitus (T1DM). However, it is not specific to T1DM. Retinal edema can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) and other conditions that affect the retina. Therefore, while retinal edema can be a consequence of T1DM, having retinal edema does not definitively mean that a person has T1DM, as it could be due to other forms of diabetes or other retinal conditions."
+Ulcer of heel due to type 1 diabetes mellitus,37312201,False,"No.
+
+An ulcer of the heel can be a complication of diabetes mellitus, including Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Ulcers, particularly on the feet, can occur in individuals with various types of diabetes due to peripheral neuropathy and poor circulation, which are common complications of chronic hyperglycemia. Therefore, while a heel ulcer in a diabetic patient might suggest the presence of diabetes, it does not definitively indicate that the patient has T1DM specifically, as it could also occur in patients with Type 2 Diabetes Mellitus or other forms of diabetes."
+Ulcer of midfoot due to type 1 diabetes mellitus,37312200,False,"No.
+
+An ulcer of the midfoot due to type 1 diabetes mellitus is not specific to Type 1 Diabetes Mellitus (T1DM). While foot ulcers can occur in individuals with T1DM, they are not exclusive to this condition. Foot ulcers can also be seen in other types of diabetes, particularly Type 2 Diabetes Mellitus (T2DM), and can result from other conditions that cause peripheral neuropathy or poor circulation. Therefore, having a midfoot ulcer does not definitively indicate that a person has T1DM; it could be due to other forms of diabetes or other underlying conditions."
+Ulcer of foot due to type 1 diabetes mellitus,45757507,False,"No.
+
+Rationale: An ulcer of the foot can be a complication of Type 1 Diabetes Mellitus (T1DM), but it is not specific to T1DM. Foot ulcers can also occur in individuals with Type 2 Diabetes Mellitus (T2DM) and other conditions that affect circulation and nerve function in the lower extremities. Therefore, while a foot ulcer in a diabetic patient may suggest the presence of diabetes, it does not definitively indicate that the diabetes is specifically Type 1."
+Chronic kidney disease stage 3 due to type 1 diabetes mellitus,45771075,False,"No.
+
+Chronic kidney disease (CKD) stage 3 due to type 1 diabetes mellitus (T1DM) is not specific to T1DM. While CKD can be a complication of T1DM, it can also result from other conditions such as type 2 diabetes mellitus, hypertension, glomerulonephritis, and other kidney diseases. Therefore, having CKD stage 3 does not definitively indicate that a person has T1DM, as it could be due to other underlying causes."

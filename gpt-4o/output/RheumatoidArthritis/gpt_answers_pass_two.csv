@@ -1,0 +1,526 @@
+concept_name,concept_id,include,rationale
+Disorder of thorax,4043346,False,"No.
+
+A ""disorder of thorax"" is a broad term that can encompass a wide range of conditions affecting the chest area, including but not limited to respiratory issues, cardiovascular problems, and musculoskeletal disorders. While rheumatoid arthritis (RA) can potentially affect the thoracic region, particularly through involvement of the costovertebral and costosternal joints, a disorder of the thorax is not specific to RA. Many other conditions, such as asthma, chronic obstructive pulmonary disease (COPD), pneumonia, and even trauma, can also present with thoracic disorders. Therefore, having a disorder of the thorax does not definitively indicate that a person has rheumatoid arthritis."
+Disorder of free lower limb,44782620,False,"No.
+
+A ""disorder of free lower limb"" is a broad and non-specific condition that can encompass a wide range of issues affecting the lower limbs, such as injuries, infections, vascular problems, neurological disorders, and various types of arthritis, including but not limited to rheumatoid arthritis (RA). While RA can certainly affect the lower limbs, particularly the joints in the feet and knees, having a disorder of the lower limb does not definitively indicate that a person has RA. There are many other potential causes for lower limb disorders that are not related to RA. Therefore, the condition ""disorder of free lower limb"" is not specific to rheumatoid arthritis."
+Osteoarthritis,80180,False,"No.
+
+Osteoarthritis (OA) is not specific to Rheumatoid Arthritis (RA). While both are forms of arthritis, they are distinct conditions with different pathophysiologies, clinical presentations, and treatments. 
+
+Osteoarthritis is a degenerative joint disease characterized by the breakdown of cartilage and underlying bone, typically due to wear and tear. It commonly affects weight-bearing joints such as the knees, hips, and spine, and is associated with aging, joint injury, and repetitive stress.
+
+Rheumatoid Arthritis, on the other hand, is an autoimmune disorder that primarily affects the synovial joints, leading to inflammation, joint destruction, and systemic symptoms. It often presents with symmetric polyarthritis, particularly in the small joints of the hands and feet, and is associated with specific serological markers.
+
+Therefore, having osteoarthritis does not mean that a person definitely has rheumatoid arthritis. They are separate conditions, and the presence of one does not imply the presence of the other."
+Disorder of body wall,4266188,False,"No, a ""disorder of body wall"" is not specific to Rheumatoid Arthritis (RA).
+
+Rationale:
+A ""disorder of body wall"" is a broad term that can refer to a variety of conditions affecting the structures that make up the body wall, including muscles, fascia, and skin. This could encompass a wide range of issues such as hernias, muscle strains, or infections, none of which are specific to RA. 
+
+RA is a systemic autoimmune disease primarily affecting the synovial joints, leading to inflammation, pain, and potential joint destruction. While RA can cause systemic symptoms and may affect other tissues, the term ""disorder of body wall"" is too nonspecific and broad to be considered a definitive indicator of RA. 
+
+Therefore, having a ""disorder of body wall"" does not mean that a person definitely has RA, as this condition can be associated with many other maladies."
+Autoimmune disease,434621,False,"No.
+
+Rationale:
+While Rheumatoid Arthritis (RA) is indeed an autoimmune disease, not all autoimmune diseases are RA. There are numerous autoimmune diseases, such as systemic lupus erythematosus (SLE), multiple sclerosis (MS), type 1 diabetes, and Hashimoto's thyroiditis, among others. Therefore, having an autoimmune disease does not specifically mean that one has RA. The condition of having an autoimmune disease is not specific to RA, as it encompasses a broad category of disorders with varying manifestations and underlying mechanisms."
+Interstitial lung disease,4119786,False,"No.
+
+Interstitial lung disease (ILD) is not specific to Rheumatoid Arthritis (RA). While ILD can occur in patients with RA as a complication, it is not exclusive to RA. ILD encompasses a group of lung disorders that cause scarring (fibrosis) of the lung tissue, which can be associated with various conditions, including other autoimmune diseases (such as systemic sclerosis and polymyositis), environmental exposures, infections, and idiopathic causes.
+
+Therefore, having ILD does not definitively mean that a person has RA, as ILD can be seen in a variety of other contexts. Conversely, a person with RA may or may not develop ILD. Thus, ILD is not specific to RA."
+Disorder of joint of ankle and/or foot,40482662,False,"No.
+
+Rationale:
+A ""disorder of joint of ankle and/or foot"" is not specific to Rheumatoid Arthritis (RA). While RA can indeed affect the joints of the ankle and foot, this condition can also be caused by a variety of other maladies, including osteoarthritis, gout, psoriatic arthritis, and other forms of inflammatory or degenerative joint diseases. Therefore, having a disorder of the joint of the ankle and/or foot does not definitively indicate that a person has RA."
+Disorder of joint of shoulder region,40484571,False,"No.
+
+A ""disorder of joint of shoulder region"" is not specific to Rheumatoid Arthritis (RA). While RA can affect the shoulder joints, it is not the only condition that can cause disorders in this region. Other conditions such as osteoarthritis, rotator cuff injuries, bursitis, and adhesive capsulitis (frozen shoulder) can also cause joint disorders in the shoulder region. Therefore, having a disorder of the shoulder joint does not definitively indicate that a person has RA."
+Disorder of finger,4027258,False,"No.
+
+A ""disorder of finger"" is not specific to Rheumatoid Arthritis (RA). While RA can certainly cause disorders of the fingers, such as swelling, pain, and deformities, there are many other conditions that can also lead to finger disorders. These include osteoarthritis, psoriatic arthritis, gout, infections, trauma, and other systemic diseases like systemic lupus erythematosus (SLE). Therefore, having a disorder of the finger does not definitively mean that a person has RA."
+Degenerative disorder of cartilage,4180010,False,"No.
+
+A degenerative disorder of cartilage is more characteristic of osteoarthritis rather than rheumatoid arthritis. Osteoarthritis is primarily a degenerative joint disease where the cartilage that cushions the ends of the bones in the joints deteriorates over time. This leads to pain, swelling, and reduced motion in the joints.
+
+Rheumatoid arthritis, on the other hand, is an autoimmune inflammatory disorder that primarily affects the synovial joints, leading to inflammation, joint swelling, and destruction. While RA can eventually lead to cartilage damage due to chronic inflammation, the primary pathology is not a degenerative disorder of cartilage but rather an autoimmune process targeting the synovium.
+
+Therefore, having a degenerative disorder of cartilage does not specifically indicate that a person has rheumatoid arthritis. It is more indicative of osteoarthritis or other degenerative joint conditions."
+Articular cartilage disorder,439103,False,"No.
+
+Articular cartilage disorder is not specific to Rheumatoid Arthritis (RA). While RA can lead to damage of the articular cartilage due to chronic inflammation and joint destruction, articular cartilage disorders can also occur in a variety of other conditions. These include osteoarthritis, traumatic injuries, and other inflammatory or degenerative joint diseases. Therefore, having an articular cartilage disorder does not definitively indicate that a person has RA."
+Disorder of ankle joint,443583,False,"No.
+
+A ""disorder of the ankle joint"" is not specific to Rheumatoid Arthritis (RA). While RA can certainly affect the ankle joints, leading to pain, swelling, and functional impairment, disorders of the ankle joint can also be caused by a variety of other conditions. These include osteoarthritis, gout, traumatic injuries, infections, and other inflammatory arthritides such as psoriatic arthritis or ankylosing spondylitis. Therefore, having a disorder of the ankle joint does not definitively indicate that a person has RA."
+Disorder in remission,35622958,False,"No.
+
+A ""disorder in remission"" is a general term that can apply to many different diseases and conditions, not just Rheumatoid Arthritis (RA). Remission refers to a period during which the symptoms of a disease are reduced or disappear. While RA can go into remission, so can many other conditions, including various types of cancer, other autoimmune diseases, and chronic illnesses.
+
+Therefore, having a ""disorder in remission"" does not specifically indicate that a person has RA. It could be indicative of a wide range of other maladies."
+Disorder of glenohumeral joint,4328821,False,"No.
+
+A disorder of the glenohumeral joint (the shoulder joint) is not specific to Rheumatoid Arthritis (RA). While RA can affect the shoulder joints and cause inflammation and pain in the glenohumeral joint, this condition can also be caused by a variety of other issues such as osteoarthritis, rotator cuff injuries, frozen shoulder (adhesive capsulitis), or traumatic injuries. Therefore, having a disorder of the glenohumeral joint does not definitively indicate that a person has RA."
+Rheumatic heart disease,319825,False,"No.
+
+Rheumatic heart disease (RHD) is not specific to Rheumatoid Arthritis (RA). RHD is a condition resulting from rheumatic fever, which is a complication of untreated or inadequately treated streptococcal throat infection. It primarily affects the heart valves, leading to their damage and dysfunction. 
+
+While both RA and RHD involve inflammatory processes, they are distinct conditions with different etiologies. RA is an autoimmune disorder primarily affecting the joints, whereas RHD is a sequela of an infectious disease affecting the heart. Therefore, having rheumatic heart disease does not definitively indicate that a person has rheumatoid arthritis."
+Inflammatory polyarthropathy,74125,False,"No.
+
+Inflammatory polyarthropathy refers to inflammation affecting multiple joints and can be a feature of various conditions, not just Rheumatoid Arthritis (RA). While RA is a common cause of inflammatory polyarthropathy, other conditions such as psoriatic arthritis, systemic lupus erythematosus (SLE), and other autoimmune or inflammatory diseases can also present with inflammatory polyarthropathy. Therefore, having inflammatory polyarthropathy does not definitively mean that a person has RA; it could be indicative of several different underlying conditions."
+Sequelae of disorders classified by disorder-system,4181217,False,"No.
+
+The term ""sequelae of disorders classified by disorder-system"" is a broad and non-specific condition that refers to the aftereffects or secondary conditions resulting from various disorders, which can affect different systems of the body. This term does not point to a specific disorder or disease but rather to a range of possible conditions that could follow any number of primary disorders.
+
+Rheumatoid Arthritis (RA) is a specific autoimmune disease with well-defined clinical criteria, including symmetric polyarthritis, joint swelling, tenderness, and specific serological markers. While RA can lead to sequelae such as joint deformities and functional impairments, the term ""sequelae of disorders classified by disorder-system"" is too general and could apply to many other diseases and conditions as well.
+
+Therefore, having ""sequelae of disorders classified by disorder-system"" does not definitively indicate that a person has Rheumatoid Arthritis, as these sequelae could result from a wide variety of other disorders."
+Juvenile rheumatoid arthritis,4253901,False,"No.
+
+Juvenile rheumatoid arthritis (JRA), also known as juvenile idiopathic arthritis (JIA), is a distinct condition from rheumatoid arthritis (RA) despite some similarities in their names and symptoms. JRA/JIA is a type of arthritis that occurs in children under the age of 16 and has different diagnostic criteria, clinical presentations, and treatment approaches compared to adult RA.
+
+While both conditions involve joint inflammation and can lead to joint damage, the specific age of onset and some clinical features differ. Therefore, having juvenile rheumatoid arthritis does not definitively mean that one has rheumatoid arthritis, as they are considered separate entities within the spectrum of inflammatory arthritis."
+Splenomegaly,200527,False,"No.
+
+Splenomegaly, which is the enlargement of the spleen, is not specific to Rheumatoid Arthritis (RA). While splenomegaly can occur in a variety of conditions, including some autoimmune diseases, it is not a hallmark or defining feature of RA. RA primarily affects the synovial joints and is characterized by symmetric polyarthritis, joint swelling, tenderness, and destruction. The presence of splenomegaly could suggest other conditions such as infections, hematologic diseases, liver diseases, or other autoimmune disorders, but it does not definitively indicate RA. Therefore, having splenomegaly does not mean that a person definitely has RA."
+Chronic polyarticular juvenile rheumatoid arthritis,72714,False,"No.
+
+Chronic polyarticular juvenile rheumatoid arthritis (JRA) is a specific subtype of juvenile idiopathic arthritis (JIA), which is a different condition from adult-onset rheumatoid arthritis (RA). While both conditions share similarities, such as being autoimmune diseases that cause joint inflammation, they are distinct entities with different diagnostic criteria and patient populations.
+
+Juvenile rheumatoid arthritis specifically refers to arthritis that begins in childhood, typically before the age of 16, and can present in various forms, including polyarticular (affecting five or more joints). On the other hand, rheumatoid arthritis generally refers to the adult form of the disease.
+
+Therefore, having chronic polyarticular juvenile rheumatoid arthritis does not definitively mean that one has rheumatoid arthritis, as they are separate conditions."
+Arthritis of spine,4153359,False,"No.
+
+Arthritis of the spine, also known as spinal arthritis, is not specific to Rheumatoid Arthritis (RA). While RA can affect the spine, particularly the cervical spine, spinal arthritis can also be caused by other conditions such as osteoarthritis, ankylosing spondylitis, psoriatic arthritis, and other forms of inflammatory or degenerative arthritis. Therefore, having arthritis of the spine does not definitively indicate that a person has RA."
+Arthritis of elbow,4205509,False,"No.
+
+Arthritis of the elbow is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in the elbow, arthritis in this joint can also be caused by other conditions such as osteoarthritis, gout, psoriatic arthritis, or trauma. Therefore, having arthritis of the elbow does not definitively mean that a person has RA. It is a symptom that can be associated with multiple different types of arthritis and other conditions."
+Inflammation of sacroiliac joint,4208390,False,"No.
+
+Inflammation of the sacroiliac joint, also known as sacroiliitis, is not specific to Rheumatoid Arthritis (RA). While RA primarily affects the synovial joints, particularly the small joints of the hands and feet, sacroiliitis is more commonly associated with other conditions such as ankylosing spondylitis and other forms of spondyloarthropathies. Sacroiliitis can also occur in other inflammatory conditions, infections, or even mechanical stress.
+
+Therefore, having inflammation of the sacroiliac joint does not definitively indicate that a person has RA."
+Pericarditis,4138837,False,"No.
+
+Pericarditis, which is inflammation of the pericardium (the fibrous sac surrounding the heart), is not specific to Rheumatoid Arthritis (RA). While pericarditis can occur in patients with RA due to the systemic inflammatory nature of the disease, it is not exclusive to RA. Pericarditis can also be caused by a variety of other conditions, including infections (viral, bacterial, fungal), other autoimmune diseases (such as systemic lupus erythematosus), myocardial infarction, trauma, and certain medications, among others.
+
+Therefore, having pericarditis does not definitively mean that a person has RA, as it can be associated with many other conditions."
+Arthritis of shoulder region joint,40483262,False,"No.
+
+Arthritis of the shoulder region joint is not specific to Rheumatoid Arthritis (RA). While RA can indeed affect the shoulder joints, it is not the only condition that can cause arthritis in this region. Other forms of arthritis, such as osteoarthritis, can also affect the shoulder joints. Additionally, conditions like rotator cuff injuries, bursitis, and other inflammatory or degenerative joint diseases can present with arthritis in the shoulder region. Therefore, having arthritis in the shoulder region does not definitively indicate that a person has RA."
+Lower limb joint arthritis,4094283,False,"No.
+
+Lower limb joint arthritis is not specific to Rheumatoid Arthritis (RA). While RA can certainly affect the joints of the lower limbs, arthritis in these joints can also be caused by a variety of other conditions, such as osteoarthritis, psoriatic arthritis, gout, and other inflammatory or degenerative joint diseases. Therefore, the presence of lower limb joint arthritis does not definitively indicate that a person has RA."
+Arthritis of knee,4159739,False,"No.
+
+Arthritis of the knee is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in the knee, arthritis of the knee can also be caused by other conditions such as osteoarthritis, gout, psoriatic arthritis, and septic arthritis, among others. Therefore, having arthritis of the knee does not definitively indicate that a person has RA."
+Ankylosing spondylitis,437082,False,"No.
+
+Ankylosing spondylitis (AS) is a distinct condition from rheumatoid arthritis (RA). While both are types of inflammatory arthritis, they have different pathophysiologies, clinical presentations, and diagnostic criteria.
+
+Ankylosing spondylitis primarily affects the spine and the sacroiliac joints, leading to inflammation, pain, and eventual fusion of the spine. It is associated with the HLA-B27 genetic marker and often presents with symptoms such as chronic back pain and stiffness, particularly in the lower back and buttocks. In contrast, rheumatoid arthritis primarily affects the synovial joints, especially the small joints of the hands and feet, and is characterized by symmetric polyarthritis, joint swelling, and morning stiffness.
+
+Because ankylosing spondylitis is a separate disease entity with its own specific clinical features and diagnostic criteria, having ankylosing spondylitis does not mean that a person definitely has rheumatoid arthritis. Therefore, the condition of ankylosing spondylitis is not specific to the malady of rheumatoid arthritis."
+Rheumatoid factor level - finding,4267510,False,"No.
+
+Rationale: While the presence of rheumatoid factor (RF) can be a significant indicator in the diagnosis of Rheumatoid Arthritis (RA), it is not specific to RA. Rheumatoid factor can also be found in other conditions such as Sjögren's syndrome, systemic lupus erythematosus (SLE), chronic infections, and even in a small percentage of healthy individuals. Therefore, having an elevated rheumatoid factor level does not definitively mean that a person has RA, although it is one of the criteria used in the diagnosis of the disease."
+Shoulder joint inflamed,4184089,False,"No.
+
+Rationale: While shoulder joint inflammation can occur in individuals with Rheumatoid Arthritis (RA), it is not specific to RA. Shoulder joint inflammation can be caused by a variety of other conditions, including but not limited to osteoarthritis, rotator cuff injuries, bursitis, tendinitis, and other forms of inflammatory arthritis such as psoriatic arthritis or systemic lupus erythematosus (SLE). Therefore, the presence of shoulder joint inflammation alone does not definitively indicate that a person has RA."
+Rheumatoid factor positive,4013263,False,"No.
+
+Rationale: While the presence of rheumatoid factor (RF) can be a significant indicator in the diagnosis of Rheumatoid Arthritis (RA), it is not specific to RA. Rheumatoid factor can be found in other conditions such as Sjögren's syndrome, systemic lupus erythematosus (SLE), chronic infections, and even in a small percentage of healthy individuals. Therefore, having a positive rheumatoid factor does not definitively mean that a person has RA."
+Pauciarticular juvenile rheumatoid arthritis,72705,False,"No.
+
+Pauciarticular juvenile rheumatoid arthritis (JRA), also known as oligoarticular juvenile idiopathic arthritis (JIA), is a subtype of juvenile idiopathic arthritis that affects four or fewer joints during the first six months of disease. It primarily affects children and is distinct from adult-onset rheumatoid arthritis (RA) in several ways, including its age of onset, clinical presentation, and disease course.
+
+While both conditions are types of inflammatory arthritis and share some similarities, pauciarticular JRA is specific to a pediatric population and has different diagnostic criteria and treatment approaches compared to adult RA. Therefore, having pauciarticular juvenile rheumatoid arthritis does not definitively mean that one has rheumatoid arthritis as described in the provided malady description, which pertains to adult-onset RA."
+Sequelae of inflammatory diseases,4178949,False,"No.
+
+The term ""sequelae of inflammatory diseases"" refers to the long-term consequences or conditions that result from any inflammatory disease, not just Rheumatoid Arthritis (RA). Inflammatory diseases encompass a wide range of conditions, including but not limited to RA, systemic lupus erythematosus (SLE), inflammatory bowel disease (IBD), and various types of vasculitis. 
+
+While RA is an inflammatory disease and can lead to specific sequelae such as joint deformities and functional impairments, the presence of sequelae from inflammatory diseases does not specifically indicate RA. These sequelae could result from any number of other inflammatory conditions. Therefore, having sequelae of inflammatory diseases does not mean that a person definitely has RA."
+Secondary inflammatory arthritis,4035744,False,"No.
+
+Secondary inflammatory arthritis is not specific to Rheumatoid Arthritis (RA). Secondary inflammatory arthritis can occur as a result of various underlying conditions, including but not limited to infections, other autoimmune diseases (such as systemic lupus erythematosus or psoriatic arthritis), and even certain metabolic disorders. While RA is a type of inflammatory arthritis, the presence of secondary inflammatory arthritis does not definitively indicate RA, as it can be associated with a wide range of other maladies. Therefore, having secondary inflammatory arthritis does not mean that one definitely has RA."
+Seronegative arthritis,4163270,False,"No.
+
+Seronegative arthritis refers to a type of arthritis where the patient does not have the specific serological markers typically associated with rheumatoid arthritis (RA), such as rheumatoid factor (RF) and anti-cyclic citrullinated peptide (anti-CCP) antibodies. While seronegative arthritis can include RA, it can also encompass other types of arthritis, such as psoriatic arthritis, ankylosing spondylitis, and reactive arthritis.
+
+Therefore, having seronegative arthritis does not definitively mean that a person has RA, as it could be indicative of other types of arthritis. Thus, seronegative arthritis is not specific to RA."
+Acute polyarticular juvenile rheumatoid arthritis,75621,False,"No.
+
+Acute polyarticular juvenile rheumatoid arthritis (JRA) is a specific subtype of juvenile idiopathic arthritis (JIA), which is a different condition from adult-onset rheumatoid arthritis (RA). While both conditions share similarities, such as being autoimmune diseases that cause joint inflammation, they are distinct entities with different diagnostic criteria, age of onset, and disease progression.
+
+Juvenile rheumatoid arthritis specifically refers to arthritis that begins in childhood, typically before the age of 16, and has its own classification system and subtypes, including oligoarticular, polyarticular, and systemic JIA. On the other hand, rheumatoid arthritis generally refers to the adult form of the disease.
+
+Therefore, having acute polyarticular juvenile rheumatoid arthritis does not definitively mean that one has rheumatoid arthritis, as they are separate conditions."
+Pneumoconiosis,259044,False,"No.
+
+Pneumoconiosis is a group of lung diseases caused by the inhalation of certain dusts and the lung tissue's reaction to the dust. It is not specific to Rheumatoid Arthritis (RA). While RA is an autoimmune disorder primarily affecting the joints, pneumoconiosis is a respiratory condition resulting from occupational exposure to dust. The presence of pneumoconiosis does not indicate that a person definitely has RA. Therefore, pneumoconiosis is not specific to Rheumatoid Arthritis."
+Juvenile idiopathic arthritis,4259507,False,"No.
+
+Juvenile idiopathic arthritis (JIA) is not specific to Rheumatoid Arthritis (RA). While both conditions are types of arthritis and share some similarities, they are distinct entities. JIA is a term used to describe arthritis that begins before the age of 16 and persists for more than six weeks, with no identifiable cause. It encompasses several subtypes, including oligoarticular, polyarticular, and systemic JIA, each with its own clinical features and prognosis.
+
+RA, on the other hand, typically affects adults and is characterized by symmetric polyarthritis, serological markers like rheumatoid factor and anti-cyclic citrullinated peptide antibodies, and specific imaging findings. While JIA can sometimes evolve into adult RA, having JIA does not definitively mean that one has RA. Therefore, the condition of having JIA is not specific to the malady of RA."
+Arthropathy of left knee joint,36676836,False,"No.
+
+Arthropathy of the left knee joint refers to any disease of the joint, which can include a wide range of conditions such as osteoarthritis, gout, septic arthritis, or other forms of arthritis, not just Rheumatoid Arthritis (RA). While RA can cause arthropathy in the knee joint, the presence of arthropathy in the left knee alone is not specific to RA. It could be due to various other conditions affecting the knee joint. Therefore, having arthropathy of the left knee joint does not definitively mean that a person has RA."
+Arthritis of hand,40490497,False,"No.
+
+Arthritis of the hand is not specific to Rheumatoid Arthritis (RA). While RA commonly affects the small joints of the hands, leading to arthritis in these areas, arthritis of the hand can also be caused by other conditions such as osteoarthritis, psoriatic arthritis, gout, and systemic lupus erythematosus (SLE). Therefore, having arthritis of the hand does not definitively mean that a person has RA. It is a symptom that can be associated with multiple different types of arthritis and other conditions."
+Arthropathy of right knee joint,36676837,False,"No.
+
+Arthropathy of the right knee joint refers to any disease of the joint, which can include a wide range of conditions such as osteoarthritis, gout, septic arthritis, or trauma-related arthritis, among others. While rheumatoid arthritis (RA) can certainly cause arthropathy in the knee joint, the presence of arthropathy in the right knee alone is not specific to RA. 
+
+RA typically presents with symmetric polyarthritis, meaning it affects multiple joints on both sides of the body, particularly the small joints of the hands and feet. A diagnosis of RA is based on a combination of clinical criteria, serological markers, and imaging findings. Therefore, having arthropathy in just one knee does not definitively indicate RA, as it could be due to a variety of other joint diseases.
+
+In summary, while arthropathy of the right knee joint can be a manifestation of RA, it is not specific to RA because it can occur in many other conditions as well."
+Acute rheumatic endocarditis,437897,False,"No.
+
+Acute rheumatic endocarditis is not specific to Rheumatoid Arthritis (RA). Acute rheumatic endocarditis is a manifestation of acute rheumatic fever, which is a sequela of a streptococcal infection (usually Group A Streptococcus). It primarily affects the heart valves and is part of the broader spectrum of rheumatic heart disease. 
+
+Rheumatoid Arthritis, on the other hand, is an autoimmune disease that primarily affects the synovial joints and is characterized by chronic inflammation, joint pain, and deformities. While RA can have systemic manifestations and can affect the heart (e.g., pericarditis, myocarditis), acute rheumatic endocarditis is not a condition that is specifically associated with RA.
+
+Therefore, having acute rheumatic endocarditis does not mean that a person definitely has Rheumatoid Arthritis."
+Systemic onset juvenile chronic arthritis,4116447,False,"No.
+
+Systemic onset juvenile chronic arthritis (also known as systemic juvenile idiopathic arthritis or Still's disease) is a type of juvenile idiopathic arthritis (JIA) that affects children. While it shares some features with rheumatoid arthritis (RA), such as joint inflammation and systemic symptoms, it is a distinct condition with its own diagnostic criteria and clinical presentation.
+
+Systemic onset juvenile chronic arthritis is characterized by:
+- High fevers that typically spike once or twice a day
+- A salmon-colored rash that may come and go
+- Inflammation of internal organs such as the liver, spleen, and lymph nodes
+- Arthritis that can affect any number of joints
+
+Rheumatoid arthritis, on the other hand, primarily affects adults and is characterized by symmetric polyarthritis, joint swelling, tenderness, and destruction, particularly in the small joints of the hands and feet. It is also associated with specific serological markers like rheumatoid factor and anti-cyclic citrullinated peptide antibodies.
+
+Given these differences, having systemic onset juvenile chronic arthritis does not mean that one definitely has rheumatoid arthritis. Therefore, the condition is not specific to the malady of rheumatoid arthritis."
+Arthritis of wrist,42872407,False,"**No**
+
+Arthritis of the wrist is not specific to Rheumatoid Arthritis (RA). While wrist arthritis can be a symptom of RA, it can also be caused by other conditions such as osteoarthritis, psoriatic arthritis, gout, or even trauma. Therefore, having arthritis of the wrist does not definitively mean that a person has RA. It is a common symptom that can be seen in various types of arthritis and other joint-related conditions."
+Rheumatoid lung disease,256197,False,"No.
+
+Rationale: Rheumatoid lung disease is a condition that can occur in individuals with Rheumatoid Arthritis (RA), but it is not specific to RA. While rheumatoid lung disease is associated with RA and can be a complication of it, having rheumatoid lung disease does not definitively mean that a person has RA. Rheumatoid lung disease can manifest as interstitial lung disease, pleuritis, or pulmonary nodules, among other pulmonary conditions. However, these lung conditions can also be seen in other diseases and contexts, not exclusively in RA. Therefore, the presence of rheumatoid lung disease does not specifically indicate that a person has RA."
+Arthritis of hip,4286642,False,"No.
+
+Arthritis of the hip is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in any joint, including the hip, arthritis of the hip can also be caused by other conditions such as osteoarthritis, psoriatic arthritis, ankylosing spondylitis, and other inflammatory or degenerative joint diseases. Therefore, having arthritis of the hip does not definitively mean that a person has RA."
+Occupational lung disease,4312754,False,"No.
+
+Occupational lung disease is not specific to Rheumatoid Arthritis (RA). Occupational lung diseases are a group of conditions caused by exposure to harmful substances in the workplace, such as dust, chemicals, or fumes, leading to respiratory issues. These diseases include conditions like asbestosis, silicosis, and chronic obstructive pulmonary disease (COPD) related to occupational exposure.
+
+While RA can have extra-articular manifestations, including lung involvement (e.g., interstitial lung disease), the presence of an occupational lung disease does not definitively indicate that a person has RA. Occupational lung diseases can occur independently of RA and are related to environmental exposures rather than the autoimmune processes that characterize RA. Therefore, having an occupational lung disease does not mean that a person definitely has Rheumatoid Arthritis."
+Monarticular juvenile rheumatoid arthritis,75622,False,"No.
+
+Monarticular juvenile rheumatoid arthritis (JRA), also known as juvenile idiopathic arthritis (JIA) when it affects a single joint, is a specific subtype of juvenile arthritis that typically affects children. While it shares some similarities with adult rheumatoid arthritis (RA), such as being an autoimmune condition that causes joint inflammation, it is distinct in several ways:
+
+1. **Age of Onset**: JRA/JIA occurs in children, whereas RA typically affects adults.
+2. **Joint Involvement**: Monarticular JRA/JIA affects only one joint, whereas RA is characterized by symmetric polyarthritis, affecting multiple joints.
+3. **Disease Course and Prognosis**: The course and prognosis of JRA/JIA can differ significantly from adult RA. Some children with JRA/JIA may outgrow the condition, while RA is generally a lifelong condition.
+
+Given these differences, having monarticular juvenile rheumatoid arthritis does not definitively mean that one has rheumatoid arthritis as described in adults. Therefore, the condition is not specific to the malady of rheumatoid arthritis."
+Autoimmune leukopenia,4051056,False,"No.
+
+Autoimmune leukopenia is a condition characterized by a reduced white blood cell count due to the immune system mistakenly attacking and destroying white blood cells. While autoimmune leukopenia can occur in various autoimmune disorders, it is not specific to Rheumatoid Arthritis (RA). RA primarily affects the synovial joints and is characterized by symmetric polyarthritis, joint swelling, tenderness, and destruction. Although RA is an autoimmune disease and can be associated with other autoimmune conditions, the presence of autoimmune leukopenia does not definitively indicate RA. Autoimmune leukopenia can also be seen in other autoimmune diseases such as systemic lupus erythematosus (SLE), and other conditions affecting the bone marrow or immune system. Therefore, having autoimmune leukopenia does not mean that a person definitely has RA."
+Rheumatoid vasculitis,4271003,False,"No.
+
+Rheumatoid vasculitis is a serious complication of long-standing, severe rheumatoid arthritis (RA). It involves inflammation of the blood vessels and can lead to various systemic symptoms and complications, such as skin ulcers, neuropathy, and organ damage. However, not all patients with RA develop rheumatoid vasculitis. 
+
+While rheumatoid vasculitis is specific to RA in the sense that it typically occurs in the context of this disease, having rheumatoid vasculitis does not mean that every person with RA will develop this condition. Therefore, rheumatoid vasculitis is not specific to RA in the way the task defines specificity."
+Rheumatoid nodule,40400211,False,"No.
+
+Rationale: Rheumatoid nodules are firm lumps that develop under the skin, often near joints affected by rheumatoid arthritis (RA). While they are a common extra-articular manifestation of RA, they are not specific to RA. This means that while the presence of rheumatoid nodules strongly suggests RA, they can also be seen in other conditions, such as granulomatous diseases (e.g., sarcoidosis) or in response to certain infections or medications. Therefore, having rheumatoid nodules does not definitively mean that a person has RA, even though they are commonly associated with it."
+Arthritis of temporomandibular joint,4240648,False,"No.
+
+Arthritis of the temporomandibular joint (TMJ) can occur in various forms of arthritis, not just Rheumatoid Arthritis (RA). While RA can indeed affect the TMJ, it is not specific to RA. Other types of arthritis, such as osteoarthritis, psoriatic arthritis, and ankylosing spondylitis, can also involve the TMJ. Therefore, having arthritis of the TMJ does not definitively mean that a person has RA."
+Myopathy due to rheumatoid arthritis,4107913,False,"No.
+
+Myopathy due to rheumatoid arthritis is not specific to Rheumatoid Arthritis (RA). While myopathy (muscle disease) can occur in patients with RA due to chronic inflammation or as a side effect of medications used to treat RA, it is not exclusive to RA. Myopathy can be caused by a variety of other conditions, including other autoimmune diseases (such as polymyositis or dermatomyositis), metabolic disorders, infections, and certain medications. Therefore, the presence of myopathy does not definitively indicate that a person has RA."
+Pulmonary hypertension due to lung disease and/or hypoxia,44783628,False,"No.
+
+Pulmonary hypertension due to lung disease and/or hypoxia is not specific to Rheumatoid Arthritis (RA). While pulmonary hypertension can occur in patients with RA, it is not exclusive to RA and can be caused by a variety of other conditions, including chronic obstructive pulmonary disease (COPD), interstitial lung disease, sleep apnea, and other forms of lung disease or hypoxia. Therefore, having pulmonary hypertension due to lung disease and/or hypoxia does not definitively indicate that a person has RA."
+Deformity of right foot,3655068,False,"No, a deformity of the right foot is not specific to Rheumatoid Arthritis (RA).
+
+Rationale:
+While deformities of the joints, including those in the feet, can occur in RA due to chronic inflammation and joint destruction, a deformity of the right foot alone is not specific to RA. Foot deformities can result from a variety of other conditions, including but not limited to:
+
+1. **Osteoarthritis**: A degenerative joint disease that can cause joint deformities.
+2. **Trauma or Injury**: Previous fractures or injuries can lead to deformities.
+3. **Congenital Conditions**: Such as clubfoot or other structural abnormalities present at birth.
+4. **Other Forms of Arthritis**: Such as gout or psoriatic arthritis, which can also cause joint deformities.
+5. **Diabetic Neuropathy**: Can lead to foot deformities due to nerve damage and altered foot mechanics.
+
+Therefore, while a foot deformity can be a manifestation of RA, it is not specific to RA, as it can be seen in a variety of other conditions."
+Cervical arthritis,4300489,False,"No.
+
+Cervical arthritis, also known as cervical spondylosis, is a condition that affects the cervical spine (the neck region) and is typically associated with age-related wear and tear of the spinal discs and joints. It is characterized by neck pain, stiffness, and sometimes neurological symptoms due to nerve compression.
+
+While rheumatoid arthritis (RA) can affect the cervical spine, particularly the atlantoaxial joint (the joint between the first and second cervical vertebrae), cervical arthritis is not specific to RA. Cervical arthritis can occur due to various reasons, including degenerative changes (osteoarthritis), trauma, or other inflammatory conditions. Therefore, having cervical arthritis does not definitively indicate that a person has RA."
+Diffuse interstitial pulmonary fibrosis,4025168,False,"No.
+
+Diffuse interstitial pulmonary fibrosis (DIPF) is not specific to Rheumatoid Arthritis (RA). While DIPF can occur in patients with RA as a manifestation of the disease, it is not exclusive to RA. DIPF can also be associated with other conditions such as idiopathic pulmonary fibrosis, systemic sclerosis, and other connective tissue diseases. Therefore, having DIPF does not definitively mean that a person has RA."
+Arthropathy of multiple joints,762446,False,"No.
+
+Arthropathy of multiple joints refers to a condition involving disease or damage to multiple joints, which can be caused by a variety of underlying issues, including but not limited to rheumatoid arthritis (RA). While RA is a common cause of polyarticular arthropathy, other conditions such as osteoarthritis, psoriatic arthritis, systemic lupus erythematosus (SLE), and infectious arthritis can also present with arthropathy of multiple joints. Therefore, having arthropathy of multiple joints does not definitively indicate that a person has RA, as it is not specific to RA alone."
+Deformity of left foot,3655067,False,"No.
+
+A deformity of the left foot is not specific to Rheumatoid Arthritis (RA). While RA can cause joint deformities, including in the feet, deformities of the foot can also result from a variety of other conditions such as osteoarthritis, trauma, congenital abnormalities, or other systemic diseases like diabetes or gout. Therefore, having a deformity of the left foot does not definitively indicate that a person has RA."
+Polyneuropathy in rheumatoid arthritis,4102493,False,"No.
+
+Polyneuropathy in rheumatoid arthritis is not specific to Rheumatoid Arthritis (RA). While polyneuropathy can occur in patients with RA, it is not a condition that definitively indicates the presence of RA. Polyneuropathy can be associated with a variety of other conditions, including diabetes, infections, toxins, and other autoimmune diseases. Therefore, having polyneuropathy does not mean that a person definitely has RA, even though it can be a complication of RA."
+Arthritis of midtarsal joint,4322886,False,"No.
+
+Arthritis of the midtarsal joint is not specific to Rheumatoid Arthritis (RA). While RA can affect any joint in the body, including the midtarsal joint, arthritis in this specific joint can also be caused by other conditions such as osteoarthritis, post-traumatic arthritis, or other inflammatory arthritides. Therefore, having arthritis of the midtarsal joint does not definitively indicate that a person has RA."
+PF-ILD-progressive fibrosing interstitial lung disease,37208102,False,"No.
+
+Progressive fibrosing interstitial lung disease (PF-ILD) is not specific to Rheumatoid Arthritis (RA). While RA can be associated with interstitial lung disease (ILD), and some patients with RA may develop a progressive form of ILD, PF-ILD can also occur in the context of other diseases and conditions, such as idiopathic pulmonary fibrosis, systemic sclerosis, and other connective tissue diseases. Therefore, having PF-ILD does not definitively mean that a person has RA."
+Interphalangeal joint of toe inflamed,4184092,False,"No.
+
+While inflammation of the interphalangeal joint of the toe can occur in Rheumatoid Arthritis (RA), it is not specific to RA. This condition can also be seen in other forms of arthritis, such as osteoarthritis, psoriatic arthritis, gout, and other inflammatory or infectious conditions affecting the joints. Therefore, having an inflamed interphalangeal joint of the toe does not definitively indicate that a person has RA."
+Inflammation of joint of left hand,759887,False,"No.
+
+Inflammation of a joint in the left hand is not specific to Rheumatoid Arthritis (RA). While RA commonly affects the small joints of the hands, including causing inflammation, this condition can also be seen in other types of arthritis and joint disorders. For example, osteoarthritis, psoriatic arthritis, gout, and even localized infections or trauma can cause joint inflammation in the hand. Therefore, having inflammation in a joint of the left hand does not definitively indicate that a person has RA."
+Arthritis of joint of right shoulder region,759884,False,"No.
+
+Arthritis of the joint of the right shoulder region is not specific to Rheumatoid Arthritis (RA). While RA can affect the shoulder joints, it is not the only condition that can cause arthritis in the shoulder. Other forms of arthritis, such as osteoarthritis, can also affect the shoulder joint. Additionally, shoulder arthritis could be due to other causes like trauma, infection, or other inflammatory conditions. Therefore, having arthritis in the right shoulder does not definitively indicate that a person has RA."
+Arthritis of left knee,759891,False,"No.
+
+Arthritis of the left knee is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in any joint, including the knee, arthritis of the left knee alone can be due to a variety of other conditions such as osteoarthritis, gout, septic arthritis, or other inflammatory arthritides. Therefore, having arthritis in the left knee does not definitively indicate that a person has RA."
+Arthritis of right hip,759890,False,"No.
+
+Arthritis of the right hip is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in any joint, including the hip, arthritis of the right hip can also be caused by other conditions such as osteoarthritis, psoriatic arthritis, ankylosing spondylitis, or even trauma. Therefore, having arthritis in the right hip does not definitively indicate that a person has RA."
+Arthritis of left hip,759889,False,"No.
+
+Arthritis of the left hip is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in any joint, including the hip, arthritis of the left hip alone can be due to a variety of other conditions such as osteoarthritis, psoriatic arthritis, ankylosing spondylitis, or even trauma-related arthritis. Therefore, having arthritis in the left hip does not definitively indicate that a person has RA."
+Inflammation of joint of right hand,759888,False,"No.
+
+Inflammation of a joint in the right hand is not specific to Rheumatoid Arthritis (RA). While RA commonly affects the small joints of the hands and can cause inflammation, joint inflammation in the hand can also be caused by a variety of other conditions, such as osteoarthritis, gout, psoriatic arthritis, or even an infection. Therefore, having inflammation in a joint of the right hand does not definitively indicate that a person has RA."
+Bilateral arthritis of knees,759892,False,"No.
+
+Rationale:
+Bilateral arthritis of the knees can be a symptom of various types of arthritis, not just Rheumatoid Arthritis (RA). While RA can cause bilateral arthritis in the knees, it is not specific to RA. Other conditions such as osteoarthritis, psoriatic arthritis, and even systemic lupus erythematosus (SLE) can also present with bilateral knee arthritis. Therefore, having bilateral arthritis of the knees does not definitively mean that a person has RA."
+Acute polyarticular juvenile idiopathic arthritis,42535150,False,"No.
+
+Acute polyarticular juvenile idiopathic arthritis (JIA) is a type of juvenile idiopathic arthritis that affects five or more joints within the first six months of disease onset and typically occurs in children under the age of 16. While both rheumatoid arthritis (RA) and polyarticular JIA are autoimmune conditions that involve multiple joints, they are distinct entities with different diagnostic criteria, age of onset, and disease progression.
+
+RA is primarily an adult disease characterized by symmetric polyarthritis, joint swelling, and systemic involvement, whereas polyarticular JIA is a pediatric condition. The presence of acute polyarticular juvenile idiopathic arthritis does not definitively indicate that a person has rheumatoid arthritis, as they are separate diagnoses with different patient populations and clinical features.
+
+Therefore, having acute polyarticular juvenile idiopathic arthritis does not mean that one definitely has rheumatoid arthritis."
+Rheumatoid linear subcutaneous bands,4299307,False,"No.
+
+Rheumatoid linear subcutaneous bands, also known as rheumatoid nodules, are firm lumps that can form under the skin in patients with Rheumatoid Arthritis (RA). While they are a common manifestation of RA, they are not specific to RA. This means that their presence does not definitively indicate that a person has RA, as they can also be seen in other conditions, such as granulomatous diseases (e.g., sarcoidosis) or in response to certain infections or medications. Therefore, having rheumatoid linear subcutaneous bands does not mean that a person definitely has RA, even though they are often associated with the disease."
+Spondylitis,4223530,False,"No.
+
+Spondylitis, specifically ankylosing spondylitis, is a type of arthritis that primarily affects the spine, although other joints can be involved. It is characterized by inflammation of the vertebrae that can lead to severe, chronic pain and discomfort. In advanced cases, this inflammation can lead to new bone formation on the spine, causing sections of the spine to fuse in a fixed, immobile position.
+
+While both rheumatoid arthritis (RA) and ankylosing spondylitis are types of inflammatory arthritis, they are distinct conditions with different primary sites of involvement and different pathophysiological mechanisms. RA primarily affects the synovial joints, particularly the small joints of the hands and feet, and is characterized by symmetric polyarthritis. Ankylosing spondylitis, on the other hand, primarily affects the axial skeleton, particularly the spine and sacroiliac joints.
+
+Therefore, having spondylitis does not mean that a person definitely has rheumatoid arthritis. The two conditions are separate entities with different diagnostic criteria and clinical presentations."
+Arthritis of acromioclavicular joint,4323882,False,"No.
+
+Arthritis of the acromioclavicular (AC) joint is not specific to Rheumatoid Arthritis (RA). While RA can affect any synovial joint, including the AC joint, arthritis in this particular joint can also be caused by other conditions such as osteoarthritis, post-traumatic arthritis, or other inflammatory arthritides. Therefore, the presence of arthritis in the AC joint does not definitively indicate that a person has RA. It could be due to a variety of other causes."
+Rheumatoid neutrophilic dermatitis,4299308,False,"No.
+
+Rationale: Rheumatoid neutrophilic dermatitis is a rare skin condition associated with Rheumatoid Arthritis (RA), characterized by neutrophilic infiltration in the skin. While it can occur in patients with RA, it is not specific to RA. This means that having rheumatoid neutrophilic dermatitis does not definitively indicate that a person has RA, as this skin condition can also be seen in other inflammatory or autoimmune conditions. Therefore, rheumatoid neutrophilic dermatitis is not specific to RA."
+Rheumatoid scleritis,4243509,False,"No.
+
+Rationale: Rheumatoid scleritis is an inflammatory condition of the sclera (the white outer layer of the eyeball) that can occur in patients with Rheumatoid Arthritis (RA). While it is associated with RA, it is not specific to RA. This means that having rheumatoid scleritis does not definitively indicate that a person has RA, as scleritis can also occur in other autoimmune conditions and systemic inflammatory diseases. Therefore, rheumatoid scleritis is not a condition that, if present, definitively confirms the presence of RA."
+Inflammation of joint of foot,40489492,False,"No.
+
+Inflammation of the joint of the foot is not specific to Rheumatoid Arthritis (RA). While RA can cause inflammation in the joints of the feet, this condition can also be seen in a variety of other maladies, including but not limited to:
+
+1. **Osteoarthritis**: A degenerative joint disease that can affect any joint, including those in the feet.
+2. **Gout**: A form of inflammatory arthritis characterized by sudden, severe attacks of pain, redness, and tenderness in joints, often the joint at the base of the big toe.
+3. **Psoriatic Arthritis**: An inflammatory arthritis associated with psoriasis that can affect the joints of the feet.
+4. **Reactive Arthritis**: An inflammatory condition that can develop in response to an infection in another part of the body, often affecting the joints of the feet.
+5. **Infectious Arthritis**: Joint inflammation caused by an infection, which can affect any joint, including those in the feet.
+6. **Systemic Lupus Erythematosus (SLE)**: An autoimmune disease that can cause joint inflammation, including in the feet.
+
+Given that inflammation of the joint of the foot can be caused by multiple conditions, it is not specific to RA. Therefore, having inflammation of the joint of the foot does not definitively indicate that a person has RA."
+Juvenile rheumatoid arthritis of right knee,37204149,False,"No.
+
+Juvenile rheumatoid arthritis (JRA), also known as juvenile idiopathic arthritis (JIA), is a different condition from rheumatoid arthritis (RA) in adults. While both are autoimmune disorders that cause joint inflammation, JRA specifically affects children and has different diagnostic criteria and disease manifestations compared to adult RA. 
+
+The condition ""juvenile rheumatoid arthritis of right knee"" indicates a diagnosis of JRA affecting a specific joint in a child. This condition is not specific to RA in adults because JRA and RA are distinct entities with different age groups and clinical presentations. Therefore, having juvenile rheumatoid arthritis of the right knee does not mean that the person definitely has rheumatoid arthritis as described in the provided malady description."
+Juvenile rheumatoid arthritis of left knee,37204148,False,"No.
+
+Juvenile rheumatoid arthritis (JRA), also known as juvenile idiopathic arthritis (JIA), is a different condition from adult-onset rheumatoid arthritis (RA). While both conditions share some similarities, such as being autoimmune diseases that cause joint inflammation, they are distinct entities with different diagnostic criteria, age of onset, and potentially different treatment approaches.
+
+Juvenile rheumatoid arthritis specifically refers to arthritis that begins in childhood, typically before the age of 16. It can affect any joint, including the knee, and may present with symptoms such as joint swelling, pain, and stiffness. However, having juvenile rheumatoid arthritis of the left knee does not definitively mean that the person has adult-onset rheumatoid arthritis.
+
+Therefore, the condition ""juvenile rheumatoid arthritis of left knee"" is not specific to the malady ""Rheumatoid Arthritis"" as described."
+Deformity of foot due to rheumatoid arthritis,4334806,False,"No.
+
+Rationale: While a deformity of the foot due to rheumatoid arthritis is a condition that can occur in individuals with rheumatoid arthritis (RA), it is not specific to RA. This means that having a foot deformity due to RA does not definitively indicate that a person has RA, as foot deformities can also result from other conditions such as osteoarthritis, trauma, or other types of inflammatory arthritis. Therefore, the presence of a foot deformity alone is not sufficient to diagnose RA without considering other clinical criteria and diagnostic markers specific to RA."
+Anterior uveitis in juvenile idiopathic arthritis,4211939,False,"No.
+
+Anterior uveitis is an inflammation of the middle layer of the eye, specifically the uvea, and it is commonly associated with juvenile idiopathic arthritis (JIA), particularly the oligoarticular subtype. While anterior uveitis can occur in patients with JIA, it is not specific to Rheumatoid Arthritis (RA). RA primarily affects the synovial joints and is characterized by symmetric polyarthritis, joint swelling, and tenderness. Although RA can have extra-articular manifestations, anterior uveitis is not a hallmark or specific condition of RA. Therefore, the presence of anterior uveitis in a patient does not definitively indicate that the patient has RA."
+Arthritis of joint of toe,4176008,False,"No.
+
+Arthritis of the joint of the toe is not specific to Rheumatoid Arthritis (RA). While RA can certainly cause arthritis in the joints of the toes, arthritis in the toe joints can also be caused by other conditions such as osteoarthritis, gout, psoriatic arthritis, and other forms of inflammatory or degenerative joint diseases. Therefore, having arthritis in the joint of the toe does not definitively mean that a person has RA."
+Dilated cardiomyopathy secondary to rheumatoid arthritis,4060405,False,"No.
+
+Dilated cardiomyopathy (DCM) secondary to rheumatoid arthritis (RA) is not specific to RA. While RA can lead to various extra-articular manifestations, including cardiovascular complications, DCM is not a condition that definitively indicates the presence of RA. DCM can result from a variety of causes, including genetic factors, viral infections, alcohol abuse, and other autoimmune diseases. Therefore, having DCM does not mean that a person definitely has RA, even though RA can be one of the contributing factors."
+Deformity of wrist due to rheumatoid arthritis,4330635,False,"No.
+
+Rationale: While a deformity of the wrist can certainly be a result of rheumatoid arthritis (RA), it is not specific to RA alone. Deformities in the wrist can occur due to other conditions as well, such as osteoarthritis, trauma, or other inflammatory arthritides. Therefore, having a wrist deformity does not definitively mean that a person has RA, even though it can be a consequence of the disease."
+Cutaneous complication of rheumatoid disease,4299403,False,"No.
+
+Cutaneous complications of rheumatoid disease, such as rheumatoid nodules, vasculitis, or other skin manifestations, are not specific to Rheumatoid Arthritis (RA). While these skin conditions can occur in patients with RA, they are not exclusive to RA and can be seen in other autoimmune or inflammatory conditions. Therefore, having a cutaneous complication of rheumatoid disease does not definitively mean that a person has RA."
+Arthritis of right elbow,37119224,False,"No.
+
+Arthritis of the right elbow is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in any joint, including the right elbow, arthritis in a single joint can also be caused by a variety of other conditions such as osteoarthritis, gout, septic arthritis, or trauma. Therefore, having arthritis in the right elbow does not definitively indicate that a person has RA. RA typically presents with symmetric polyarthritis, meaning it affects multiple joints on both sides of the body, particularly the small joints of the hands and feet."
+Bilateral arthropathy of knee joints,36687055,False,"No.
+
+Bilateral arthropathy of the knee joints refers to a condition where both knee joints are affected by a disease process, which could be due to various causes such as osteoarthritis, rheumatoid arthritis, or other types of inflammatory or degenerative joint diseases. While rheumatoid arthritis can indeed cause bilateral arthropathy of the knee joints, this condition is not specific to RA. Other conditions, such as osteoarthritis or other inflammatory arthritides, can also present with bilateral knee involvement. Therefore, having bilateral arthropathy of the knee joints does not definitively indicate that a person has rheumatoid arthritis."
+Arthritis of right foot,37117139,False,"No.
+
+Arthritis of the right foot is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in the joints of the feet, including the right foot, arthritis in the right foot can also be caused by a variety of other conditions. These include osteoarthritis, gout, psoriatic arthritis, and other forms of inflammatory or degenerative joint diseases. Therefore, having arthritis in the right foot does not definitively indicate that a person has RA."
+Diffuse interstitial rheumatoid disease of lung,4028118,False,"No.
+
+Diffuse interstitial rheumatoid disease of the lung, also known as rheumatoid lung disease, is a condition that can occur in patients with Rheumatoid Arthritis (RA). It involves inflammation and scarring of the lung tissue, which can lead to symptoms such as chronic cough and shortness of breath. However, not all patients with RA develop this lung condition. 
+
+While the presence of diffuse interstitial rheumatoid disease of the lung strongly suggests that the patient has RA, it is not specific to RA alone. Interstitial lung disease can also be seen in other autoimmune conditions and can occur independently of RA. Therefore, having diffuse interstitial rheumatoid disease of the lung does not definitively mean that a person has RA, although it is a strong indicator. 
+
+Thus, the condition is not specific to the malady of Rheumatoid Arthritis."
+Metatarsophalangeal joint inflamed,4179147,False,"No.
+
+While inflammation of the metatarsophalangeal (MTP) joint can occur in Rheumatoid Arthritis (RA), it is not specific to RA. MTP joint inflammation can be seen in various other conditions, including gout, psoriatic arthritis, and osteoarthritis. Therefore, having an inflamed MTP joint does not definitively indicate that a person has RA."
+Subtalar joint inflamed,4179146,False,"No.
+
+The subtalar joint, located in the foot, can become inflamed due to various conditions, including trauma, overuse, gout, or other types of arthritis such as osteoarthritis or psoriatic arthritis. While inflammation of the subtalar joint can occur in patients with Rheumatoid Arthritis (RA), it is not specific to RA. In other words, having an inflamed subtalar joint does not definitively indicate that a person has RA, as this condition can be seen in multiple other disorders. Therefore, the presence of an inflamed subtalar joint is not specific to Rheumatoid Arthritis."
+Necrotizing rheumatoid vasculitis,4347065,False,"No.
+
+Necrotizing rheumatoid vasculitis is a severe and rare complication of Rheumatoid Arthritis (RA). It involves inflammation and necrosis of the blood vessels and is typically seen in patients with long-standing, severe RA. While necrotizing rheumatoid vasculitis is associated with RA, it is not specific to RA in the sense that its presence does not definitively indicate RA. Other conditions, such as systemic lupus erythematosus (SLE) and other forms of vasculitis, can also present with similar vascular inflammation and necrosis. Therefore, having necrotizing rheumatoid vasculitis does not mean that a person definitely has RA, even though it is a known complication of the disease."
+Bilateral temporomandibular joint arthritis,36687163,False,"No.
+
+Bilateral temporomandibular joint (TMJ) arthritis refers to inflammation of the temporomandibular joints on both sides of the jaw. While TMJ arthritis can occur in the context of Rheumatoid Arthritis (RA), it is not specific to RA. TMJ arthritis can also be seen in other conditions such as osteoarthritis, psoriatic arthritis, ankylosing spondylitis, and other inflammatory or degenerative joint diseases.
+
+In other words, having bilateral TMJ arthritis does not definitively mean that a person has RA, as it can be a manifestation of various other conditions. Therefore, the presence of bilateral TMJ arthritis is not specific to Rheumatoid Arthritis."
+Arthritis of left temporomandibular joint,36687162,False,"No.
+
+Arthritis of the left temporomandibular joint (TMJ) is not specific to Rheumatoid Arthritis (RA). While RA can indeed affect the temporomandibular joint, arthritis in this joint can also be caused by other conditions such as osteoarthritis, trauma, infection, or other inflammatory diseases. Therefore, having arthritis in the left temporomandibular joint does not definitively indicate that a person has RA. It is a condition that can be seen in various maladies, not exclusively in RA."
+Arthritis of right temporomandibular joint,36687161,False,"No.
+
+Arthritis of the right temporomandibular joint (TMJ) is not specific to Rheumatoid Arthritis (RA). While RA can affect the TMJ, arthritis in this joint can also be caused by other conditions such as osteoarthritis, trauma, infection, or other inflammatory diseases. Therefore, having arthritis in the right TMJ does not definitively indicate that a person has RA. It is one of many possible manifestations and does not meet the criterion of being specific to RA."
+Bilateral deformity of wrists due to rheumatoid arthritis,37309723,False,"**No**
+
+Rationale: While bilateral deformity of the wrists can occur in patients with rheumatoid arthritis (RA), it is not specific to RA. This means that having bilateral wrist deformities does not definitively indicate that a person has RA. Other conditions, such as advanced osteoarthritis or other inflammatory arthritides, can also cause joint deformities. Therefore, the presence of bilateral wrist deformities alone is not sufficient to diagnose RA without considering other clinical criteria, serological markers, and imaging findings."
+Bilateral deformity of feet due to rheumatoid arthritis,37309722,False,"No.
+
+Rationale: While bilateral deformity of the feet can occur in patients with rheumatoid arthritis (RA) due to the chronic inflammation and joint damage associated with the disease, it is not specific to RA. Other conditions, such as severe osteoarthritis, psoriatic arthritis, or even trauma, can also lead to deformities in the feet. Therefore, having bilateral deformity of the feet does not definitively mean that a person has RA, even though it can be a consequence of the disease."
+Bilateral deformity of hands due to rheumatoid arthritis,37309724,False,"No.
+
+Rationale: While bilateral deformity of the hands can occur in patients with rheumatoid arthritis (RA) due to the chronic inflammation and joint damage characteristic of the disease, it is not specific to RA. Other conditions, such as severe osteoarthritis or systemic lupus erythematosus (SLE), can also cause deformities in the hands. Therefore, the presence of bilateral hand deformities does not definitively indicate that a person has RA, even though it is a common manifestation in advanced cases of the disease."
+Infective arthritis of right hip,42534830,False,"No.
+
+Infective arthritis, also known as septic arthritis, is an infection in a joint that can be caused by bacteria, viruses, or fungi. It is characterized by joint pain, swelling, redness, and fever, and it typically requires prompt medical treatment to prevent joint damage.
+
+Rheumatoid Arthritis (RA) is an autoimmune condition that primarily affects the synovial joints, leading to chronic inflammation, joint pain, and potential joint destruction. While RA can increase the risk of infections, including septic arthritis, the presence of infective arthritis of the right hip does not definitively indicate that a person has RA. Infective arthritis can occur independently of RA and can affect individuals without any underlying autoimmune conditions.
+
+Therefore, the condition ""infective arthritis of right hip"" is not specific to Rheumatoid Arthritis."
+Deformity of right hand co-occurrent and due to rheumatoid arthritis,42534838,True,"Yes.
+
+Rationale: A deformity of the right hand that is co-occurrent and due to rheumatoid arthritis is a specific condition that indicates the presence of rheumatoid arthritis. This is because deformities in the hands, particularly due to joint destruction and damage, are a hallmark of advanced or severe RA. If a patient has a hand deformity specifically attributed to RA, it confirms the diagnosis of RA. However, not all patients with RA will have hand deformities, especially in the early stages of the disease. Therefore, the presence of this specific condition (hand deformity due to RA) means the patient definitely has RA, fulfilling the criteria of specificity."
+Arthritis of right knee,765259,False,"No.
+
+Arthritis of the right knee is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in any joint, including the knee, arthritis of the right knee alone can be due to a variety of other conditions such as osteoarthritis, gout, septic arthritis, or even trauma. Therefore, having arthritis in the right knee does not definitively indicate that a person has RA."
+Bilateral arthritis of hip,765258,False,"No.
+
+Rationale: Bilateral arthritis of the hip is not specific to Rheumatoid Arthritis (RA). While RA can affect the hips, it more commonly affects the small joints of the hands and feet. Bilateral hip arthritis can be seen in various other conditions, including osteoarthritis, ankylosing spondylitis, and other inflammatory or degenerative joint diseases. Therefore, having bilateral arthritis of the hip does not definitively indicate that a person has RA."
+Inflammation of joint of both hands,765257,False,"No.
+
+While inflammation of the joints of both hands is a common symptom of Rheumatoid Arthritis (RA), it is not specific to RA. This condition can also be seen in other types of arthritis and inflammatory conditions, such as osteoarthritis, psoriatic arthritis, and systemic lupus erythematosus (SLE). Therefore, having inflammation of the joints of both hands does not definitively mean that a person has RA; it could be indicative of several other conditions as well."
+Bilateral arthritis of elbows,42534863,False,"No.
+
+Bilateral arthritis of the elbows is not specific to Rheumatoid Arthritis (RA). While RA can certainly cause arthritis in the elbows, it is not the only condition that can do so. Other forms of arthritis, such as osteoarthritis, psoriatic arthritis, and even systemic lupus erythematosus (SLE), can also present with bilateral arthritis of the elbows. Therefore, having bilateral arthritis of the elbows does not definitively mean that a person has RA."
+Arthritis of left wrist,37108606,False,"No.
+
+Arthritis of the left wrist is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in the wrist, arthritis in the wrist can also be caused by other conditions such as osteoarthritis, psoriatic arthritis, gout, or even trauma. Therefore, having arthritis in the left wrist does not definitively mean that a person has RA."
+Arthritis of right wrist,37108607,False,"No.
+
+Arthritis of the right wrist is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in the wrist, arthritis in the wrist can also be caused by other conditions such as osteoarthritis, psoriatic arthritis, gout, or even trauma. Therefore, having arthritis in the right wrist does not definitively mean that a person has RA. It is a symptom that can be associated with multiple different types of arthritis and other conditions."
+Arthritis of left elbow,37108605,False,"No.
+
+Arthritis of the left elbow is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in any joint, including the left elbow, arthritis in a single joint can also be caused by a variety of other conditions. These include osteoarthritis, gout, septic arthritis, psoriatic arthritis, and other forms of inflammatory or infectious arthritis. Therefore, having arthritis in the left elbow does not definitively indicate that a person has RA."
+Arthritis of left glenohumeral joint,37108602,False,"No.
+
+Arthritis of the left glenohumeral joint (shoulder joint) is not specific to Rheumatoid Arthritis (RA). While RA can affect the shoulder joints, arthritis in the glenohumeral joint can also be caused by other conditions such as osteoarthritis, post-traumatic arthritis, or other inflammatory arthritides like psoriatic arthritis or ankylosing spondylitis. Therefore, having arthritis in the left glenohumeral joint does not definitively indicate that a person has RA."
+Arthritis of right glenohumeral joint,37108603,False,"No.
+
+Arthritis of the right glenohumeral joint (shoulder joint) is not specific to Rheumatoid Arthritis (RA). While RA can affect any synovial joint, including the glenohumeral joint, arthritis in this specific joint can also be caused by other conditions such as osteoarthritis, post-traumatic arthritis, or septic arthritis. Therefore, the presence of arthritis in the right glenohumeral joint does not definitively indicate that a person has RA."
+Deformity of hand due to rheumatoid arthritis,46273442,True,"Yes.
+
+Rationale: A deformity of the hand due to rheumatoid arthritis is specific to rheumatoid arthritis (RA). If a patient has a hand deformity that is explicitly attributed to RA, it means that the underlying cause of the deformity is RA. While other conditions can cause hand deformities, the specification that the deformity is due to RA confirms the presence of RA. Therefore, if a patient has a hand deformity due to RA, they definitely have RA. However, not all patients with RA will necessarily have hand deformities, especially in the early stages or if the disease is well-managed."
+Rheumatoid fibrosing alveolitis,4184896,False,"No.
+
+Rheumatoid fibrosing alveolitis, also known as rheumatoid lung disease, is a condition that can occur in patients with Rheumatoid Arthritis (RA). It involves inflammation and scarring of the lung tissue, which is a manifestation of RA outside the joints. However, not all patients with RA develop rheumatoid fibrosing alveolitis. 
+
+While rheumatoid fibrosing alveolitis is associated with RA, it is not specific to RA. This means that having rheumatoid fibrosing alveolitis does not definitively indicate that a person has RA, as lung fibrosis can also occur in other conditions, such as idiopathic pulmonary fibrosis or other autoimmune diseases. Therefore, the presence of rheumatoid fibrosing alveolitis alone is not sufficient to diagnose RA."
+Spindling of fingers of bilateral hands due to rheumatoid arthritis,3654567,False,"No.
+
+Spindling of the fingers, also known as ""spindle-shaped"" fingers, is a condition that can occur in patients with Rheumatoid Arthritis (RA) due to chronic inflammation and joint damage. However, it is not specific to RA. While it is a characteristic finding in RA, it can also be seen in other conditions that cause chronic joint inflammation and deformity, such as psoriatic arthritis or other inflammatory arthritides. Therefore, the presence of spindle-shaped fingers does not definitively indicate that a person has RA, even though it is a common manifestation in RA patients."
+Chronic drug-induced interstitial lung disorders,4112814,False,"No.
+
+Chronic drug-induced interstitial lung disorders are not specific to Rheumatoid Arthritis (RA). While RA can be associated with various pulmonary complications, including interstitial lung disease (ILD), chronic drug-induced interstitial lung disorders can occur due to a variety of medications and conditions unrelated to RA. These lung disorders can be caused by drugs used to treat a wide range of diseases, including but not limited to cancer, cardiovascular diseases, and other autoimmune conditions. Therefore, having chronic drug-induced interstitial lung disorders does not definitively indicate that a person has RA."
+Arthritis of right ankle,37108614,False,"No.
+
+Arthritis of the right ankle is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in any joint, including the right ankle, arthritis in a single joint can also be caused by a variety of other conditions. These include osteoarthritis, gout, psoriatic arthritis, septic arthritis, and traumatic arthritis, among others. Therefore, having arthritis in the right ankle does not definitively indicate that a person has RA."
+Juvenile rheumatoid arthritis of bilateral knees,37209479,False,"No.
+
+Juvenile rheumatoid arthritis (JRA), also known as juvenile idiopathic arthritis (JIA), is a different condition from adult-onset rheumatoid arthritis (RA). While both conditions are types of inflammatory arthritis and share some similarities, they are distinct entities with different diagnostic criteria, age of onset, and potentially different pathophysiological mechanisms.
+
+Juvenile rheumatoid arthritis specifically refers to arthritis that begins in children under the age of 16 and can present in various forms, including oligoarticular (affecting a few joints), polyarticular (affecting many joints), and systemic (affecting the entire body). The involvement of bilateral knees is a specific manifestation of JRA/JIA.
+
+Therefore, having juvenile rheumatoid arthritis of bilateral knees does not mean that the person definitely has adult-onset rheumatoid arthritis. The two conditions, while related, are not the same, and the presence of one does not confirm the presence of the other."
+Bilateral arthritis of ankle,37108615,False,"No.
+
+Bilateral arthritis of the ankle is not specific to Rheumatoid Arthritis (RA). While RA can certainly cause arthritis in the ankles, including bilateral involvement, it is not the only condition that can do so. Other forms of arthritis, such as osteoarthritis, psoriatic arthritis, and even certain infections or systemic conditions, can also present with bilateral ankle arthritis. Therefore, having bilateral arthritis of the ankle does not definitively mean that a person has RA."
+Arthritis of left ankle,37108612,False,"No.
+
+Arthritis of the left ankle is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in any joint, including the left ankle, arthritis in a single joint can also be caused by a variety of other conditions such as osteoarthritis, gout, psoriatic arthritis, septic arthritis, or trauma. Therefore, having arthritis in the left ankle does not definitively indicate that a person has RA."
+Arthritis of left foot,37108613,False,"No.
+
+Arthritis of the left foot is not specific to Rheumatoid Arthritis (RA). While RA can cause arthritis in the small joints of the feet, including the left foot, arthritis in the left foot alone can be caused by a variety of other conditions as well. These conditions include osteoarthritis, gout, psoriatic arthritis, and other forms of inflammatory or degenerative joint diseases. Therefore, having arthritis in the left foot does not definitively indicate that a person has RA."
+Bilateral arthritis of wrist,37108608,False,"No.
+
+While bilateral arthritis of the wrist can be a symptom of Rheumatoid Arthritis (RA), it is not specific to RA. Bilateral arthritis of the wrist can also be seen in other conditions such as osteoarthritis, systemic lupus erythematosus (SLE), psoriatic arthritis, and other inflammatory or autoimmune disorders. Therefore, having bilateral arthritis of the wrist does not definitively mean that a person has RA, even though it is a common manifestation of the disease."
+Bilateral arthritis of feet,37108616,False,"No.
+
+While bilateral arthritis of the feet can be a symptom of Rheumatoid Arthritis (RA), it is not specific to RA. Bilateral arthritis of the feet can also be seen in other conditions such as osteoarthritis, psoriatic arthritis, gout, and systemic lupus erythematosus (SLE). Therefore, having bilateral arthritis of the feet does not definitively mean that a person has RA."
+Ankle joint inflamed,4182009,False,"No.
+
+While inflammation of the ankle joint can occur in Rheumatoid Arthritis (RA), it is not specific to RA. Ankle joint inflammation can be caused by a variety of other conditions, including but not limited to osteoarthritis, gout, psoriatic arthritis, reactive arthritis, and even trauma or infection. Therefore, having an inflamed ankle joint does not definitively indicate that a person has RA."
+Rheumatoid osteoperiostitis,4030424,False,"No.
+
+Rheumatoid osteoperiostitis is a condition characterized by inflammation of the periosteum (the connective tissue surrounding the bone) and the bone itself, which can occur in the context of rheumatoid arthritis (RA). However, it is not specific to RA. While rheumatoid osteoperiostitis can be associated with RA, it can also be seen in other conditions, including other types of inflammatory arthritis or bone infections.
+
+Therefore, having rheumatoid osteoperiostitis does not definitively mean that a person has RA, as it can occur in other medical conditions as well."
+Rheumatoid episcleritis,4300202,False,"No.
+
+Rationale: Rheumatoid episcleritis is an inflammation of the episclera, the thin layer of tissue covering the white part of the eye, and it can occur in patients with Rheumatoid Arthritis (RA). However, it is not specific to RA. Episcleritis can also be associated with other systemic inflammatory conditions, such as systemic lupus erythematosus (SLE), inflammatory bowel disease, and even occur idiopathically (without a known cause). Therefore, while rheumatoid episcleritis can be a manifestation of RA, having rheumatoid episcleritis does not definitively mean that a person has RA."
+Nailfold/finger-pulp infarcts in rheumatoid disease,4297651,False,"No.
+
+Nailfold or finger-pulp infarcts can occur in patients with rheumatoid arthritis (RA), but they are not specific to RA. These infarcts are small areas of tissue death due to lack of blood supply and can be seen in other conditions as well, particularly other autoimmune or vasculitic disorders. For example, they can also be observed in systemic lupus erythematosus (SLE) and other forms of vasculitis. Therefore, while the presence of nailfold or finger-pulp infarcts might suggest an underlying autoimmune or vasculitic process, they are not specific enough to definitively diagnose RA."
+Cutaneous atrophy due to rheumatoid arthritis,4297650,False,"No.
+
+Cutaneous atrophy, which refers to the thinning of the skin, can occur in patients with rheumatoid arthritis (RA), particularly as a side effect of long-term corticosteroid use, which is a common treatment for RA. However, cutaneous atrophy is not specific to RA. It can also be seen in other conditions that involve chronic corticosteroid use or other systemic diseases that affect the skin.
+
+Therefore, while cutaneous atrophy can be associated with RA, it is not specific to RA. If a patient has cutaneous atrophy, it does not definitively mean they have RA, as this condition can arise from various other causes."
+Rheumatoid aortitis,4306357,False,"No.
+
+Rationale: Rheumatoid aortitis is an inflammation of the aorta that can occur in patients with Rheumatoid Arthritis (RA), but it is not specific to RA. While rheumatoid aortitis is associated with RA and can be a complication of the disease, its presence does not definitively indicate that a person has RA. Rheumatoid aortitis can also be seen in other inflammatory conditions and autoimmune diseases. Therefore, having rheumatoid aortitis does not mean that a person definitely has RA, even though it can occur in the context of RA."
+Juvenile seropositive polyarthritis,4132809,False,"No.
+
+Juvenile seropositive polyarthritis is a subtype of Juvenile Idiopathic Arthritis (JIA), which is a different condition from Rheumatoid Arthritis (RA). While both conditions share similarities, such as being autoimmune diseases that cause joint inflammation, they are distinct entities. Juvenile seropositive polyarthritis specifically refers to a form of arthritis that occurs in children and is characterized by the presence of rheumatoid factor (RF) in the blood, similar to adult RA.
+
+However, having juvenile seropositive polyarthritis does not mean that the individual definitely has Rheumatoid Arthritis, as RA is typically diagnosed in adults and has different diagnostic criteria and age of onset. Therefore, the condition of juvenile seropositive polyarthritis is not specific to Rheumatoid Arthritis."
+Finger joint inflamed,4185033,False,"No.
+
+While finger joint inflammation can be a symptom of Rheumatoid Arthritis (RA), it is not specific to RA. Inflammation of the finger joints can occur in various other conditions, including osteoarthritis, psoriatic arthritis, gout, and even infections or trauma. Therefore, having inflamed finger joints does not definitively mean that a person has RA."
+Metacarpophalangeal joint inflamed,4185032,False,"No.
+
+While inflammation of the metacarpophalangeal (MCP) joints is a common symptom of Rheumatoid Arthritis (RA), it is not specific to RA. Other conditions, such as osteoarthritis, psoriatic arthritis, and systemic lupus erythematosus (SLE), can also cause inflammation in the MCP joints. Therefore, having inflamed MCP joints does not definitively mean that a person has RA; it could be indicative of several different types of arthritis or other inflammatory conditions."

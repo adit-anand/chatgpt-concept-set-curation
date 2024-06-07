@@ -1,0 +1,71 @@
+concept_id,concept_name,rationale
+443238,Diabetic - poor control,Parent of topmost gold-standard concept
+3194082,Poorly controlled type II diabetes with complications,Sibling of a gold-standard concept
+4008576,Diabetes mellitus without complication,Sibling of a gold-standard concept
+3198118,Poorly controlled diabetes mellitus,Sibling of a gold-standard concept
+43020791,Gestational diabetes mellitus uncontrolled,Sibling of a gold-standard concept
+40482801,Type II diabetes mellitus uncontrolled,Sibling of a gold-standard concept
+442793,Complication due to diabetes mellitus,Sibling of a gold-standard concept
+4114426,Diabetic hand syndrome,Sibling of a gold-standard concept
+37312019,Diabetic cardiomyopathy,Sibling of a gold-standard concept
+4061725,Cellulitis of foot due to diabetes mellitus,Sibling of a gold-standard concept
+443732,Disorder due to type 2 diabetes mellitus,Sibling of a gold-standard concept
+201820,Diabetes mellitus,Parent of topmost gold-standard concept
+201826,Type 2 diabetes mellitus,Sibling of a gold-standard concept
+766253,Exacerbation of type 2 diabetes mellitus,Descendant of gold-standard concept sibling
+36684827,Diabetes mellitus type 2 with periodontal disease,Descendant of gold-standard concept sibling
+3193274,Poorly controlled type 2 diabetes,Descendant of gold-standard concept sibling
+45766052,Type II diabetes mellitus in remission,Descendant of gold-standard concept sibling
+4130162,Insulin treated type 2 diabetes mellitus,Descendant of gold-standard concept sibling
+4129519,Pregnancy and type 2 diabetes mellitus,Descendant of gold-standard concept sibling
+4193704,Type 2 diabetes mellitus without complication,Descendant of gold-standard concept sibling
+4230254,Type 2 diabetes mellitus in nonobese,Descendant of gold-standard concept sibling
+4304377,Type 2 diabetes mellitus in obese,Descendant of gold-standard concept sibling
+4099651,Type 2 diabetes mellitus with ulcer,Descendant of gold-standard concept sibling
+4063043,Pre-existing type 2 diabetes mellitus,Descendant of gold-standard concept sibling
+433128,Complication,PHOEBE Recommendation
+40277917,Intellectual disability,PHOEBE Recommendation
+4159742,Diabetic foot ulcer,PHOEBE Recommendation
+380097,Macular edema due to diabetes mellitus,PHOEBE Recommendation
+4080891,Dysmorphism,PHOEBE Recommendation
+4008576,Diabetes mellitus without complication,PHOEBE Recommendation
+4153218,Primary hypogonadism,PHOEBE Recommendation
+4058243,"Diabetes mellitus during pregnancy, childbirth and the puerperium",PHOEBE Recommendation
+4131908,Peripheral angiopathy due to diabetes mellitus,PHOEBE Recommendation
+4099651,Type 2 diabetes mellitus with ulcer,PHOEBE Recommendation
+4188598,High risk pregnancy,PHOEBE Recommendation
+4311246,Pre-existing hypertension in obstetric context,PHOEBE Recommendation
+4338896,Traction retinal detachment involving macula,PHOEBE Recommendation
+4338897,Combined traction and rhegmatogenous retinal detachment,PHOEBE Recommendation
+4193704,Type 2 diabetes mellitus without complication,PHOEBE Recommendation
+43531010,Pre-existing type 2 diabetes mellitus in pregnancy,PHOEBE Recommendation
+4048027,Neuropathy associated with endocrine disorder,PHOEBE Recommendation
+43530690,Foot ulcer due to type 2 diabetes mellitus,PHOEBE Recommendation
+4274970,Multiple malformation syndrome with facial defects as major feature,PHOEBE Recommendation
+37018728,Gastroparesis due to type 2 diabetes mellitus,PHOEBE Recommendation
+141663,Osteomyelitis,PHOEBE Recommendation
+607578,Metabolic neuropathy,PHOEBE Recommendation
+604741,Glaucoma suspect due to diabetes mellitus type 2,PHOEBE Recommendation
+378416,Retinal disorder,PHOEBE Recommendation
+376114,Severe nonproliferative retinopathy due to diabetes mellitus,PHOEBE Recommendation
+45757079,Pre-existing diabetes mellitus in mother complicating childbirth,PHOEBE Recommendation
+4032787,Hyperosmolarity,PHOEBE Recommendation
+376065,Disorder of nervous system due to type 2 diabetes mellitus,PHOEBE Recommendation
+4227657,Skin ulcer due to diabetes mellitus,PHOEBE Recommendation
+36717215,"Intellectual disability, craniofacial dysmorphism, hypogonadism, diabetes mellitus syndrome",PHOEBE Recommendation
+4145827,Latent autoimmune diabetes mellitus in adult,PHOEBE Recommendation
+3655269,Glaucoma due to diabetes mellitus,PHOEBE Recommendation
+45772019,Glaucoma due to type 2 diabetes mellitus,PHOEBE Recommendation
+45757474,Diabetes mellitus type 2 without retinopathy,PHOEBE Recommendation
+4130162,Insulin treated type 2 diabetes mellitus,PHOEBE Recommendation
+4129519,Pregnancy and type 2 diabetes mellitus,PHOEBE Recommendation
+4063043,Pre-existing type 2 diabetes mellitus,PHOEBE Recommendation
+3198118,Poorly controlled diabetes mellitus,PHOEBE Recommendation
+439394,Congenital anomaly of face,PHOEBE Recommendation
+43531007,Pre-existing diabetes mellitus in pregnancy,PHOEBE Recommendation
+4009303,Diabetic ketoacidosis without coma,PHOEBE Recommendation
+37016768,Autonomic neuropathy due to type 2 diabetes mellitus,PHOEBE Recommendation
+43531616,Dermopathy due to type 2 diabetes mellitus,PHOEBE Recommendation
+4188598,High risk pregnancy,PHOEBE Recommendation
+31821,Disorder of endocrine system,Ancestor of gold-standard concept
+4130526,Disorder of glucose metabolism,Ancestor of gold-standard concept
